@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local News</title>
+    <style>
+        :root { --bg: #0f172a; --card: #1e293b; --accent: #38bdf8; --text: #f8fafc; --dim: #94a3b8; }
+        body { background: var(--bg); color: var(--text); font-family: sans-serif; padding: 20px; margin: 0; }
+        h1 { font-weight: 300; letter-spacing: 2px; color: var(--accent); text-align: center; }
+        .feed { max-width: 500px; margin: 0 auto; }
+        .article { 
+            background: var(--card); padding: 15px; border-radius: 12px; 
+            margin-bottom: 15px; border-left: 4px solid var(--accent);
+            cursor: pointer; transition: transform 0.2s;
+        }
+        .article:active { transform: scale(0.98); }
+        .title { font-weight: bold; font-size: 1.1rem; margin-bottom: 5px; display: block; }
+        .meta { font-size: 0.8rem; color: var(--dim); }
+        .loading { text-align: center; color: var(--dim); margin-top: 50px; }
+    </style>
+</head>
+<body>
+
+    <h1>LOCAL PULSE</h1>
+    <div id="news-feed" class="feed">
+        <div class="loading">Fetching local updates...</div>
+    </div>
+
+    <script>
+        // Use a local RSS feed. Example: CBC Toronto or a local paper's RSS.
+        const RSS_URL = `https://rss.cbc.ca/lineup/canada-toronto.xml`; 
+        const API_URL = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(RSS_URL)}`;
+
+        async function fetchNews() {
+            try {
+                const response = await fetch(API_URL);
+                const data = await response.json();
+                const container = document.getElementById('news-feed');
+                container.innerHTML = '';
+
+                data.items.slice(0, 10).forEach(item => {
+                    const card = document.createElement('div');
+                    card.className = 'article';
+                    card.onclick = () => window.open(item.link, '_blank');
+                    
+                    // Simplify the date
+                    const date = new Date(item.pubDate).toLocaleDateString([], { month: 'short', day: 'numeric' });
+
+                    card.innerHTML = `
+                        <span class="title">${item.title}</span>
+                        <span class="meta">${date} • ${item.author || 'Local News'}</span>
+                    `;
+                    container.appendChild(card);
+                });
+            } catch (error) {
+                document.getElementById('news-feed').innerHTML = '<div class="loading">Failed to load news.</div>';
+            }
+        }
+
+        fetchNews();
+        // Refresh every 30 minutes
+        setInterval(fetchNews, 1800000);
+    </script>
+</body>
+</html>
