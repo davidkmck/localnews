@@ -30,33 +30,49 @@
     <script>
         // Use a local RSS feed. Example: CBC Toronto or a local paper's RSS.
         const RSS_URL = `https://rss.cbc.ca/lineup/canada-toronto.xml`; 
-        const API_URL = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(RSS_URL)}`;
+        //const API_URL = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(RSS_URL)}`;
 
-        async function fetchNews() {
-            try {
-                const response = await fetch(API_URL);
-                const data = await response.json();
-                const container = document.getElementById('news-feed');
-                container.innerHTML = '';
+        // Use AllOrigins as a simple CORS proxy
+        const API_URL = `https://api.allorigins.win/get?url=${encodeURIComponent(RSS_URL)}`;
+        
 
-                data.items.slice(0, 10).forEach(item => {
-                    const card = document.createElement('div');
-                    card.className = 'article';
-                    card.onclick = () => window.open(item.link, '_blank');
-                    
-                    // Simplify the date
-                    const date = new Date(item.pubDate).toLocaleDateString([], { month: 'short', day: 'numeric' });
+async function fetchNews() {
+  try {
+    const response = await fetch(API_URL);
+    const data = await response.json();
+    
+    // Parse the raw XML string returned by the proxy
+    const parser = new DOMParser();
+    const xmlDoc = parser.parseFromString(data.contents, "text/xml");
+    
+    // Extract the news items
+    const items = Array.from(xmlDoc.querySelectorAll('item')).slice(0, 10);
+    const container = document.getElementById('news-feed');
+    container.innerHTML = '';
 
-                    card.innerHTML = `
-                        <span class="title">${item.title}</span>
-                        <span class="meta">${date} • ${item.author || 'Local News'}</span>
-                    `;
-                    container.appendChild(card);
-                });
-            } catch (error) {
-                document.getElementById('news-feed').innerHTML = '<div class="loading">Failed to load news.</div>';
-            }
-        }
+    items.forEach(item => {
+      const title = item.querySelector('title')?.textContent;
+      const link = item.querySelector('link')?.textContent;
+      const pubDate = item.querySelector('pubDate')?.textContent;
+      const author = item.querySelector('author')?.textContent || 'Local News';
+
+      const card = document.createElement('div');
+      card.className = 'article';
+      card.onclick = () => window.open(link, '_blank');
+
+      const date = new Date(pubDate).toLocaleDateString([], { month: 'short', day: 'numeric' });
+
+      card.innerHTML = `
+        <span class="title">${title}</span>
+        <span class="meta">${date} • ${author}</span>
+      `;
+      container.appendChild(card);
+    });
+  } catch (error) {
+    document.getElementById('news-feed').innerHTML = '<div class="loading">Failed to load news.</div>';
+    console.error(error);
+  }
+}
 
         fetchNews();
         // Refresh every 30 minutes
