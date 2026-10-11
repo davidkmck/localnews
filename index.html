@@ -29,12 +29,10 @@
     </div>
 
     <script>
-// Use a local RSS feed
-const RSS_URL = `https://rss.cbc.ca/lineup/canada-toronto.xml`;
 
-// Switch to CodeTabs proxy
-const API_URL = `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(RSS_URL)}`;
 
+const API_URL = 'feed.xml';
+        
 async function fetchNews() {
   try {
     const response = await fetch(API_URL);
