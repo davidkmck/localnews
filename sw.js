@@ -8,11 +8,28 @@ const ASSETS = [
   './icon-512.png'
 ];
 
-// Install: Cache initial assets
+// Install: Cache initial assets and force takeover
 self.addEventListener('install', event => {
+  self.skipWaiting(); 
   event.waitUntil(
     caches.open(CACHE_NAME).then(cache => cache.addAll(ASSETS))
   );
+});
+
+// Activate: Clean up old caches
+self.addEventListener('activate', event => {
+  event.waitUntil(
+    caches.keys().then(cacheNames => {
+      return Promise.all(
+        cacheNames.map(cacheName => {
+          if (cacheName !== CACHE_NAME) {
+            return caches.delete(cacheName);
+          }
+        })
+      );
+    })
+  );
+  self.clients.claim();
 });
 
 // Fetch: Network first, then fallback to cache if offline
