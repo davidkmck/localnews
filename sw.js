@@ -1,11 +1,11 @@
 const CACHE_NAME = 'localnews-v1';
 const ASSETS = [
-  '/localnews/',
-  '/localnews/index.html',
-  '/localnews/feed.xml',
-  '/localnews/manifest.json',
-  '/localnews/icon-192.png',
-  '/localnews/icon-512.png'
+  './',
+  './index.html',
+  './feed.xml',
+  './manifest.json',
+  './icon-192.png',
+  './icon-512.png'
 ];
 
 // Install: Cache initial assets
