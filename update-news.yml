@@ -1,0 +1,26 @@
+name: Update RSS Feed
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows you to run it manually
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Download CBC RSS Feed
+        run: curl -sL https://rss.cbc.ca/lineup/canada-toronto.xml -o feed.xml
+        
+      - name: Commit and push if changed
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add feed.xml
+          git commit -m "Update news feed" || exit 0
+          git push
