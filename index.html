@@ -4,6 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="data:,">
+
+    <link rel="manifest" href="/localnews/manifest.json">
+    <meta name="theme-color" content="#000000">
+    <!-- iOS support -->
+    <link rel="apple-touch-icon" href="/localnews/icon-192.png">
+    <meta name="apple-mobile-web-app-status-bar" content="#000000">
+    
     <title>Local News</title>
     <style>
         :root { --bg: #0f172a; --card: #1e293b; --accent: #38bdf8; --text: #f8fafc; --dim: #94a3b8; }
@@ -78,6 +85,13 @@ fetchNews();
 // Refresh every 30 minutes
 setInterval(fetchNews, 1800000);
 
+        if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/localnews/sw.js')
+      .then(reg => console.log('Service Worker registered', reg))
+      .catch(err => console.error('Service Worker failed', err));
+  });
+}
      
     </script>
 </body>
