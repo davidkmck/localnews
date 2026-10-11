@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="data:,">
     <title>Local News</title>
     <style>
         :root { --bg: #0f172a; --card: #1e293b; --accent: #38bdf8; --text: #f8fafc; --dim: #94a3b8; }
@@ -28,12 +29,11 @@
     </div>
 
     <script>
-
 // Use a local RSS feed
 const RSS_URL = `https://rss.cbc.ca/lineup/canada-toronto.xml`;
 
-// Use corsproxy.io which returns raw data directly
-const API_URL = `https://corsproxy.io/?${encodeURIComponent(RSS_URL)}`;
+// Switch to CodeTabs proxy
+const API_URL = `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(RSS_URL)}`;
 
 async function fetchNews() {
   try {
