@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Mon, 12 Oct 2026 18:26:40 EDT</lastBuildDate>
+      <lastBuildDate>Mon, 12 Oct 2026 21:34:37 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -14,23 +14,14 @@
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
       <item>
-         <title><![CDATA[Scott Mission's annual Thanksgiving lunch draws hundreds as need keeps growing, charity says]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/scott-mission-thanksgiving-lunch-cost-of-living-9.7378077?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/3a0c9053-14bb-450e-ad91-1294cf65f403,1791837148017/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C738%2C5712%2C3213%29%3B' alt='People stand around a big table and dole out meals in takebout boxes from large pans.' width='620' height='349' title='Scott Mission volunteers serve Thanksgiving dinners on Monday Oct. 12. The Toronto charity served over 500 meals this Thanksgiving.'/><p>Toronto charity Scott Mission served over 500 people at its annual Thanksgiving dinner in the city on Monday as concerns around food insecurity and cost of living in the city persist.</p>]]></description>
-         <pubDate>Mon, 12 Oct 2026 17:03:38 EDT</pubDate>
+         <title><![CDATA[At age 10, she started an annual walk for at-risk youth. 500km later, she completed her final trek]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/teen-fundraising-walk-at-risk-youth-9.7378295?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/994b0833-f4d1-48e5-9564-e0b273241982,1791850780357/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3B' alt='A girl smiles at the camera wearing a blue sash.' width='620' height='349' title='Evangeline Link completed her fifth and final annual fundraising walk for Covenant House, trekking about 100 kilometers over the Thanksgiving long weekend to raise awareness about youth homelessness.'/><p>For the last five Thanksgivings, 14-year-old Evangeline Link walked to raise money for Toronto youth charity Covenant House. After walking 500 kilometers and raising over $60,000, she completed her fifth and final fundraising walk Monday.</p>]]></description>
+         <pubDate>Mon, 12 Oct 2026 21:34:37 EDT</pubDate>
          <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7378077</guid>
+         <guid isPermaLink="false">9.7378295</guid>
          <dc:creator>Alina Snisarenko</dc:creator>
          <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Toronto teen's 100km Thanksgiving walk raises funds for homeless youth]]></title>
-         <link>https://www.cbc.ca/player/play/9.7378200?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/3c7cf12e-abaf-4909-a12c-c47dd046cf80,1791843891915/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A split screen photo of Toronto teen. Left: Smiling. Right: Climbing outdoor stairs in the rain.' width='620' height='349' title=''/><p>A 14-year-old Toronto girl spent her Thanksgiving weekend walking 100 kilometres to raise money for young people experiencing homelessness. As CBC's Greg Ross explains, Evangeline Link is marking her fifth and final annual fundraising walk for Covenant House Toronto.</p>]]></description>
-         <pubDate>Mon, 12 Oct 2026 18:26:40 EDT</pubDate>
-         <guid isPermaLink="false">9.7378200</guid>
-         <dc:type>video</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -40,6 +31,17 @@
          <pubDate>Mon, 12 Oct 2026 15:40:39 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7378132</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Scott Mission's annual Thanksgiving lunch draws hundreds as need keeps growing, charity says]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/scott-mission-thanksgiving-lunch-cost-of-living-9.7378077?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/3a0c9053-14bb-450e-ad91-1294cf65f403,1791837148017/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C738%2C5712%2C3213%29%3B' alt='People stand around a big table and dole out meals in takebout boxes from large pans.' width='620' height='349' title='Scott Mission volunteers serve Thanksgiving dinners on Monday Oct. 12. The Toronto charity served over 500 meals this Thanksgiving.'/><p>Toronto charity Scott Mission served over 500 people at its annual Thanksgiving dinner in the city on Monday as concerns around food insecurity and cost of living in the city persist.</p>]]></description>
+         <pubDate>Mon, 12 Oct 2026 17:03:38 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7378077</guid>
+         <dc:creator>Alina Snisarenko</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
