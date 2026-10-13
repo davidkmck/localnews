@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Tue, 13 Oct 2026 15:34:56 EDT</lastBuildDate>
+      <lastBuildDate>Tue, 13 Oct 2026 19:15:55 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -14,12 +14,34 @@
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
       <item>
-         <title><![CDATA[Toronto cyclists ask Canada's top court to weigh in on Ford's bike lane removal plan]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/supreme-court-bicycle-lanes-9.7378765?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.4138544,1715092373000/full/max/0/default.jpg?im=Crop%2Crect%3D%28286%2C97%2C2953%2C1661%29%3B' alt='A young family rides west on the Bloor Street bike lane in Toronto.' width='620' height='349' title='A young family rides west on the Bloor Street bike lane, near Palmerston Avenue, ahead of a Tuesday afternoon thunderstorm. '/><p>Cycle Toronto and its co-applicants have filed to seek leave to appeal to the Supreme Court of Canada over Ontario's plans to rip out 19 kilometres of bike lanes on three major arterial roads.</p>]]></description>
-         <pubDate>Tue, 13 Oct 2026 12:13:00 EDT</pubDate>
+         <title><![CDATA['Sudden and profoundly tragic': Inquest into woman's 2020 fatal fall off high-rise balcony underway]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/inquest-starts-toronto-fatal-fall-9.7378387?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.5700013,1598479458000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C607%2C341%29%3B' alt='' width='620' height='349' title='Regis Korchinski-Paquet died at age 29 after police were called to her apartment in Toronto.'/><p>A coroner's inquest is set to begin today to examine the death of Regis Korchinski-Paquet, a Toronto woman who fell from a highrise balcony while police were in her home more than six years ago.</p>]]></description>
+         <pubDate>Tue, 13 Oct 2026 08:18:44 EDT</pubDate>
          <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7378765</guid>
+         <guid isPermaLink="false">9.7378387</guid>
+         <dc:creator>Paola Loriggio</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Key organizer of Pearson gold heist says his money was taken during kidnapping in Pakistan]]></title>
+         <link>https://www.cbc.ca/news/canada/livestory/pearson-gold-heist-9.7378520?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/89443394-dd8a-4fc9-8a1e-d85ea01bd935,1791892210233/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B' alt='2023 airport gold heist suspect Arsalan Chaudhary, left, is seen next to an image of surveillance video in this combination image.' width='620' height='349' title='2023 airport gold heist suspect Arsalan Chaudhary, left, is seen next to an image of surveillance video in this combination image.'/><p></p>]]></description>
+         <pubDate>Mon, 12 Jan 2026 13:34:23 EST</pubDate>
+         <category>News</category>
+         <guid isPermaLink="false">9.7042313</guid>
+         <dc:type>contentpackage</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Ontarians prescribed safer supply drugs will now have to take them in front of health-care professionals]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/ontario-safe-supply-9.7379145?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/de49eb15-54b6-4c5d-a598-4ff6388c4e4a,1791916711824/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7867%2C4425%29%3B' alt='A client draws up fentanyl at a consumption site in Toronto on Dec. 3, 2024. THE CANADIAN PRESS/Chris Young' width='620' height='349' title='A client draws up fentanyl at a consumption site in Toronto on Dec. 3, 2024. THE CANADIAN PRESS/Chris Young'/><p>Ontario's medical regulator has approved significant changes to the way doctors prescribe safer supply drugs, in an effort to reduce the amount of opioids making their way to the streets.</p>]]></description>
+         <pubDate>Tue, 13 Oct 2026 14:49:03 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7379145</guid>
+         <dc:creator>Liam Casey</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -35,25 +57,23 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[Ontarians prescribed safer supply drugs will now have to take them in front of health-care professionals]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/ontario-safe-supply-9.7379145?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/de49eb15-54b6-4c5d-a598-4ff6388c4e4a,1791916711824/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7867%2C4425%29%3B' alt='A client draws up fentanyl at a consumption site in Toronto on Dec. 3, 2024. THE CANADIAN PRESS/Chris Young' width='620' height='349' title='A client draws up fentanyl at a consumption site in Toronto on Dec. 3, 2024. THE CANADIAN PRESS/Chris Young'/><p>Ontario's medical regulator has approved significant changes to the way doctors prescribe safer supply drugs, in an effort to reduce the amount of opioids making their way to the streets.</p>]]></description>
-         <pubDate>Tue, 13 Oct 2026 14:49:03 EDT</pubDate>
+         <title><![CDATA[Toronto cyclists ask Canada's top court to weigh in on Ford's bike lane removal plan]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/supreme-court-bicycle-lanes-9.7378765?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.4138544,1715092373000/full/max/0/default.jpg?im=Crop%2Crect%3D%28286%2C97%2C2953%2C1661%29%3B' alt='A young family rides west on the Bloor Street bike lane in Toronto.' width='620' height='349' title='A young family rides west on the Bloor Street bike lane, near Palmerston Avenue, ahead of a Tuesday afternoon thunderstorm. '/><p>Cycle Toronto and its co-applicants have filed to seek leave to appeal to the Supreme Court of Canada over Ontario's plans to rip out 19 kilometres of bike lanes on three major arterial roads.</p>]]></description>
+         <pubDate>Tue, 13 Oct 2026 12:13:00 EDT</pubDate>
          <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7379145</guid>
-         <dc:creator>Liam Casey</dc:creator>
+         <guid isPermaLink="false">9.7378765</guid>
+         <dc:creator>Kate McGillivray</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA['Sudden and profoundly tragic': Inquest into woman's 2020 fatal fall off high-rise balcony underway]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/inquest-starts-toronto-fatal-fall-9.7378387?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.5700013,1598479458000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C607%2C341%29%3B' alt='' width='620' height='349' title='Regis Korchinski-Paquet died at age 29 after police were called to her apartment in Toronto.'/><p>A coroner's inquest is set to begin today to examine the death of Regis Korchinski-Paquet, a Toronto woman who fell from a highrise balcony while police were in her home more than six years ago.</p>]]></description>
-         <pubDate>Tue, 13 Oct 2026 08:18:44 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7378387</guid>
-         <dc:creator>Paola Loriggio</dc:creator>
-         <dc:type>story</dc:type>
+         <title><![CDATA[Why 18 candidates are fighting for this Toronto council seat]]></title>
+         <link>https://www.cbc.ca/player/play/9.7379641?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/9addedba-8614-488a-ae54-66a887680f61,1791933331364/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B' alt='Aerial (drone) images of East Danforth residential and commercial neighbourhoods in late summer evening.' width='620' height='349' title='Aerial (drone) images of East Danforth residential and commercial neighbourhoods in late summer evening.'/><p>With longtime councillor Paula Fletcher stepping down, Ward 14 (Toronto-Danforth) has drawn 18 candidates looking to claim the open seat on city council. CBC’s Dale Manucdoc breaks down the crowded battleground.</p>]]></description>
+         <pubDate>Tue, 13 Oct 2026 19:15:55 EDT</pubDate>
+         <guid isPermaLink="false">9.7379641</guid>
+         <dc:type>video</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -75,16 +95,6 @@
          <guid isPermaLink="false">9.7378763</guid>
          <dc:creator>Olivia Piercey</dc:creator>
          <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Key organizer of Pearson gold heist says his money was taken during kidnapping in Pakistan]]></title>
-         <link>https://www.cbc.ca/news/canada/livestory/pearson-gold-heist-9.7378520?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/89443394-dd8a-4fc9-8a1e-d85ea01bd935,1791892210233/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B' alt='2023 airport gold heist suspect Arsalan Chaudhary, left, is seen next to an image of surveillance video in this combination image.' width='620' height='349' title='2023 airport gold heist suspect Arsalan Chaudhary, left, is seen next to an image of surveillance video in this combination image.'/><p></p>]]></description>
-         <pubDate>Mon, 12 Jan 2026 13:34:23 EST</pubDate>
-         <category>News</category>
-         <guid isPermaLink="false">9.7042313</guid>
-         <dc:type>contentpackage</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -125,6 +135,17 @@
          <pubDate>Mon, 12 Oct 2026 15:40:39 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7378132</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Shock and surprise after FBI arrests Canadian cybersecurity expert in ShinyHunters hacking case]]></title>
+         <link>https://www.cbc.ca/news/canada/canadian-cybersecurity-expert-arrested-fbi-shinyhunters-9.7378256?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/caf1ee22-fdc0-4c1a-a908-34e1b4a41d4b,1791847273253/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C234%2C4500%2C2531%29%3B' alt='A close-up of the FBI logo.' width='620' height='349' title='FILE - An FBI seal is displayed on a podium before a news conference at the field office in Portland, Ore., Jan. 16, 2025. (AP Photo/Jenny Kane, File)'/><p>Canadians in the cybersecurity world say they were shocked to hear a prominent ransomware negotiator was arrested by the FBI over suspected connections to criminal hacking group ShinyHunters.</p>]]></description>
+         <pubDate>Mon, 12 Oct 2026 20:10:00 EDT</pubDate>
+         <category>News/Canada</category>
+         <guid isPermaLink="false">9.7378256</guid>
+         <dc:creator>Kevin Maimann, Thomas Daigle</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -200,28 +221,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7374737</guid>
          <dc:creator>Tyler Cheese</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Top Toronto mayoral candidates attend food bank’s annual Thanksgiving sort]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/toronto-mayoral-candidates-attend-thanksgiving-food-sort-9.7377294?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/895d7bed-dcc3-4eda-999b-6a13397605fe,1791666060395/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B' alt='People standing around a table sorting food into boxes' width='620' height='349' title=''/><p>Hundreds of volunteers, including Toronto’s top mayoral candidates, attended the Daily Bread Food Bank’s annual Thanksgiving food sort in Etobicoke Saturday, ahead of the holiday.</p>]]></description>
-         <pubDate>Sat, 10 Oct 2026 17:38:07 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7377294</guid>
-         <dc:creator>Gabriela Silva Ponte</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[7 food charity trucks out of service after catalytic converters stolen from Etobicoke yard: CEO]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/seven-food-trucks-out-of-service-second-harvest-yard-broken-into-converters-stolen-9.7377701?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/a28d69ec-786e-406b-8aa6-24e4885d14c3,1791745870086/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C572%2C1247%2C701%29%3B' alt='Wire fence cut through' width='620' height='349' title=''/><p>A Toronto charity says it is disappointed and outraged after its yard was broken into and catalytic converters were stolen from its food rescue trucks early Sunday.</p>]]></description>
-         <pubDate>Sun, 11 Oct 2026 15:52:49 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7377701</guid>
-         <dc:creator>Gabriela Silva Ponte</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
