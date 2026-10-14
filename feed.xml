@@ -6,13 +6,24 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Tue, 13 Oct 2026 21:50:49 EDT</lastBuildDate>
+      <lastBuildDate>Wed, 14 Oct 2026 04:00:00 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[Can Blue Rodeo or Rush swing the balance of power in Toronto? How endorsements factor in to the mayoral race]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/toronto-mayoral-race-endorsements-9.7379352?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/60d61c1d-3979-4990-9a25-0abd262158a7,1791924442500/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1080%2C607%29%3B' alt='Jim Cuddy (left) plays at the launch of Olivia Chow&apos;s 2026 mayoral campaign, while Geddy Lee (right) stands with his dog in a promotional photo for the Brad Bradford campaign.' width='620' height='349' title='Jim Cuddy (left) and Geddy Lee (right) have both endorsed candidates for mayor in Toronto&apos;s election.'/><p>As polls show the race to be Toronto’s next mayor is tightening, experts say endorsements can help Brad Bradford and Olivia Chow show they’ve got momentum in the final stretch.</p>]]></description>
+         <pubDate>Wed, 14 Oct 2026 04:00:00 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7379352</guid>
+         <dc:creator>Isaac Callan</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA['How painfully you are missed': Widow of man killed in head-on crash describes loss at sentencing hearing]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/andrew-cristillo-victim-impact-statement-9.7379617?cmp=rss</link>
@@ -210,17 +221,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7378077</guid>
          <dc:creator>Alina Snisarenko</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Can social media engage apathetic young voters in Ontario's elections?]]></title>
-         <link>https://www.cbc.ca/news/canada/kitchener-waterloo/can-social-media-engage-apathetic-young-voters-in-ontario-s-elections-9.7369589?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/c7bad545-c3b5-4f3e-9ccd-e57e5271b8fb,1791502382861/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2000%2C1125%29%3B' alt='collage of three faces' width='620' height='349' title='Students Florence Yan (left), Neel Laroiya (centre) and Sebastian Wang shared their thoughts on the upcoming municipal election during a CBC event at the University of Waterloo.'/><p>As Ontario holds municipal elections this month, some young candidates and first-time voters say social media is playing an increasing role in engaging attention in the ballot.</p>]]></description>
-         <pubDate>Mon, 12 Oct 2026 06:00:00 EDT</pubDate>
-         <category>News/Canada/Kitchener-Waterloo</category>
-         <guid isPermaLink="false">9.7369589</guid>
-         <dc:creator>Aastha Shetty</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
