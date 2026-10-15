@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Thu, 15 Oct 2026 15:17:13 EDT</lastBuildDate>
+      <lastBuildDate>Thu, 15 Oct 2026 17:38:01 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -14,13 +14,45 @@
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
       <item>
-         <title><![CDATA[Hundreds of thousands of dollars have been wagered on Ontario municipal races via prediction markets]]></title>
+         <title><![CDATA[Prediction markets are taking big bets on Ontario municipal races. Here's what the rules say]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/prediction-markets-municipal-elections-9.7382020?cmp=rss</link>
          <description><![CDATA[<img src='https://i.cbc.ca/ais/a8b291ea-2ffb-4f04-88c3-bf7185a22a46,1777815632741/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B' alt='Polymarket Prediction Market Platform Logo On Digital Screen With Stock Market Graph Background' width='620' height='349' title='New,York,City,,New,York,-,August,1,2025:,Polymarket'/><p>Betting on the outcome of elections isn’t allowed in Canada — but that’s not stopping prediction market websites like Polymarket and Kalshi from taking hundreds of thousands of dollars in wagers on who will win Ontario’s municipal races this October.</p>]]></description>
          <pubDate>Thu, 15 Oct 2026 14:32:47 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7382020</guid>
          <dc:creator>Kate McGillivray</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[3rd person arrested as cyclists protest removal of bike lanes in Toronto]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/three-arrests-bike-lane-removal-protest-police-9.7382553?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1f6fc6ed-5264-4f73-8d6f-ec755c898e47,1792098800508/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C602%2C8640%2C4860%29%3B' alt='Police and protesters stand by as workers begin to remove the bike lanes along Bloor Street West in Toronto on Wednesday, Oct. 14, 2026. THE CANADIAN PRESS/Arlyn McAdorey' width='620' height='349' title='Police and protesters stand by as workers begin to remove the bike lanes along Bloor Street West in Toronto on Wednesday, Oct. 14, 2026. THE CANADIAN PRESS/Arlyn McAdorey'/><p>A third person was arrested on Thursday as part of an ongoing protest by cyclists opposed to the removal of bike lanes in Toronto.</p>]]></description>
+         <pubDate>Thu, 15 Oct 2026 17:29:25 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7382553</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Inquest into death of Regis Korchinski-Paquet sees her final moments before fall from Toronto balcony]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/ont-inquest-korchinski-paquet-9.7382392?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.5700013,1598479458000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C607%2C341%29%3B' alt='' width='620' height='349' title='Regis Korchinski-Paquet died at age 29 after police were called to her apartment in Toronto.'/><p>A coroner's inquest into the death of Regis Korchinski-Paquet has watched and listened to some of the 29-year-old woman's final moments before she fell to her death from a 24th-floor balcony.</p>]]></description>
+         <pubDate>Thu, 15 Oct 2026 15:57:45 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7382392</guid>
+         <dc:creator>Paola Loriggio</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Part of DVP to be closed Thursday night for demolition of building after suspicious fire: city]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/jam-factory-fire-toronto-9.7381481?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/9c941d52-a343-4f4d-a6af-261ab9b39efa,1792068653219/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B' alt='Fire damage and police tape outside of Jam Factory in Toronto.' width='620' height='349' title='Toronto police said the fire at the vacant Jam Factory in Toronto is being investigated as a suspicious incident.'/><p>A portion of the Don Valley Parkway in Toronto's east end will be closed Thursday night for a demolition after a large blaze at an abandoned building, fire services and the city say.</p>]]></description>
+         <pubDate>Thu, 15 Oct 2026 06:21:57 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7381481</guid>
+         <dc:creator>Arrthy Thayaparan, Gabriela Silva Ponte</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -69,13 +101,12 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[Fire at vacant Toronto building being investigated as suspicious: police]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/jam-factory-fire-toronto-9.7381481?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/9c941d52-a343-4f4d-a6af-261ab9b39efa,1792068653219/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B' alt='Fire damage and police tape outside of Jam Factory in Toronto.' width='620' height='349' title='Toronto police said the fire at the vacant Jam Factory in Toronto is being investigated as a suspicious incident.'/><p>Fire crews battled a large blaze in Toronto on Wednesday night that temporarily shut down sections of the Gardiner Expressway and Don Valley Parkway, emergency responders said.</p>]]></description>
-         <pubDate>Thu, 15 Oct 2026 06:21:57 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7381481</guid>
-         <dc:type>story</dc:type>
+         <title><![CDATA[Did Toronto actually fix Regent Park?]]></title>
+         <link>https://www.cbc.ca/player/play/9.7382284?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/2762f101-d948-451a-9f38-bd04e75971b0,1792093950722/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1672%2C940%29%3B' alt='Billions spent. Thousands displaced. CBC&apos;s Igor Petrov goes inside Canada&apos;s biggest public housing experiment to see if the massive revitalization of Toronto&apos;s Regent Park is a successful blueprint for urban renewal — or a failed experiment.' width='620' height='349' title='Billions spent. Thousands displaced. CBC&apos;s Igor Petrov goes inside Canada&apos;s biggest public housing experiment to see if the massive revitalization of Toronto&apos;s Regent Park is a successful blueprint for urban renewal — or a failed experiment.'/><p>Billions spent. Thousands displaced. CBC's Igor Petrov goes inside Canada's biggest public housing experiment to see if the massive revitalization of Toronto's Regent Park is a successful blueprint for urban renewal — or a failed experiment.</p>]]></description>
+         <pubDate>Thu, 15 Oct 2026 15:33:53 EDT</pubDate>
+         <guid isPermaLink="false">9.7382284</guid>
+         <dc:type>video</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -194,37 +225,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7380526</guid>
          <dc:creator>Maya Fernandez</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Can Blue Rodeo or Rush swing the balance of power in Toronto? How endorsements affect the mayoral race]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/toronto-mayoral-race-endorsements-9.7379352?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/d2d09be7-a5c9-421b-b0fe-6cc0551f4ab2,1791987192057/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1179%2C663%29%3B' alt='Jim Cuddy playing guitar on left and smiling, Geddy Lee smiling and holding a small fuzzy dog.' width='620' height='349' title='Blue Rodeo&apos;s Jim Cuddy, left, and Rush&apos;s Geddy Lee, right, have both endorsed candidates for mayor in Toronto&apos;s election.'/><p>As polls show the race to be Toronto’s next mayor is tightening, experts say endorsements can help Brad Bradford and Olivia Chow show they’ve got momentum in the final stretch.</p>]]></description>
-         <pubDate>Wed, 14 Oct 2026 04:00:00 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7379352</guid>
-         <dc:creator>Isaac Callan</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Phillies name Don Mattingly full-time manager, signing ex-Blue Jays coach to 2-year deal]]></title>
-         <link>https://www.cbc.ca/sports/baseball/mlb/don-mattingly-phillies-manager-2-year-deal-mlb-9.7380353?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/12eae2b7-d695-49d7-a0d2-8e6d774606f5,1791993918113/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3B' alt='Philadelphia Phillies interim manager Don Mattingly reacts in the second inning of a May 6, 2026 MLB regular-season game against the visiting Athletics at Citizens Bank Park in Pennsylvania.' width='620' height='349' title='Former Phillies interim manager Don Mattingly led the team to a 79-55 record and a spot in the post-season after he replaced the fired Rob Thomson in late April.'/><p>The Philadelphia Phillies are keeping Don Mattingly as manager, removing his interim tag, and giving him a two-year deal even after a late season collapse nearly cost the team a playoff spot.</p>]]></description>
-         <pubDate>Wed, 14 Oct 2026 12:24:10 EDT</pubDate>
-         <category>Sports/Baseball/MLB</category>
-         <guid isPermaLink="false">9.7380353</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Farm Boy, L'Ancêtre and Life Smart organic cheeses recalled for possible Listeria contamination]]></title>
-         <link>https://www.cbc.ca/news/canada/organic-cheese-recall-farm-boy-l-ancetre-life-smart-9.7380689?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/acdcf6d4-5fc6-42a7-abc3-3bbe25d9d089,1792005739591/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C42%2C660%2C371%29%3B' alt='Cheese in a package with the brand name Farm Boy' width='620' height='349' title='The Canadian Food Inspection Agency is recalling several kinds of organic cheese, including select Farm Boy products, due to possible listeria contamination.'/><p>The Canadian Food Inspection Agency is recalling several organic cheese products under the Farm Boy, L'Ancêtre, and Life Smart brands due to possible Listeria contamination.</p>]]></description>
-         <pubDate>Wed, 14 Oct 2026 15:22:44 EDT</pubDate>
-         <category>News/Canada</category>
-         <guid isPermaLink="false">9.7380689</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
