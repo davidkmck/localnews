@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Thu, 15 Oct 2026 17:38:01 EDT</lastBuildDate>
+      <lastBuildDate>Thu, 15 Oct 2026 19:56:02 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -16,7 +16,7 @@
       <item>
          <title><![CDATA[Prediction markets are taking big bets on Ontario municipal races. Here's what the rules say]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/prediction-markets-municipal-elections-9.7382020?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/a8b291ea-2ffb-4f04-88c3-bf7185a22a46,1777815632741/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B' alt='Polymarket Prediction Market Platform Logo On Digital Screen With Stock Market Graph Background' width='620' height='349' title='New,York,City,,New,York,-,August,1,2025:,Polymarket'/><p>Betting on the outcome of elections isn’t allowed in Canada — but that’s not stopping prediction market websites like Polymarket and Kalshi from taking hundreds of thousands of dollars in wagers on who will win Ontario’s municipal races this October.</p>]]></description>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/a8b291ea-2ffb-4f04-88c3-bf7185a22a46,1792105345706/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B' alt='Polymarket Prediction Market Platform Logo On Digital Screen With Stock Market Graph Background' width='620' height='349' title='New,York,City,,New,York,-,August,1,2025:,Polymarket'/><p>Betting on the outcome of elections isn’t allowed in Canada — but that’s not stopping prediction market websites like Polymarket and Kalshi from taking hundreds of thousands of dollars in wagers on who will win Ontario’s municipal races this October.</p>]]></description>
          <pubDate>Thu, 15 Oct 2026 14:32:47 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7382020</guid>
@@ -65,6 +65,15 @@
          <guid isPermaLink="false">9.7381948</guid>
          <dc:creator>Nicole Brockbank</dc:creator>
          <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[How ads pitched OSAP as $50K in free cash]]></title>
+         <link>https://www.cbc.ca/player/play/9.7382795?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1fd1b925-0503-40ad-b0fe-ccd0d00a0f23,1792106354090/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Screenshot of ads,' width='620' height='349' title='Social media pitches by third-party recruiters promised $50,000 in grants, free laptops and referral money to lure people into applying for OSAP.'/><p>Social media pitches by third-party recruiters promised $50,000 in grants, free laptops and referral money to lure people into applying for OSAP. As Ontario pauses funding for private career colleges amid an OPP review, CBC’s Lorenda Reddekopp breaks down what we know about the ads and the growing calls for the Minister of Colleges and Universities to step down.</p>]]></description>
+         <pubDate>Thu, 15 Oct 2026 19:26:04 EDT</pubDate>
+         <guid isPermaLink="false">9.7382795</guid>
+         <dc:type>video</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -215,17 +224,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7380018</guid>
          <dc:type>livestory</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Second Harvest receives $60K donation to repair 7 food trucks after catalytic converters stolen Sunday]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/seven-food-trucks-out-of-service-second-harvest-receives-donation-9.7380526?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/8945a470-3c1e-4a04-9d52-d69f99dc9f5b,1791918486892/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Truck with advertising on side' width='620' height='349' title=''/><p>A Toronto family business donated $60,000 to help charity Second Harvest replace the catalytic converters of 7 of its food rescue trucks after they were stolen early Sunday, putting most of its fleet out of commission for weeks.</p>]]></description>
-         <pubDate>Wed, 14 Oct 2026 13:59:57 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7380526</guid>
-         <dc:creator>Maya Fernandez</dc:creator>
-         <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
    </channel>
