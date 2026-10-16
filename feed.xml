@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Fri, 16 Oct 2026 09:56:16 EDT</lastBuildDate>
+      <lastBuildDate>Fri, 16 Oct 2026 14:41:28 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -14,13 +14,13 @@
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
       <item>
-         <title><![CDATA[OSAP pause impacting National Ballet School, divinity college students]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/osap-pause-impact-national-ballet-school-divinity-college-9.7383226?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/066b9ba8-352f-4d66-b4c5-a71ab8471125,1792156841398/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C375%2C6453%2C3629%29%3B' alt='Sign for a school outside' width='620' height='349' title='Canada&apos;s National Ballet School&apos;s outdoor sign, Toronto.'/><p>A recent pause on financial assistance payments to private post-secondary institutions in Ontario is affecting divinity schools, Canada's National Ballet School and many others, with students feeling unfairly swept up in what they describe as a trawling net-like policy.</p>]]></description>
-         <pubDate>Fri, 16 Oct 2026 09:53:10 EDT</pubDate>
+         <title><![CDATA[Waymo to launch first phase of driverless taxi testing in Toronto with service expected in 2028]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/waymo-autonomous-driving-robotaxi-toronto-2028-9.7383437?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/d72d35b7-fa1b-4846-a0bf-a9ba1fe42ea5,1792158273078/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C282%2C5414%2C3045%29%3B' alt='A white vehicle with cameras and gear on it.' width='620' height='349' title='A Waymo vehicle drives past a No U-Turn sign in San Bruno, Calif., Tuesday, Sept. 30, 2025.'/><p>Autonomous vehicle operator Waymo is officially coming to Canada with the driverless ride-hailing service expected to launch in Toronto in 2028, the company says.</p>]]></description>
+         <pubDate>Fri, 16 Oct 2026 11:34:18 EDT</pubDate>
          <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7383226</guid>
-         <dc:creator>Allison Jones</dc:creator>
+         <guid isPermaLink="false">9.7383437</guid>
+         <dc:creator>Arrthy Thayaparan</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -37,12 +37,32 @@ released a report Thursday detailing lack of availability of French Language ser
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
+         <title><![CDATA[Where to find the best fall colours in Ontario]]></title>
+         <link>https://www.cbc.ca/player/play/9.7383915?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/713e5cbe-5ac7-419d-a6c8-ccfc35ee411c,1762195982215/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C317%2C1320%2C742%29%3B' alt='Arial view of a road next to a lake surrounded by trees with fall colours' width='620' height='349' title=''/><p>Ontario Parks' fall colour report tracks the changing leaves at provincial parks across the province. CBC meteorologist Colette Kennedy breaks down where you can find the best view.</p>]]></description>
+         <pubDate>Fri, 16 Oct 2026 14:41:28 EDT</pubDate>
+         <guid isPermaLink="false">9.7383915</guid>
+         <dc:type>video</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
          <title><![CDATA[York police identify suspect vehicle in fatal hit and run investigation in Vaughan]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/suspect-vehicle-fatal-hit-and-run-vaughan-9.7383195?cmp=rss</link>
          <description><![CDATA[<img src='https://i.cbc.ca/ais/a618088d-0263-4c53-bc91-1e7bea9f255c,1792155695626/full/max/0/default.jpg?im=Crop%2Crect%3D%2859%2C0%2C1781%2C1001%29%3B' alt='Photo of a white sprinter van on a road' width='620' height='349' title='York Regional Police have identified a Mercedes-Benz Sprinter van as a suspect vehicle in the fatal hit and run of a Richmond Hill woman last week.'/><p>York police have identified a suspect vehicle they believe was involved in a hit and run that left a woman dead in Vaughan earlier this month.</p>]]></description>
          <pubDate>Fri, 16 Oct 2026 09:13:49 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7383195</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[OSAP pause impacting National Ballet School, divinity college students]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/osap-pause-impact-national-ballet-school-divinity-college-9.7383226?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/066b9ba8-352f-4d66-b4c5-a71ab8471125,1792156841398/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C375%2C6453%2C3629%29%3B' alt='Sign for a school outside' width='620' height='349' title='Canada&apos;s National Ballet School&apos;s outdoor sign, Toronto.'/><p>A recent pause on financial assistance payments to private post-secondary institutions in Ontario is affecting divinity schools, Canada's National Ballet School and many others, with students feeling unfairly swept up in what they describe as a trawling net-like policy.</p>]]></description>
+         <pubDate>Fri, 16 Oct 2026 09:53:10 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7383226</guid>
+         <dc:creator>Allison Jones</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -201,27 +221,6 @@ released a report Thursday detailing lack of availability of French Language ser
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7380358</guid>
          <dc:creator>Alina Snisarenko</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Man arrested after 2 alleged sexual assaults at Scarborough school: Toronto police]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/toronto-man-arrested-sexual-assault-school-scarborough-9.7381635?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/83aec328-ff43-433a-bc76-2d28f1333846,1792070424054/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2000%2C1125%29%3B' alt='Police photo of man' width='620' height='349' title='Toronto police say they arrested 24-year-old Shaffat Hussain of Toronto for alleged sexual assault.'/><p>A 24-year-old man allegedly posed as a grade 12 student and sexually assaulted two students at a Toronto school last month, police say.</p>]]></description>
-         <pubDate>Thu, 15 Oct 2026 09:41:46 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7381635</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Real estate developer testifies he gave 'Crypto King’ Aiden Pleterski $4.5M to invest]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/crypto-king-trial-aiden-pleterski-sacha-singh-9.7380982?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/fb86c0f6-7a66-494b-a02d-837bc6f26d2a,1792013347832/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C103%2C3545%2C1994%29%3B' alt='A court sketch of the screen in court showing a man testifying via Zoom.' width='620' height='349' title='Sacha Singh testified remotely by Zoom at the fraud trial of self-described &quot;Crypto King&quot; Aiden Pleterski on Oct. 14, 2026. The real estate developer invested more than $4.5 million with Pleterski between April 2021 and January 2022.'/><p>Real estate developer Sacha Singh tells a Toronto court he gave self-described "Crypto King" Aiden Pleterski more than $4.5 million to trade in foreign exchange and cryptocurrency. That’s more than any of the 11 investors who’ve been called so far as Crown witnesses at Pleterski’s fraud trial. Most say they never got any money back.</p>]]></description>
-         <pubDate>Wed, 14 Oct 2026 19:19:31 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7380982</guid>
-         <dc:creator>Nicole Brockbank</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
