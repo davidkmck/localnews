@@ -6,13 +6,23 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Fri, 16 Oct 2026 19:50:24 EDT</lastBuildDate>
+      <lastBuildDate>Fri, 16 Oct 2026 21:40:03 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[Accessibility 'scavenger' hunt to help rank Toronto spaces for people with disabilities]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/map-mission-day-access-now-app-people-with-disabilities-9.7384986?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/66861c6a-3ce2-49bf-9a4f-9c7a560c7a7d,1792198354717/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='MAM-AR 20240324 TP WILLIAMS APPLICATION HANDICAPS 18H.Sub.01_frame_2616' width='620' height='349' title='MAM-AR 20240324 TP WILLIAMS APPLICATION HANDICAPS 18H.Sub.01_frame_2616'/><p>Residents and advocates will gather in Toronto on Saturday to help map how accessible public spaces in the city are as part of an annual event, known as MapMission Day.</p>]]></description>
+         <pubDate>Fri, 16 Oct 2026 21:27:07 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7384986</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[‘Crypto King’ spent $16.3M of investor funds on cars, credit cards, jets, security, accountant testifies]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/crypto-king-spent-16-3m-of-investor-funds-on-cars-credit-cards-jets-security-accountant-testifies-9.7384413?cmp=rss</link>
@@ -21,6 +31,17 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7384413</guid>
          <dc:creator>Nicole Brockbank</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Waymo to launch first phase of driverless taxi testing in Toronto with service expected in 2028]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/waymo-autonomous-driving-robotaxi-toronto-2028-9.7383437?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/d72d35b7-fa1b-4846-a0bf-a9ba1fe42ea5,1792158273078/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C282%2C5414%2C3045%29%3B' alt='A white vehicle with cameras and gear on it.' width='620' height='349' title='A Waymo vehicle drives past a No U-Turn sign in San Bruno, Calif., Tuesday, Sept. 30, 2025.'/><p>Autonomous vehicle operator Waymo is officially coming to Canada with the driverless ride-hailing service expected to launch in Toronto in 2028, the company says.</p>]]></description>
+         <pubDate>Fri, 16 Oct 2026 11:34:18 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7383437</guid>
+         <dc:creator>Arrthy Thayaparan</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -52,17 +73,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7384110</guid>
          <dc:creator>Christian D'Avino</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Waymo to launch first phase of driverless taxi testing in Toronto with service expected in 2028]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/waymo-autonomous-driving-robotaxi-toronto-2028-9.7383437?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/d72d35b7-fa1b-4846-a0bf-a9ba1fe42ea5,1792158273078/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C282%2C5414%2C3045%29%3B' alt='A white vehicle with cameras and gear on it.' width='620' height='349' title='A Waymo vehicle drives past a No U-Turn sign in San Bruno, Calif., Tuesday, Sept. 30, 2025.'/><p>Autonomous vehicle operator Waymo is officially coming to Canada with the driverless ride-hailing service expected to launch in Toronto in 2028, the company says.</p>]]></description>
-         <pubDate>Fri, 16 Oct 2026 11:34:18 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7383437</guid>
-         <dc:creator>Arrthy Thayaparan</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -211,15 +221,6 @@ released a report Thursday detailing lack of availability of French Language ser
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7382553</guid>
          <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[How ads pitched OSAP as $50K in free cash]]></title>
-         <link>https://www.cbc.ca/player/play/9.7382795?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/1fd1b925-0503-40ad-b0fe-ccd0d00a0f23,1792106354090/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Screenshot of ads,' width='620' height='349' title='Social media pitches by third-party recruiters promised $50,000 in grants, free laptops and referral money to lure people into applying for OSAP.'/><p>Social media pitches by third-party recruiters promised $50,000 in grants, free laptops and referral money to lure people into applying for OSAP. As Ontario pauses funding for private career colleges amid an OPP review, CBC’s Lorenda Reddekopp breaks down what we know about the ads and the growing calls for the Minister of Colleges and Universities to step down.</p>]]></description>
-         <pubDate>Thu, 15 Oct 2026 19:26:04 EDT</pubDate>
-         <guid isPermaLink="false">9.7382795</guid>
-         <dc:type>video</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
    </channel>
