@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Sun, 18 Oct 2026 05:00:00 EDT</lastBuildDate>
+      <lastBuildDate>Sun, 18 Oct 2026 10:46:32 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -21,6 +21,16 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7384442</guid>
          <dc:creator>Shawn Jeffords</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[City crews repairing water main break in North York, roads closed]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/water-main-break-repairs-sheppard-leslie-north-york-toronto-9.7385851?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/9f9baf37-0320-4968-a406-8e0accb4b2d5,1792332583337/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5712%2C3213%29%3B' alt='Large flooding from water main break in front of TTC Leslie Station' width='620' height='349' title='A water main broke in the morning on Oct. 18, 2026, flooding parts of North York along Sheppard Avenue E.'/><p>North York residents are being warned of road closures as city crews repair a water main break that burst Sunday morning.</p>]]></description>
+         <pubDate>Sun, 18 Oct 2026 10:46:32 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7385851</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -211,17 +221,6 @@ It was Ottawa's first victory this season and first at home since Sept. 5, 2025.
          <pubDate>Fri, 16 Oct 2026 18:19:58 EDT</pubDate>
          <guid isPermaLink="false">9.7384704</guid>
          <dc:type>video</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Toronto 18 ringleader no longer shows signs of extremism, granted full parole: board]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/ont-toronto18-parole-9.7384467?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/16fa9642-5765-45ae-a31a-3fbf59b090e3,1792183770893/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C233%2C4490%2C2525%29%3B' alt='Parole Board of Canada letterhead is seen on a Government of Canada document in Ottawa, on Tuesday, Nov. 26, 2024. THE CANADIAN PRESS/Spencer Colby' width='620' height='349' title='Parole Board of Canada letterhead is seen on a Government of Canada document in Ottawa, on Tuesday, Nov. 26, 2024. THE CANADIAN PRESS/Spencer Colby'/><p>Zakaria Amara, one of the ringleaders of the thwarted Toronto 18 terror plot, has been granted full parole after the Parole Board of Canada found he no longer showed "any signs of holding onto extremist beliefs or radical ideologies."</p>]]></description>
-         <pubDate>Fri, 16 Oct 2026 17:14:09 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7384467</guid>
-         <dc:creator>Paola Loriggio</dc:creator>
-         <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
    </channel>
