@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Sun, 18 Oct 2026 15:27:33 EDT</lastBuildDate>
+      <lastBuildDate>Sun, 18 Oct 2026 17:34:08 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -46,6 +46,15 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
+         <title><![CDATA[Toronto home prices drop nearly 4% compared to 2025]]></title>
+         <link>https://www.cbc.ca/player/play/9.7386131?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/a791b085-44ae-419b-bf2f-52470498e27e,1792358682848/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Recent reports from Royal LePage and the Canadian Real Estate Association show that home prices have dropped nationally and in Toronto. The city is seeing a 3.7 per cent decline in prices compared to the same time last year.' width='620' height='349' title='Recent reports from Royal LePage and the Canadian Real Estate Association show that home prices have dropped nationally and in Toronto. The city is seeing a 3.7 per cent decline in prices compared to the same time last year.'/><p>Recent reports from Royal LePage and the Canadian Real Estate Association show that home prices have dropped nationally and in Toronto. The city is seeing a 3.7 per cent decline in prices compared to the same time last year. CBC's Tyler Cheese has more on what factors are impacting the market.</p>]]></description>
+         <pubDate>Sun, 18 Oct 2026 17:26:59 EDT</pubDate>
+         <guid isPermaLink="false">9.7386131</guid>
+         <dc:type>video</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
          <title><![CDATA[Oshawa's growing homeless and addiction crisis takes centre stage in mayoral race]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/oshawa-s-growing-homeless-and-addiction-crisis-takes-centre-stage-in-mayoral-race-9.7383853?cmp=rss</link>
          <description><![CDATA[<img src='https://i.cbc.ca/ais/1.5842683,1608067833000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C375%2C4032%2C2268%29%3B' alt='' width='620' height='349' title='Oshawa&apos;s mayor says levels of homelessness have sky-rocketed in the city since the start of the COVID-19 pandemic. To help offset those increasing numbers, the city has launched a pilot project that pairs with members of faith communities with people experiencing homelessness. '/><p>During a live CBC Metro Morning taping in Oshawa this week, frontline workers and advocates outlined why the city's homeless and addiction crisis is at the forefront of this municipal election cycle.</p>]]></description>
@@ -65,6 +74,25 @@
          <guid isPermaLink="false">9.7384487</guid>
          <dc:creator>Jeff Lagerquist</dc:creator>
          <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Kenya's Langat retains men's title, Canada's Davies has historic debut at Toronto Waterfront Marathon]]></title>
+         <link>https://www.cbc.ca/sports/olympics/summer/athletics/2026-toronto-waterfront-marathon-recap-9.7386064?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/8827e250-740a-42e5-8e7b-db3b5a7e7436,1792353809895/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C210%2C5000%2C2812%29%3B' alt='A male marathon runner holds up both index fingers as he breaks through a finish line banner.' width='620' height='349' title='Leonard Langat of Kenya wins the men&apos;s division in last year&apos;s Toronto Waterfront Marathon.'/><p>Kenya's Leonard Langat successfully defended his title while Andrew Davies of Vancouver made Canadian history on Sunday at the Toronto Waterfront Marathon. Leah Jeruto, also of Kenya, won the women's race.</p>]]></description>
+         <pubDate>Sun, 18 Oct 2026 16:04:15 EDT</pubDate>
+         <category>Sports/Olympics Summer/Athletics</category>
+         <guid isPermaLink="false">9.7386064</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Toronto Pearson Airport partners with Autism Ontario to host accessibility event]]></title>
+         <link>https://www.cbc.ca/player/play/9.7386076?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/896e3242-1b5a-41ef-8c6d-895f58a7a68a,1792354745273/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='More than 200 participants took part in a familiarization tour to help autistic and neurodivergent individuals gain confidence in navigating the airport.' width='620' height='349' title='The Pearson International Airport partnered with Autism Ontario and Air Transat to host the fourth annual &apos;Ready, Set, Fly ... with YYZ&apos; event.'/><p>The Pearson International Airport partnered with Autism Ontario and Air Transat to host the fourth annual 'Ready, Set, Fly ... with YYZ' event on Sunday. More than 200 participants took part in a familiarization tour to help autistic and neurodivergent individuals gain confidence in navigating the airport. CBC's Mercedes Gaztambide has the story.</p>]]></description>
+         <pubDate>Sun, 18 Oct 2026 17:34:08 EDT</pubDate>
+         <guid isPermaLink="false">9.7386076</guid>
+         <dc:type>video</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -188,40 +216,6 @@ New data from Destination Toronto shows the hosting did deliver, with a much-ant
          <pubDate>Fri, 16 Oct 2026 21:27:07 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7384986</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Toronto Argonauts lose by 1 point to Ottawa Redblacks]]></title>
-         <link>https://www.cbc.ca/news/canada/ottawa/ottawa-redblacks-win-final-home-game-9.7385092?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/1bbae937-a92d-491a-aebf-2ea858306e93,1792207716025/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C5943%2C3342%29%3B' alt='Football players congratulated by teammates' width='620' height='349' title='Ottawa Redblacks&apos; Ayden Eberhardt (right) is congratulated by teammates after scoring during second half CFL action against the Toronto Argonauts in Ottawa, Friday, Oct. 16, 2026. THE CANADIAN PRESS/Adrian Wyld'/><p>Rookie quarterback Bryson Barnes led the Ottawa Redblacks to a 40-39 victory over the Toronto Argonauts on Friday in his first CFL start, snapping the team's 22-game losing skid.
-It was Ottawa's first victory this season and first at home since Sept. 5, 2025.</p>]]></description>
-         <pubDate>Fri, 16 Oct 2026 23:52:45 EDT</pubDate>
-         <category>News/Canada/Ottawa</category>
-         <guid isPermaLink="false">9.7385092</guid>
-         <dc:creator>The Canadian Press</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[‘Crypto King’ spent $16.3M of investor funds on cars, credit cards, jets, security, accountant testifies]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/crypto-king-spent-16-3m-of-investor-funds-on-cars-credit-cards-jets-security-accountant-testifies-9.7384413?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/9b82bb0e-f012-43a3-937c-9e5fb68cb43a,1792184183979/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Three photos of a man, one with a car, one on a jet and one shopping.' width='620' height='349' title=''/><p>Self-described “Crypto King” Aiden Pleterski spent nearly half of the $36.3 million investors gave him on himself and paid out about the same amount to investors as returns between 2020 and 2022, according to a senior forensic accountant who testified at his trial in Toronto’s Superior Court on Friday.</p>]]></description>
-         <pubDate>Fri, 16 Oct 2026 18:09:33 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7384413</guid>
-         <dc:creator>Nicole Brockbank</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Waymo to launch first phase of driverless taxi testing in Toronto with service expected in 2028]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/waymo-autonomous-driving-robotaxi-toronto-2028-9.7383437?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/d72d35b7-fa1b-4846-a0bf-a9ba1fe42ea5,1792158273078/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C282%2C5414%2C3045%29%3B' alt='A white vehicle with cameras and gear on it.' width='620' height='349' title='A Waymo vehicle drives past a No U-Turn sign in San Bruno, Calif., Tuesday, Sept. 30, 2025.'/><p>Autonomous vehicle operator Waymo is officially coming to Canada with the driverless ride-hailing service expected to launch in Toronto in 2028, the company says.</p>]]></description>
-         <pubDate>Fri, 16 Oct 2026 11:34:18 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7383437</guid>
-         <dc:creator>Arrthy Thayaparan</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
