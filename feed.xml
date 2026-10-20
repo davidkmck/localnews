@@ -6,13 +6,24 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Mon, 19 Oct 2026 20:41:48 EDT</lastBuildDate>
+      <lastBuildDate>Tue, 20 Oct 2026 04:00:00 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[A contractor left this Scarborough man without a roof. His insurance company is denying his claim]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/roofing-scam-elderly-home-reno-9.7383672?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/53b93fac-09ec-40ac-bb53-45fd14657399,1792433349852/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3021%2C1699%29%3B' alt='Inside a 2-storey home, looking up the stairs, there is a large hole where the ceiling should be, showing blue sky. There is debris all over the stairs.' width='620' height='349' title='Lawrence Huang says he has been living in a motel since contractors walked off the job after removing his roof. He says he has no way to pay for the rebuild, as his insurance company has denied his claim.'/><p>What began as a simple knock on the front door last spring has resulted in an elderly Scarborough man living out of a suitcase, his home roofless and in ruins. While police are investigating a possible fraud, the man says he can't afford to rebuild his roof with his insurance claim denied.</p>]]></description>
+         <pubDate>Tue, 20 Oct 2026 04:00:00 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7383672</guid>
+         <dc:creator>Michael Smee</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[4th person arrested as protests continue against bike lane removal in Toronto]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/fourth-arrest-bike-lane-removal-protest-toronto-9.7387669?cmp=rss</link>
@@ -209,17 +220,6 @@
          <pubDate>Sun, 18 Oct 2026 17:26:59 EDT</pubDate>
          <guid isPermaLink="false">9.7386131</guid>
          <dc:type>video</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Oshawa's growing homeless and addiction crisis takes centre stage in mayoral race]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/oshawa-s-growing-homeless-and-addiction-crisis-takes-centre-stage-in-mayoral-race-9.7383853?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.5842683,1608067833000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C375%2C4032%2C2268%29%3B' alt='' width='620' height='349' title='Oshawa&apos;s mayor says levels of homelessness have sky-rocketed in the city since the start of the COVID-19 pandemic. To help offset those increasing numbers, the city has launched a pilot project that pairs with members of faith communities with people experiencing homelessness. '/><p>During a live CBC Metro Morning taping in Oshawa this week, frontline workers and advocates outlined why the city's homeless and addiction crisis is at the forefront of this municipal election cycle.</p>]]></description>
-         <pubDate>Sun, 18 Oct 2026 04:00:00 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7383853</guid>
-         <dc:creator>Christian D'Avino</dc:creator>
-         <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
    </channel>
