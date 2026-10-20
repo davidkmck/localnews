@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Tue, 20 Oct 2026 04:00:00 EDT</lastBuildDate>
+      <lastBuildDate>Tue, 20 Oct 2026 08:34:27 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -21,6 +21,17 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7383672</guid>
          <dc:creator>Michael Smee</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Durham Region Votes 2026: 3 mayoral races to watch]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/durham-region-three-mayoral-races-9.7387624?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/29461414-27c7-47f5-a022-2eb06a1ad173,1792451081418/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Composite photo showing two headshots. On the left, a man in a suit, on the right a woman in a suit.' width='620' height='349' title='Incumbent Mayor of Pickering Kevin Ashe will be facing city councillor Lisa Robinson in the municipal election. Ashe has criticized Robinson&apos;s conduct and moved the city&apos;s council meetings online last year, citing safety concerns caused by her supporters.'/><p>With one week until election day, voters in Pickering, Whitby and Oshawa are preparing to choose their next mayor. Here’s a look at the candidates and the context shaping each race.</p>]]></description>
+         <pubDate>Tue, 20 Oct 2026 05:00:00 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7387624</guid>
+         <dc:creator>Rochelle Raveendran</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -211,15 +222,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7385851</guid>
          <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Toronto home prices drop nearly 4% compared to 2025]]></title>
-         <link>https://www.cbc.ca/player/play/9.7386131?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/a791b085-44ae-419b-bf2f-52470498e27e,1792358682848/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Recent reports from Royal LePage and the Canadian Real Estate Association show that home prices have dropped nationally and in Toronto. The city is seeing a 3.7 per cent decline in prices compared to the same time last year.' width='620' height='349' title='Recent reports from Royal LePage and the Canadian Real Estate Association show that home prices have dropped nationally and in Toronto. The city is seeing a 3.7 per cent decline in prices compared to the same time last year.'/><p>Recent reports from Royal LePage and the Canadian Real Estate Association show that home prices have dropped nationally and in Toronto. The city is seeing a 3.7 per cent decline in prices compared to the same time last year. CBC's Tyler Cheese has more on what factors are impacting the market.</p>]]></description>
-         <pubDate>Sun, 18 Oct 2026 17:26:59 EDT</pubDate>
-         <guid isPermaLink="false">9.7386131</guid>
-         <dc:type>video</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
    </channel>
