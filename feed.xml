@@ -6,13 +6,23 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Tue, 20 Oct 2026 19:41:44 EDT</lastBuildDate>
+      <lastBuildDate>Wed, 21 Oct 2026 00:05:15 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[Flights delayed at Toronto's Pearson airport after tower evacuated due to reports of smoke]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/delayed-flights-toronto-pearson-airport-9.7389523?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/a94a4634-0d15-4630-8d01-3a0ae5e08ed4,1790028662507/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C860%2C483%29%3B' alt='Travellers looking outside at Air Canada plane at Pearson Airport' width='620' height='349' title='Travellers looking outside at Air Canada plane at Pearson Airport'/><p>Flights to and from Toronto's Pearson airport are facing delays Tuesday night after reports of smoke prompted the evacuation of a tower that manages the flow of aircraft traffic at gates and loading zones, the airport says.</p>]]></description>
+         <pubDate>Tue, 20 Oct 2026 22:28:41 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7389523</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[Toronto's OCAD University to offer 150 scholarships to mark its 150th anniversary]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/ocad-university-150-scholarships-9.7389287?cmp=rss</link>
@@ -214,16 +224,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7382211</guid>
          <dc:creator>Talia Ricci</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Man, 41, arrested in investigation of fatal hit and run in Vaughan: York police]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/york-police-fatal-hit-and-run-vaughan-man-arrest-charge-9.7386714?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/7ea369b4-1dc2-4b5c-b0cc-60f7f71c2aa9,1792424553305/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2000%2C1125%29%3B' alt='Police photo of a man in a hoodie with a beard.' width='620' height='349' title='York police have charged 41-year-old Kamel Hazime of Vaughan weeks after a Richmond Hill woman was killed in a hit and run on Pine Valley Drive.'/><p>Kamel Hazime of Vaughan has been charged after a fatal hit and run earlier this month, York police said Monday. They said the suspect vehicle tied to the investigation has not yet been located.</p>]]></description>
-         <pubDate>Mon, 19 Oct 2026 11:45:26 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7386714</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
