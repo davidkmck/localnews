@@ -6,13 +6,24 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Thu, 22 Oct 2026 16:13:58 EDT</lastBuildDate>
+      <lastBuildDate>Thu, 22 Oct 2026 19:17:23 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[New poll puts Crombie in lead for Mississauga mayor as early voter turnout increases]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/new-poll-crombie-mississauga-mayor-lead-9.7391742?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/672a45c0-7d89-41f1-a153-5fb39dc017d7,1790280192268/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='From left to right, top four Mississauga mayoral candidates: Bonnie Crombie, Dipika Damerla, Carolyn Parrish and Alvin Tedjo.' width='620' height='349' title='From left to right, top four Mississauga mayoral candidates: Bonnie Crombie, Dipika Damerla, Carolyn Parrish and Alvin Tedjo.'/><p>As Monday's municipal election looms closer, a new poll suggests Bonnie Crombie has taken a sizeable lead over opponents Carolyn Parrish, Alvin Tedjo and Dipika Damerla in Mississauga's mayoral race.</p>]]></description>
+         <pubDate>Thu, 22 Oct 2026 18:34:55 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7391742</guid>
+         <dc:creator>Isha Bhargava</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[Here’s how Olivia Chow and Brad Bradford plan to hire more cops]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/toronto-mayoral-chow-bradford-hire-police-9.7389022?cmp=rss</link>
@@ -32,6 +43,17 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7391838</guid>
          <dc:creator>Paola Loriggio</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[More Canadian Crime Stoppers chapters pause program after CBC investigation reveals details about data leak]]></title>
+         <link>https://www.cbc.ca/news/investigates/toronto-crime-stoppers-pausing-program-data-leak-hack-9.7391157?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/cb0bef4b-d694-4e70-a1dd-ca087905e32d,1792551344471/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A phone screen' width='620' height='349' title='Crime Stoppers photo phone screen.'/><p>At least seven Crime Stoppers chapters — including the one with the largest number of compromised tips — have announced they are suspending programs a day after CBC revealed the extent of a data leak.</p>]]></description>
+         <pubDate>Wed, 21 Oct 2026 22:29:25 EDT</pubDate>
+         <category>News/Investigates</category>
+         <guid isPermaLink="false">9.7391157</guid>
+         <dc:creator>Valérie Ouellet, Michelle Allan</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -73,17 +95,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7391842</guid>
          <dc:creator>Eleanor Yuneun Park</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Toronto Crime Stoppers pauses program after CBC investigation reveals details of data leak]]></title>
-         <link>https://www.cbc.ca/news/investigates/toronto-crime-stoppers-pausing-program-data-leak-hack-9.7391157?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/cb0bef4b-d694-4e70-a1dd-ca087905e32d,1792551344471/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A phone screen' width='620' height='349' title='Crime Stoppers photo phone screen.'/><p>Toronto Crime Stoppers is pausing its program, effective immediately, its chair Sean Sportun said in a statement sent late Wednesday evening. The news follows an exclusive CBC investigation from earlier in the day revealing that information from more than 1.5 million tips submitted to Canadian Crime Stoppers programs over the last 25 years was exposed in a massive data breach.</p>]]></description>
-         <pubDate>Wed, 21 Oct 2026 22:29:25 EDT</pubDate>
-         <category>News/Investigates</category>
-         <guid isPermaLink="false">9.7391157</guid>
-         <dc:creator>Valérie Ouellet, Michelle Allan</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -215,17 +226,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7389200</guid>
          <dc:creator>Alina Snisarenko</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Kawhi's return has Raptors fans reminiscing as new season begins]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/kawhi-leonard-raptos-season-opener-9.7388193?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/d529594d-bbcc-446a-a635-f1a81a4657a2,1792598438694/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C252%2C4858%2C2732%29%3B' alt='Kawhi Leonard sits at a microphone at a news conference. He is smiling and wearing a Toronto Raptors red uniform.' width='620' height='349' title='Toronto Raptors forward Kawhi Leonard speaks at the Raptors media day in Toronto on Monday, Sept. 28, 2026.'/><p>Thousands of Raptors fans are getting set, with a combination of nostalgia and hope, for the new Toronto Raptors season beginning Wednesday featuring Kawhi Leonard.</p>]]></description>
-         <pubDate>Wed, 21 Oct 2026 06:00:00 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7388193</guid>
-         <dc:creator>Kate McGillivray</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
