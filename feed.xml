@@ -6,13 +6,24 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Thu, 22 Oct 2026 02:40:10 EDT</lastBuildDate>
+      <lastBuildDate>Thu, 22 Oct 2026 08:28:04 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[Here’s how Olivia Chow and Brad Bradford plan to hire more cops]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/toronto-mayoral-chow-bradford-hire-police-9.7389022?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/c03f7ff5-3b0c-414e-beaf-ccea0e4225cd,1791313324680/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3B' alt='A composite image of Brad Bradford and Olivia Chow both talking at press conferences.' width='620' height='349' title='Coun. Brad Bradford and incumbent mayor Olivia Chow face off in Toronto&apos;s mayoral race. Election day is Oct. 26.'/><p>Despite their contrasting outlooks on the issue of public safety, both Olivia Chow and Brad Bradford are promising to hire more police officers as part of their bids for the job of Toronto mayor. Here's how their plans compare.</p>]]></description>
+         <pubDate>Thu, 22 Oct 2026 04:00:00 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7389022</guid>
+         <dc:creator>Olivia Piercey</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[Toronto Crime Stoppers pauses program after CBC investigation reveals details of data leak]]></title>
          <link>https://www.cbc.ca/news/investigates/toronto-crime-stoppers-pausing-program-data-leak-hack-9.7391157?cmp=rss</link>
@@ -25,12 +36,22 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[Kawhi Leonard helps Raptors rout Bulls 135-92 in Toronto's home opener]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/bkn-bulls-raptors-9.7391160?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/9557e25f-6f89-4a3a-80b9-3d8bc56b9318,1792635489912/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5888%2C3312%29%3B' alt='Toronto Raptors&apos; Kawhi Leonard (2) looks for a lane during second half NBA basketball action in Toronto against the Chicago Bulls on Wednesday, Oct. 21, 2026. THE CANADIAN PRESS/Frank Gunn' width='620' height='349' title='Toronto Raptors&apos; Kawhi Leonard (2) looks for a lane during second half NBA basketball action in Toronto against the Chicago Bulls on Wednesday, Oct. 21, 2026. THE CANADIAN PRESS/Frank Gunn'/><p>Kawhi Leonard scored 23 points in his first regular-season game back with the Raptors as Toronto earned an emphatic 135-92 win over the Chicago Bulls on Wednesday.</p>]]></description>
-         <pubDate>Wed, 21 Oct 2026 22:52:24 EDT</pubDate>
+         <title><![CDATA[1 dead, 2 injured after multi-vehicle crash in King, Ont.: York police]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/fatal-crash-king-york-police-9.7391279?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.6331282,1669242388000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C780%2C438%29%3B' alt='A photo of a York Regional Police car.' width='620' height='349' title='York Regional Police are searching for suspects in connection with six home invasions.'/><p>A person is dead after a crash in the township of King, Ont., early Thursday, York police said.</p>]]></description>
+         <pubDate>Thu, 22 Oct 2026 06:52:23 EDT</pubDate>
          <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7391160</guid>
+         <guid isPermaLink="false">9.7391279</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Fans buzz with excitement as Kawhi Leonard makes Toronto Raptors regular-season debut]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/raptors-kawhi-leonard-raptors-season-debut-9.7391270?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/be90ef27-0b24-435f-b324-399104fd9e12,1792662826187/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C196%2C5888%2C3312%29%3B' alt='Kawhi Leonard playing basketball' width='620' height='349' title='Raptors fans were abuzz with excitement as Kawhi Leonard made his regular-season debut for Toronto on Wednesday at Scotiabank Arena.'/><p>Kawhi Leonard had 23 points, six rebounds and four steals as the Raptors earned an emphatic 135-92 win over the Chicago Bulls on Wednesday in Toronto's home opener.</p>]]></description>
+         <pubDate>Thu, 22 Oct 2026 06:00:19 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7391270</guid>
          <dc:creator>John Chidley-Hill</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
@@ -76,6 +97,17 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7391104</guid>
          <dc:creator>Sadeen Mohsen</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Kawhi Leonard helps Raptors rout Bulls 135-92 in Toronto's home opener]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/bkn-bulls-raptors-9.7391160?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/7812b711-0c89-4da4-bac8-921f778c31af,1792662396446/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C25%2C5360%2C3015%29%3B' alt='Raptors coach speaks with Kawhi Leonard close up' width='620' height='349' title='Toronto Raptors head coach Darko Rajakovic speaks with Kawhi Leonard (2) during second half NBA basketball action against the Chicago Bulls in Toronto on Wednesday, Oct. 21, 2026.'/><p>Kawhi Leonard scored 23 points in his first regular-season game back with the Raptors as Toronto earned an emphatic 135-92 win over the Chicago Bulls on Wednesday.</p>]]></description>
+         <pubDate>Wed, 21 Oct 2026 22:52:24 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7391160</guid>
+         <dc:creator>John Chidley-Hill</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -134,9 +166,9 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[Police search for missing 74-year-old Markham man considered vulnerable]]></title>
+         <title><![CDATA[Markham man located, reunited with family: York police]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/missing-markham-man-york-regional-police-9.7390565?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/db03e465-52ca-463b-98b4-a42f4029f3ea,1792613852496/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C143%2C651%2C366%29%3B' alt='missing Markham man' width='620' height='349' title='missing Markham man'/><p>Police in York Region are searching for a 74-year-old Markham man, who they say is considered vulnerable and has been missing for more than 24 hours.</p>]]></description>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.4668797,1792671720530/full/max/0/default.jpg?im=Crop%2Crect%3D%2863%2C631%2C2345%2C1319%29%3B' alt='York police vehicle' width='620' height='349' title='A York Police vehicle stationed outside Arcara&apos;s downtown condo.'/><p>York police say they have located a missing Markham man near Fairview Mall and reunited him with his family.</p>]]></description>
          <pubDate>Wed, 21 Oct 2026 16:38:08 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7390565</guid>
@@ -195,38 +227,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7389736</guid>
          <dc:creator>Allison Jones</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Hear from 8 Toronto mayoral candidates also on your ballot]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/toronto-mayoral-candidates-platforms-9.7390058?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/cb0521ec-aa24-4567-8331-45b1867fe299,1792597974436/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6000%2C3375%29%3B' alt='City workers prepare signage for the upcoming Toronto municipal and mayoral elections on Sept. 18, 2026.' width='620' height='349' title='There are over 50 candidates running to be Toronto&apos;s mayor. Read about their platforms before election day on Oct. 26.'/><p>Toronto’s mayoral race appears to be a two-way battle between Olivia Chow and Brad Bradford, but it’s a long ballot. There are 49 other candidates in the race, leaving a lot of policy ideas to consider.</p>]]></description>
-         <pubDate>Wed, 21 Oct 2026 13:08:51 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7390058</guid>
-         <dc:creator>John Rieti</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Toronto's mayoral race a 'statistical dead heat,' new poll suggests]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/toronto-mayoral-race-dead-heat-9.7389083?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/58d00cea-4f91-49ab-9471-830f802a7b99,1775772562131/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A collage shows a man in a blue suit with a red tie next to a woman with a yellow blazer. ' width='620' height='349' title='Coun. Brad Bradford and Toronto Mayor Olivia Chow both announced motions they plan bring to city council about prioritizing building the Eglinton East LRT.'/><p>A new poll looking at Toronto’s mayoral race puts Brad Bradford and Mayor Olivia Chow in a 'statistical dead heat' as election day looms.</p>]]></description>
-         <pubDate>Wed, 21 Oct 2026 05:00:00 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7389083</guid>
-         <dc:creator>Shawn Jeffords</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[69-year-old man dead after fire in Richmond Hill: York police]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/richmond-hill-fire-vital-signs-absent-home-damaged-9.7389617?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/e8170cb1-d3aa-43a4-a656-9643a3b42076,1792576393038/full/max/0/default.jpg?im=Crop%2Crect%3D%282%2C0%2C1110%2C624%29%3B' alt='Fire crews and truck in front of a house on fire.' width='620' height='349' title='A fire in Richmond Hill has damaged 2 semi-detached homes early Wednesday, York police said.'/><p>A 69-year-old man is dead and two homes are damaged after a fire broke out in Richmond Hill early Wednesday, York police said.</p>]]></description>
-         <pubDate>Wed, 21 Oct 2026 05:53:19 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7389617</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
