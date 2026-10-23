@@ -6,13 +6,24 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Thu, 22 Oct 2026 21:30:43 EDT</lastBuildDate>
+      <lastBuildDate>Fri, 23 Oct 2026 06:34:36 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[Why living alone is becoming increasingly unaffordable for Torontonians]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/the-single-tax-toronto-9.7390454?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/057f9f29-f8af-48a6-82c1-ecb3ab325267,1742835058425/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C377%2C7439%2C4184%29%3B' alt='A view of Toronto&apos;s skyline from the Toronto Islands. ' width='620' height='349' title='Toronto skyline'/><p>According to Statistics Canada, the number of one-person households has more than doubled between 1981 and 2021, and experts say that number continues to grow. But as the cost of living rises, it's also one of the hardest hit demographics.</p>]]></description>
+         <pubDate>Fri, 23 Oct 2026 04:00:00 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7390454</guid>
+         <dc:creator>Talia Ricci</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[Olivia Chow, Brad Bradford face off in last debate before election day]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/chow-bradford-last-debate-toronto-mayoral-election-9.7392524?cmp=rss</link>
@@ -21,6 +32,38 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7392524</guid>
          <dc:creator>Olivia Piercey</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[How Oshawa mayoral candidates plan to address homelessness — and what experts think]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/oshawa-mayoral-candidates-homelessness-experts-9.7392220?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/48e3e962-d69d-48be-8649-815f41f352f1,1792568487497/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Composite photo made up of three headshots of men in suits.' width='620' height='349' title='From left to right, the three sitting councillors looking to be Oshawa’s next mayor: Tito-Dante Marimpietri, Jim Lee, and Derek Giberson.'/><p>Oshawa has the highest homeless population in Durham Region, according to regional data. Here’s how three councillors running for mayor say they would address homelessness, and what experts think of their plans.</p>]]></description>
+         <pubDate>Fri, 23 Oct 2026 05:00:00 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7392220</guid>
+         <dc:creator>Rochelle Raveendran</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Korchinski-Paquet's mother to continue testimony at inquest]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/ontario-inquest-regis-korchinski-paquet-mother-9.7392783?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/a76c8c35-a2c1-480a-af97-5b197eeb3d1d,1792751312374/full/max/0/default.jpg?im=Crop%2Crect%3D%28194%2C370%2C3064%2C1723%29%3B' alt='Three women in white clothes hug each other' width='620' height='349' title='Regis Korchinski-Paquet’s mother, Claudette Beals, (centre) was comforted at a public memorial on Saturday, July 25, 2020. At a recent inquest into the case, Beals made new allegations against police while on the stand.'/><p>A coroner's inquest into the death of a Toronto woman who fell from a highrise balcony in the presence of police is set to resume this morning after adjourning early on Thursday.</p>]]></description>
+         <pubDate>Fri, 23 Oct 2026 06:34:36 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7392783</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Crime Stoppers had 'potentially one of the most harmful data breaches' Canada has seen. What's next?]]></title>
+         <link>https://www.cbc.ca/news/investigates/crime-stoppers-data-breach-whats-next-9.7392709?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.6566188,1661819614000/full/max/0/default.jpg?im=Crop%2Crect%3D%2816%2C0%2C1594%2C896%29%3B' alt='' width='620' height='349' title='A Crime Stoppers ad on the side of a train running through downtown Calgary shares the tip line people can call with information about crimes.'/><p>Two days after an exclusive CBC investigation revealed the extent of the Crime Stoppers data hack in Canada, experts are now weighing the long-term implications of what could be among the country's most dangerous privacy failures.</p>]]></description>
+         <pubDate>Fri, 23 Oct 2026 05:16:01 EDT</pubDate>
+         <category>News/Investigates</category>
+         <guid isPermaLink="false">9.7392709</guid>
+         <dc:creator>Valérie Ouellet, Michelle Allan</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -180,50 +223,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7390785</guid>
          <dc:creator>Eleanor Yuneun Park</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Ontario to send 28 health-care staff to Alberta to help victims of deadly fire at military base]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/ontario-deploys-doctors-nurses-9.7390664?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/ecccaa25-f088-4e4e-b0f6-171a83f18693,1792616211170/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C201%2C3872%2C2178%29%3B' alt='An ambulance enters CFB Wainwright as flowers hang on the front gates after four Canadian Armed Forces members died in a fire there earlier this week, in Wainwright, Alta., on Tuesday, Oct. 20, 2026. THE CANADIAN PRESS/Christopher Katsarov' width='620' height='349' title='An ambulance enters CFB Wainwright as flowers hang on the front gates after four Canadian Armed Forces members died in a fire there earlier this week, in Wainwright, Alta., on Tuesday, Oct. 20, 2026. THE CANADIAN PRESS/Christopher Katsarov'/><p>Ontario will send 28 health-care professionals to Alberta to help take care of soldiers severely injured after a deadly weekend fire at a military base in the Prairie province, Premier Doug Ford says.</p>]]></description>
-         <pubDate>Wed, 21 Oct 2026 17:26:38 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7390664</guid>
-         <dc:creator>Muriel Draaisma</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Chow, 15 councillors criticize Bradford’s plan to spin off Toronto Water into public utility]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/brad-bradford-defends-debt-toronto-election-9.7389774?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/181eba7e-07b4-4924-aa67-eec9da5d3c21,1792589779691/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C72%2C2768%2C1557%29%3B' alt='Coun. Brad Bradford sits at a desk during a Toronto mayoral debate hosted by Chris Glover at the CBC Broadcasting Centre.' width='620' height='349' title='Incumbent Mayor Olivia Chow and Coun. Brad Bradford face off in a debate at the CBC Broadcasting Centre in Toronto on Oct. 8, 2026. Bradford is promising to change how the City of Toronto handles its finances if he&apos;s elected mayor.'/><p>Mayoral challenger Brad Bradford has pitched creating a company like Toronto Hydro to deal with the city’s water. He says the plan will save money, Olivia Chow argues it means losing control.</p>]]></description>
-         <pubDate>Wed, 21 Oct 2026 12:08:51 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7389774</guid>
-         <dc:creator>Isaac Callan</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Canadian food bank use hits 2.3 million monthly visits due to grocery costs: report]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/food-banks-9.7391104?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/14a8d970-f55c-434e-860f-1a72f5e53b5f,1792632297412/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C55%2C4000%2C2250%29%3B' alt='Victor stocks shelves at the North York Harvest Food Bank in Toronto on Tuesday, Oct. 20, 2026. THE CANADIAN PRESS/Frank Gunn' width='620' height='349' title='Victor stocks shelves at the North York Harvest Food Bank in Toronto on Tuesday, Oct. 20, 2026. THE CANADIAN PRESS/Frank Gunn'/><p>A new report from Food Banks Canada says the number of Canadians struggling with food insecurity continues to grow, as food bank visits hit a new record of more than 2.3 million in March.</p>]]></description>
-         <pubDate>Wed, 21 Oct 2026 21:51:24 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7391104</guid>
-         <dc:creator>Sadeen Mohsen</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Kawhi Leonard helps Raptors rout Bulls 135-92 in Toronto's home opener]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/bkn-bulls-raptors-9.7391160?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/7812b711-0c89-4da4-bac8-921f778c31af,1792662396446/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C25%2C5360%2C3015%29%3B' alt='Raptors coach speaks with Kawhi Leonard close up' width='620' height='349' title='Toronto Raptors head coach Darko Rajakovic speaks with Kawhi Leonard (2) during second half NBA basketball action against the Chicago Bulls in Toronto on Wednesday, Oct. 21, 2026.'/><p>Kawhi Leonard scored 23 points in his first regular-season game back with the Raptors as Toronto earned an emphatic 135-92 win over the Chicago Bulls on Wednesday.</p>]]></description>
-         <pubDate>Wed, 21 Oct 2026 22:52:24 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7391160</guid>
-         <dc:creator>John Chidley-Hill</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
