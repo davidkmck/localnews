@@ -6,13 +6,24 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Thu, 22 Oct 2026 19:17:23 EDT</lastBuildDate>
+      <lastBuildDate>Thu, 22 Oct 2026 21:30:43 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[Olivia Chow, Brad Bradford face off in last debate before election day]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/chow-bradford-last-debate-toronto-mayoral-election-9.7392524?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/52c10ddd-4919-480b-b834-0aa9cf912bdb,1791313303944/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3B' alt='A composite image of Brad Bradford and Olivia Chow both smiling, talking at press conferences.' width='620' height='349' title='Coun. Brad Bradford and incumbent mayor Olivia Chow face off in Toronto&apos;s mayoral race. Election day is Oct. 26.'/><p>The two top candidates vying to be mayor of Toronto debated one last time before voters head to the polls on election day.</p>]]></description>
+         <pubDate>Thu, 22 Oct 2026 19:54:22 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7392524</guid>
+         <dc:creator>Olivia Piercey</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[New poll puts Crombie in lead for Mississauga mayor as early voter turnout increases]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/new-poll-crombie-mississauga-mayor-lead-9.7391742?cmp=rss</link>
@@ -25,14 +36,12 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[Here’s how Olivia Chow and Brad Bradford plan to hire more cops]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/toronto-mayoral-chow-bradford-hire-police-9.7389022?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/c03f7ff5-3b0c-414e-beaf-ccea0e4225cd,1791313324680/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3B' alt='A composite image of Brad Bradford and Olivia Chow both talking at press conferences.' width='620' height='349' title='Coun. Brad Bradford and incumbent mayor Olivia Chow face off in Toronto&apos;s mayoral race. Election day is Oct. 26.'/><p>Despite their contrasting outlooks on the issue of public safety, both Olivia Chow and Brad Bradford are promising to hire more police officers as part of their bids for the job of Toronto mayor. Here's how their plans compare.</p>]]></description>
-         <pubDate>Thu, 22 Oct 2026 04:00:00 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7389022</guid>
-         <dc:creator>Olivia Piercey</dc:creator>
-         <dc:type>story</dc:type>
+         <title><![CDATA[Toronto police suspend Crime Stoppers partnership after data breach]]></title>
+         <link>https://www.cbc.ca/player/play/9.7392511?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/308f0b25-5ed7-4526-97d6-339b194aa617,1792711111208/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B' alt='Images of the police crime scene, including officers, vehicles, cones and tape. Taken on June 12, 2024.' width='620' height='349' title='Images of the police crime scene, including officers, vehicles, cones and tape. Taken on June 12, 2024.'/><p>The Canadian Crime Stoppers data breach could have huge ramifications in Toronto. The Toronto Police Service has temporarily suspended its use of Crime Stoppers, and as Greg Ross reports, there are concerns the breach could do long-term damage to community trust in the program.</p>]]></description>
+         <pubDate>Thu, 22 Oct 2026 19:21:42 EDT</pubDate>
+         <guid isPermaLink="false">9.7392511</guid>
+         <dc:type>video</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -47,9 +56,9 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[More Canadian Crime Stoppers chapters pause program after CBC investigation reveals details about data leak]]></title>
+         <title><![CDATA[Police services across Ontario suspend use of Crime Stoppers after CBC investigation]]></title>
          <link>https://www.cbc.ca/news/investigates/toronto-crime-stoppers-pausing-program-data-leak-hack-9.7391157?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/cb0bef4b-d694-4e70-a1dd-ca087905e32d,1792551344471/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A phone screen' width='620' height='349' title='Crime Stoppers photo phone screen.'/><p>At least seven Crime Stoppers chapters — including the one with the largest number of compromised tips — have announced they are suspending programs a day after CBC revealed the extent of a data leak.</p>]]></description>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/cb0bef4b-d694-4e70-a1dd-ca087905e32d,1792551344471/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A phone screen' width='620' height='349' title='Crime Stoppers photo phone screen.'/><p>At least six Ontario police units have now paused their use of the Crime Stoppers program, a day after CBC revealed the extent of a massive data leak.</p>]]></description>
          <pubDate>Wed, 21 Oct 2026 22:29:25 EDT</pubDate>
          <category>News/Investigates</category>
          <guid isPermaLink="false">9.7391157</guid>
@@ -79,6 +88,17 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
+         <title><![CDATA[Here’s how Olivia Chow and Brad Bradford plan to hire more cops]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/toronto-mayoral-chow-bradford-hire-police-9.7389022?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/c03f7ff5-3b0c-414e-beaf-ccea0e4225cd,1791313324680/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3B' alt='A composite image of Brad Bradford and Olivia Chow both talking at press conferences.' width='620' height='349' title='Coun. Brad Bradford and incumbent mayor Olivia Chow face off in Toronto&apos;s mayoral race. Election day is Oct. 26.'/><p>Despite their contrasting outlooks on the issue of public safety, both Olivia Chow and Brad Bradford are promising to hire more police officers as part of their bids for the job of Toronto mayor. Here's how their plans compare.</p>]]></description>
+         <pubDate>Thu, 22 Oct 2026 04:00:00 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7389022</guid>
+         <dc:creator>Olivia Piercey</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
          <title><![CDATA[Brad Bradford's pitch for Toronto: Property tax freeze, safer streets]]></title>
          <link>https://www.cbc.ca/player/play/9.7392191?cmp=rss</link>
          <description><![CDATA[<img src='https://i.cbc.ca/ais/2d75385e-8f65-4f23-80d9-3066fd8b5ad0,1792699204613/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B' alt='A photo of Brad Bradford speaking into a microphone on the right. On the left, text reads &quot;Property tax freeze?&quot;, set against a cutout of yellow-tinted residential houses and backdrop showing the Toronto skyline.' width='620' height='349' title=''/><p>Brad Bradford is making his pitch to be Toronto’s next mayor, centring his platform on property tax relief and public safety. The mayoral candidate joined Chris Glover on CBC's Metro Morning days ahead of the vote. We will be speaking with incumbent Olivia Chow on Friday, October 23.</p>]]></description>
@@ -90,7 +110,7 @@
       <item>
          <title><![CDATA[3 arrested after string of online marketplace robberies, $80K in Pokemon cards among targets: Toronto police]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/police-rare-pokemon-collection-marketplace-robbery-9.7391842?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/947cd27c-4897-4cc0-8c7a-6f33cd3b4344,1792688679460/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C16%2C852%2C479%29%3B' alt='A man with a black hoodie and grey design looks into the camera.' width='620' height='349' title=''/><p>Three people have been arrested after an investigation into a string of violent robberies linked to online marketplace transactions, including the theft of an $80,000 Pokémon card collection, Toronto police say.</p>]]></description>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/947cd27c-4897-4cc0-8c7a-6f33cd3b4344,1792688679460/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C16%2C852%2C479%29%3B' alt='A man with a black hoodie and grey design looks into the camera.' width='620' height='349' title=''/><p>Three people have been arrested after an investigation into a string of violent robberies linked to online marketplace transactions, including the theft of an $80,000 Pokemon card collection, Toronto police say.</p>]]></description>
          <pubDate>Thu, 22 Oct 2026 14:30:40 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7391842</guid>
@@ -204,28 +224,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7391160</guid>
          <dc:creator>John Chidley-Hill</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[More than 1.5 million Canadian Crime Stoppers tips leaked, CBC exclusive finds]]></title>
-         <link>https://www.cbc.ca/news/investigates/canadian-crime-stoppers-tips-leaked-hack-investigation-9.7388820?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/391ead06-1b72-4e9e-b15e-0e3f07baf29a,1792523215998/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C4238%2C2383%29%3B' alt='A shadowed man in front of a window looks at the camera.' width='620' height='349' title='Andrew Rivard is one of thousands of Canadian tipsters whose information was exposed in the Crime Stoppers hack.'/><p>An exclusive CBC investigation has found more than 1.5 million tips sent to Canadian Crime Stoppers chapters were captured in a massive hack announced last March. A CBC analysis identified that at least half of these tips included personal information.</p>]]></description>
-         <pubDate>Wed, 21 Oct 2026 04:00:00 EDT</pubDate>
-         <category>News/Investigates</category>
-         <guid isPermaLink="false">9.7388820</guid>
-         <dc:creator>Valérie Ouellet, Michelle Allan</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Restricted</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Mississauga man convicted in U.S. terror probe gets additional 50-year prison sentence]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/mississauga-man-50-year-prison-sentence-9.7389200?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/89a124c5-147e-4a10-9d96-775c69e04737,1792533801107/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C3%2C640%2C360%29%3B' alt='A photo of a teen who has black curly hair and is wearing a plaid sweater with a grey hoodie underneath it.' width='620' height='349' title='Abdulrahman El Bahnasawy was senteced to 40 years in prison in 2018 for terror-related charges in the U.S. He has since been sentenced to an additional 50 years in prison for assaulting two corrections officers.'/><p>A Mississauga man serving a 40-year sentence for terror-related charges in the U.S. was sentenced to an additional 50 years in federal prison in relation to an assault against two corrections officers, the U.S. Attorney's Office announced Monday.</p>]]></description>
-         <pubDate>Wed, 21 Oct 2026 15:58:17 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7389200</guid>
-         <dc:creator>Alina Snisarenko</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
