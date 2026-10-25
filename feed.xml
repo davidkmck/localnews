@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Sat, 24 Oct 2026 17:55:31 EDT</lastBuildDate>
+      <lastBuildDate>Sat, 24 Oct 2026 19:22:38 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -35,12 +35,23 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[York police officer facing slew of charges, including breach of trust]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/york-police-officer-charged-breach-of-trust-9.7394869?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/d234f859-1454-4ac5-bece-069f8620d46a,1792877220950/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C508%2C4882%2C2746%29%3B' alt='A black badge on the shoulder of a white shirt has gold outline and letters that read &quot;York Regional Police.&quot;' width='620' height='349' title='Members of the York Regional and Toronto police services announce an investigation into organized crime and corruption involving police officers, at a press conference in Aurora, Ont., on Feb. 5, 2026.'/><p>A York Regional Police officer, who recently worked as a front-line patrol sergeant, has been charged with several offences, according to police.</p>]]></description>
-         <pubDate>Sat, 24 Oct 2026 17:52:02 EDT</pubDate>
+         <title><![CDATA[Hundreds rally in Toronto calling for more funding for education]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/queens-park-teachers-rally-public-education-9.7394914?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/5d451999-fe24-4582-a7fc-7b11378dc1cc,1792881257997/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B' alt='A man waves a flag that says &quot;no cuts to public education&quot;' width='620' height='349' title='A man waves a flag that says &quot;no cuts to public education&quot; at a rally on Parliament Hill on October 24, 2026.'/><p>Teachers and education workers rallied in five cities across Ontario, calling for increased support and funding for public education in the province.</p>]]></description>
+         <pubDate>Sat, 24 Oct 2026 19:22:38 EDT</pubDate>
          <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7394869</guid>
+         <guid isPermaLink="false">9.7394914</guid>
+         <dc:creator>Eleanor Yuneun Park</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Person dead after 2-vehicle crash on Highway 404: OPP]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/two-vehicle-crash-highway-404-ontario-provincial-police-9.7394896?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.3243655,1785277131441/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C298%2C167%29%3B' alt='An OPP car.' width='620' height='349' title='Ontario Provincial Police say they went to a home on County Road 26 in Augusta Township on July 8 where one person was found dead. They&apos;re investigating the death as a homicide, they said on July 28.'/><p>A 61-year-old driver from Toronto has died following a two-vehicle collision on Highway 404, according to Ontario Provincial Police.</p>]]></description>
+         <pubDate>Sat, 24 Oct 2026 18:44:13 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7394896</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -60,6 +71,16 @@
          <pubDate>Sat, 24 Oct 2026 14:48:25 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7394791</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[York police officer facing slew of charges, including breach of trust]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/york-police-officer-charged-breach-of-trust-9.7394869?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/d234f859-1454-4ac5-bece-069f8620d46a,1792877220950/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C508%2C4882%2C2746%29%3B' alt='A black badge on the shoulder of a white shirt has gold outline and letters that read &quot;York Regional Police.&quot;' width='620' height='349' title='Members of the York Regional and Toronto police services announce an investigation into organized crime and corruption involving police officers, at a press conference in Aurora, Ont., on Feb. 5, 2026.'/><p>A York Regional Police officer, who recently worked as a front-line patrol sergeant, has been charged with several offences, according to police.</p>]]></description>
+         <pubDate>Sat, 24 Oct 2026 17:52:02 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7394869</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -200,25 +221,6 @@
          <guid isPermaLink="false">9.7393755</guid>
          <dc:creator>Thomas Daigle</dc:creator>
          <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Provincial government proposing digital version of Ontario photo ID]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/ontario-photo-card-digital-version-proposal-9.7393014?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/dd210524-0f54-4a70-a80d-9ff1ecaac836,1778699560088/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C88%2C6000%2C3375%29%3B' alt='a man in a blue suit white shirt and tie sits in a chair, speakign with someone off camera' width='620' height='349' title='Minister of Public and Business Service Delivery and Procurement, Stephen Crawford, says letters notifying ticket sellers of inspections went out last week, and those inspections will start this week.'/><p>The province is proposing a digital version of the Ontario Photo Card, which provides government-issued identification to people without a driver’s licence, the ministry of public and business service delivery and procurement announced Friday.</p>]]></description>
-         <pubDate>Fri, 23 Oct 2026 10:27:53 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7393014</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA['The cost of living is a problem': Olivia Chow's pitch to Toronto (in her own words)]]></title>
-         <link>https://www.cbc.ca/player/play/9.7393722?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/a4fe0310-7d4f-42ab-a9d4-0552c547408e,1792782279691/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B' alt='An image of Olivia Chow with a text that says &quot;Affordable housing?&quot; and renderings of condo in the background.' width='620' height='349' title=''/><p>Olivia Chow is making her pitch to stay in office, anchoring her platform on affordable housing and a city-wide lunch program. Speaking on CBC Radio's Metro Morning with Chris Glover, the incumbent detailed her vision for a second term — following our interview earlier this week with candidate Brad Bradford</p>]]></description>
-         <pubDate>Fri, 23 Oct 2026 15:57:31 EDT</pubDate>
-         <guid isPermaLink="false">9.7393722</guid>
-         <dc:type>video</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
    </channel>
