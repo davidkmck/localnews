@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Sun, 25 Oct 2026 14:30:14 EDT</lastBuildDate>
+      <lastBuildDate>Sun, 25 Oct 2026 16:52:46 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -32,6 +32,15 @@
          <guid isPermaLink="false">9.7384012</guid>
          <dc:creator>John Rieti</dc:creator>
          <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Toronto charity holds event providing free dental care, haircuts to unhoused people]]></title>
+         <link>https://www.cbc.ca/player/play/9.7395550?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/925d2327-5572-4207-b772-1554817c5566,1792961334493/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Volunteers in green shirts trimming and styling hair for seated clients inside a large indoor space.' width='620' height='349' title='Unhoused people received free health-care and personal services at an event hosted by the charity Homeless Connect Toronto on Oct. 25'/><p>Unhoused people received free health care and personal services at an event hosted by the charity Homeless Connect Toronto on Sunday. Nearly 78 service providers offered dental cleanings, haircuts, foot care, employment services, pet care and more at the Mattamy Athletic Centre. CBC’s Mercedes Gaztambide has the story.</p>]]></description>
+         <pubDate>Sun, 25 Oct 2026 16:52:46 EDT</pubDate>
+         <guid isPermaLink="false">9.7395550</guid>
+         <dc:type>video</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -211,15 +220,6 @@
          <guid isPermaLink="false">9.7392323</guid>
          <dc:creator>Alina Snisarenko</dc:creator>
          <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[What is Toronto’s mayor actually responsible for?]]></title>
-         <link>https://www.cbc.ca/player/play/9.7394053?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/a791b085-44ae-419b-bf2f-52470498e27e,1792790485275/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Recent reports from Royal LePage and the Canadian Real Estate Association show that home prices have dropped nationally and in Toronto. The city is seeing a 3.7 per cent decline in prices compared to the same time last year.' width='620' height='349' title='Recent reports from Royal LePage and the Canadian Real Estate Association show that home prices have dropped nationally and in Toronto. The city is seeing a 3.7 per cent decline in prices compared to the same time last year.'/><p>Before hitting the ballot on Monday, Oct. 26, do you know who’s responsible for what? CBC’s Alejandrina Alvarez breaks down what each level of government is in charge of.</p>]]></description>
-         <pubDate>Fri, 23 Oct 2026 17:22:50 EDT</pubDate>
-         <guid isPermaLink="false">9.7394053</guid>
-         <dc:type>video</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
    </channel>
