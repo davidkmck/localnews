@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Sun, 25 Oct 2026 13:05:11 EDT</lastBuildDate>
+      <lastBuildDate>Sun, 25 Oct 2026 14:30:14 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -35,9 +35,20 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
+         <title><![CDATA[Who is running for councillor in York South-Weston and what do its residents want?]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/york-south-weston-candidates-residents-ward-profile-9.7395418?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1d00a4a4-d4a2-4880-b789-817bba68b5b7,1792604720675/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3B' alt='A composite image of housing advocate Chiara Padovani and incumbent Coun. Frances Nunziata who are once again competing for a seat on Toronto city council.' width='620' height='349' title='Chiara Padovani and incumbent Coun. Frances Nunziata are once again competing for a seat on Toronto city council representing York-South Weston. In the 2022 municipal election, Padovani lost by just 94 votes, the closest race of any ward.'/><p>The ward of York South-Weston has long been a battleground council race in Toronto’s municipal elections and in the 2022 election it was the closest race in the entire city, decided by only 94 votes.</p>]]></description>
+         <pubDate>Sun, 25 Oct 2026 14:13:43 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7395418</guid>
+         <dc:creator>Gabriela Silva Ponte</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
          <title><![CDATA[Stabbed man dies after party in Mississauga industrial building: police]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/1-dead-mississauga-stabbing-9.7395178?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/4e0793e0-fe76-445e-a19f-dc8bc18b8e5c,1792936872675/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B' alt='Building complex with police on-scene, police tape surrounding the area' width='620' height='349' title=''/><p>Peel police say a man was stabbed and died after attending a party in an industrial building in Mississauga, Ont., early Sunday morning.</p>]]></description>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/ade5dccd-7470-4fb5-8e3a-6a492ed36b5d,1792952407416/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A police officer in uniform walks past yellow caution tape' width='620' height='349' title='A man was stabbed and died after attending a party in an industrial building in Mississauga, Ont., early Sunday morning.'/><p>Peel police say a man was stabbed and died after attending a party in an industrial building in Mississauga, Ont., early Sunday morning.</p>]]></description>
          <pubDate>Sun, 25 Oct 2026 08:21:21 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7395178</guid>
@@ -209,17 +220,6 @@
          <pubDate>Fri, 23 Oct 2026 17:22:50 EDT</pubDate>
          <guid isPermaLink="false">9.7394053</guid>
          <dc:type>video</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Group files Competition Bureau complaint over Israeli real estate events in Toronto, Montreal]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/group-complains-toronto-israeli-real-estate-events-9.7394259?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/8298a856-46e4-42e1-8c52-b334317e2e58,1792793861463/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B' alt='An aerial footage of a group of tan homes on a raised hill.' width='620' height='349' title='A general view of the West Bank Jewish settlement of Efrat ,Tuesday, Nov. 12, 2024. (AP Photo/Ohad Zwigenberg)'/><p>A group of lawyers and civil society members have filed a complaint with the Competition Bureau over Israeli real estate events in Toronto and Montreal, alleging that illegal properties were marketed to Canadians under false pretences.</p>]]></description>
-         <pubDate>Fri, 23 Oct 2026 18:53:34 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7394259</guid>
-         <dc:creator>Kathryn Mannie</dc:creator>
-         <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
    </channel>
