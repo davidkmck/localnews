@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Sat, 24 Oct 2026 19:22:38 EDT</lastBuildDate>
+      <lastBuildDate>Sun, 25 Oct 2026 05:00:00 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -21,6 +21,28 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7393652</guid>
          <dc:type>contentpackage</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Voter turnout in Peel region tends to be low. Meet the students trying to change that]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/voter-turnout-in-peel-region-tends-to-be-low-meet-the-students-trying-to-change-that-9.7394743?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/058cfe4a-4092-4760-afa3-104587a4baf7,1792880785386/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B' alt='Nine members of the group Voice the Vote group hold signs and banners at an event in Brampton' width='620' height='349' title='Some members of student-led group Voice the Vote at a community event in Brampton, Ont., raising awareness for this year&apos;s municipal election. The group is a partnership between the Democratic Engagement Exchange (DEE) at Toronto Metropolitan University and United Way Greater Toronto.'/><p>Voice the Vote, a student-led community initiative is working to address barriers to voting and civic engagement in hopes of reversing the trend of low voter turnout in Toronto, York and Peel regions in the upcoming municipal election.</p>]]></description>
+         <pubDate>Sun, 25 Oct 2026 05:00:00 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7394743</guid>
+         <dc:creator>Isha Bhargava</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Toronto artist brings ‘spooky’ to city’s west-end through monster exhibition]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/toronto-artist-monster-exhibition-west-end-9.7394727?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/7f010b59-442f-46c2-8592-b0c16688a514,1792857310696/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B' alt='Woman with light pink hair, black shirt standing in front of art exhibition' width='620' height='349' title=''/><p>Halloween is fast approaching and this Toronto artist is bringing the spooky to a west-end art gallery.</p>]]></description>
+         <pubDate>Sun, 25 Oct 2026 04:00:00 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7394727</guid>
+         <dc:creator>Gabriela Silva Ponte</dc:creator>
+         <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -198,28 +220,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7393844</guid>
          <dc:creator>Arrthy Thayaparan</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Why living alone is becoming increasingly unaffordable for Torontonians]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/the-single-tax-toronto-9.7390454?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/057f9f29-f8af-48a6-82c1-ecb3ab325267,1742835058425/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C377%2C7439%2C4184%29%3B' alt='A view of Toronto&apos;s skyline from the Toronto Islands. ' width='620' height='349' title='Toronto skyline'/><p>According to Statistics Canada, the number of one-person households has more than doubled between 1981 and 2021, and experts say that number continues to grow. But as the cost of living rises, it's also one of the hardest hit demographics.</p>]]></description>
-         <pubDate>Fri, 23 Oct 2026 04:00:00 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7390454</guid>
-         <dc:creator>Talia Ricci</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Canadian cybersecurity exec arrested by FBI accused of working with criminals to defraud his own clients]]></title>
-         <link>https://www.cbc.ca/news/world/edward-dubrovsky-court-hearing-9.7393755?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/73ab1962-3c0d-4557-9def-9a9388a4a7b9,1792782580048/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A man in a dark suit and white shirt with his arms crossed.' width='620' height='349' title='Canadian cybersecurity expert Edward Dubrovsky was charged earlier this month in a U.S. federal court with an extortion conspiracy offence and interference with commerce by threats.'/><p>Edward Dubrovsky, a Toronto-area cybersecurity exec arrested by the FBI amid a high-profile hacking probe, colluded with cybercriminals to extort money from his own clients, according to explosive allegations laid out by U.S. prosecutors.</p>]]></description>
-         <pubDate>Fri, 23 Oct 2026 19:23:19 EDT</pubDate>
-         <category>News/World</category>
-         <guid isPermaLink="false">9.7393755</guid>
-         <dc:creator>Thomas Daigle</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
