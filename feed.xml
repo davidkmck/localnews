@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Sun, 25 Oct 2026 05:00:00 EDT</lastBuildDate>
+      <lastBuildDate>Sun, 25 Oct 2026 08:22:53 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -16,11 +16,32 @@
       <item>
          <title><![CDATA[Toronto's top mayoral candidates ramp up social media ad spend with race down to the wire]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/toronto-mayoral-race-meta-ad-spend-9.7389078?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/2274f8fa-b70b-4ef8-8f22-2a0a189d659b,1792869789411/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B' alt='A split-screen photo showing two mayoral candidates speaking at podiums.' width='620' height='349' title='Mayoral candidates Brad Bradford and Olivia Chow speaking at podiums during respective press conferences in Toronto.'/><p></p>]]></description>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/4ffbd6d3-1239-45f9-9984-248d04448522,1792176490522/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3264%2C1836%29%3B' alt='A photo collage shows Toronto skyline in black and white on the left, while a colourful version contrasts on the right.' width='620' height='349' title='ETOBICOKE, CANADA - JUNE 08:  The Toronto skyline and CN Tower view from theScore Bet Skyline Seats during the pro-am prior to the RBC Canadian Open at St. George&apos;s Golf and Country Club on June 08, 2022 in Etobicoke, Ontario, Canada.  (Photo by Vaughn Ridley/Getty Images)'/><p></p>]]></description>
          <pubDate>Fri, 23 Oct 2026 14:26:31 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7393652</guid>
          <dc:type>contentpackage</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Toronto Votes 2026: Your last-minute guide to voting in this election]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/toronto-final-week-voting-guide-9.7384012?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/aa57d647-f1e8-439f-89ce-b07618416a27,1792174853140/full/max/0/default.jpg?im=Crop%2Crect%3D%28228%2C840%2C7962%2C4478%29%3B' alt='City workers prepare signage for the Toronto municipal outside city hall on Sept. 18, 2026.' width='620' height='349' title='City workers prepare signage for the Toronto municipal outside city hall on Sept. 18, 2026.'/><p>Toronto's election is almost here. If you’ve been ignoring local politics until now but want to vote on Monday, this article is for you.</p>]]></description>
+         <pubDate>Sat, 17 Oct 2026 05:00:00 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7384012</guid>
+         <dc:creator>John Rieti</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[1 dead following stabbing in Mississauga: police]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/1-dead-mississauga-stabbing-9.7395178?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/4e0793e0-fe76-445e-a19f-dc8bc18b8e5c,1792936872675/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B' alt='Building complex with police on-scene, police tape surrounding the area' width='620' height='349' title=''/><p>Peel police say a person is dead after a stabbing in Mississauga, Ont., early Sunday morning.</p>]]></description>
+         <pubDate>Sun, 25 Oct 2026 08:21:21 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7395178</guid>
+         <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -31,6 +52,16 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7394743</guid>
          <dc:creator>Isha Bhargava</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[23-year-old dead, 2 others to hospital following 3-vehicle crash in Brock, Ont.: police]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/person-dead-two-to-hospital-brock-crash-9.7395183?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.1861025,1784572190443/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B' alt='A black and white car with police logo' width='620' height='349' title='OPP Cruiser'/><p>Provincial police say a person is dead and two others are in hospital after a three-vehicle crash in the Township of Brock, Ont., Saturday.</p>]]></description>
+         <pubDate>Sun, 25 Oct 2026 08:22:53 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7395183</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -188,38 +219,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7394259</guid>
          <dc:creator>Kathryn Mannie</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Oilers' Mike Babcock, who 'loved' coaching Leafs, prepares to face old team for first time]]></title>
-         <link>https://www.cbc.ca/sports/hockey/nhl/mike-babcock-oilers-leafs-advance-nhl-9.7394422?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/ed5145fd-d809-42b3-a72e-a2d78f3229e4,1792801160285/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3B' alt='Edmonton Oilers head coach Mike Babcock shouts instructions to players against the visiting Vancouver Canucks during a September 29, 2026 NHL regular-season game.' width='620' height='349' title='Head coach Mike Babcock has guided the 8-1-1 Oilers to top spot in the Pacific Division while his former team, the Maple Leafs, arrive in Edmonton for Saturday&apos;s game riding a three-game winning streak and sit fourth in the Atlantic at 6-4-2.'/><p>Head coach Mike Babcock isn't dwelling on his 2019 departure from the Toronto Maple Leafs as he prepares to face his former team for the first time Saturday. He has led the Edmonton Oilers to a Pacific Division-leading 8-1-1 record.</p>]]></description>
-         <pubDate>Fri, 23 Oct 2026 20:46:06 EDT</pubDate>
-         <category>Sports/Hockey/NHL</category>
-         <guid isPermaLink="false">9.7394422</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Regis Korchinski-Paquet's mother shown security footage at inquest into high-rise death]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/ont-inquest-korchinski-paquet-9.7393989?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.5700013,1598479458000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C607%2C341%29%3B' alt='' width='620' height='349' title='Regis Korchinski-Paquet died at age 29 after police were called to her apartment in Toronto.'/><p>Regis Korchinski-Paquet's mother was shown snippets of security footage from the day her daughter died as she resumed her testimony at a coroner's inquest after making a new allegation against police involved in the case.</p>]]></description>
-         <pubDate>Fri, 23 Oct 2026 17:33:28 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7393989</guid>
-         <dc:creator>Paola Loriggio</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[It started with hockey, then he picked up a bat. Meet the Toronto catcher headed to the World Series]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/toronto-liam-hicks-world-series-debut-9.7393844?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/7319a2d0-4dfc-43b3-bf4c-5894bd722e83,1792781611519/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C147%2C4870%2C2739%29%3B' alt='A man wearing a baseball helmet and a blue navy jersey spelling &quot;Rays&quot; is shown running.' width='620' height='349' title='Tampa Bay Rays&apos; Liam Hicks rounds the bases after hitting a two-run home run in the third inning of a baseball game against the Atlanta Braves, Tuesday, Sept. 8, 2026, in Atlanta. (AP Photo/Colin Hubbard)'/><p>In just his second big league season, Toronto catcher Liam Hicks will make his World Series debut when the Tampa Rays take on the Milwaukee Brewers for Game 1 at 8 p.m. ET Friday.</p>]]></description>
-         <pubDate>Fri, 23 Oct 2026 16:11:09 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7393844</guid>
-         <dc:creator>Arrthy Thayaparan</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
