@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Sun, 25 Oct 2026 19:03:51 EDT</lastBuildDate>
+      <lastBuildDate>Mon, 26 Oct 2026 05:00:00 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -14,9 +14,9 @@
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
       <item>
-         <title><![CDATA[Toronto's top mayoral candidates ramp up social media ad spend with race down to the wire]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/toronto-mayoral-race-meta-ad-spend-9.7389078?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/4ffbd6d3-1239-45f9-9984-248d04448522,1792176490522/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3264%2C1836%29%3B' alt='A photo collage shows Toronto skyline in black and white on the left, while a colourful version contrasts on the right.' width='620' height='349' title='ETOBICOKE, CANADA - JUNE 08:  The Toronto skyline and CN Tower view from theScore Bet Skyline Seats during the pro-am prior to the RBC Canadian Open at St. George&apos;s Golf and Country Club on June 08, 2022 in Etobicoke, Ontario, Canada.  (Photo by Vaughn Ridley/Getty Images)'/><p></p>]]></description>
+         <title><![CDATA[Toronto’s mayoral campaign is ending in a tight race. Here's how it got so close]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/toronto-election-day-background-9.7395321?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/2274f8fa-b70b-4ef8-8f22-2a0a189d659b,1792869789411/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B' alt='A split-screen photo showing two mayoral candidates speaking at podiums.' width='620' height='349' title='Mayoral candidates Brad Bradford and Olivia Chow speaking at podiums during respective press conferences in Toronto.'/><p></p>]]></description>
          <pubDate>Fri, 23 Oct 2026 14:26:31 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7393652</guid>
@@ -35,12 +35,14 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[Toronto charity holds event providing free dental care, haircuts to unhoused people]]></title>
-         <link>https://www.cbc.ca/player/play/9.7395550?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/925d2327-5572-4207-b772-1554817c5566,1792961334493/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Volunteers in green shirts trimming and styling hair for seated clients inside a large indoor space.' width='620' height='349' title='Unhoused people received free health-care and personal services at an event hosted by the charity Homeless Connect Toronto on Oct. 25'/><p>Unhoused people received free health care and personal services at an event hosted by the charity Homeless Connect Toronto on Sunday. Nearly 78 service providers offered dental cleanings, haircuts, foot care, employment services, pet care and more at the Mattamy Athletic Centre. CBC’s Mercedes Gaztambide has the story.</p>]]></description>
-         <pubDate>Sun, 25 Oct 2026 16:52:46 EDT</pubDate>
-         <guid isPermaLink="false">9.7395550</guid>
-         <dc:type>video</dc:type>
+         <title><![CDATA[Ontario offers free flu, COVID-19 shots for general public starting Monday]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/ontario-flu-covid-vaccines-9.7395402?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/69112417-ac62-46cd-9bb4-7e3a18171fe0,1791233711518/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C93%2C1555%2C874%29%3B' alt='Sign outside pharmacy urging people to get vaccinated as someone walks in to pharmacy' width='620' height='349' title='A person enters a drug store near a sign that reads: Flu shot? Think pharmacist, in Toronto on Dec. 19, 2025, amid cold and flu season.'/><p>Free flu and COVID-19 shots will be available for all residents six months of age and older starting Monday, the Ontario government said.</p>]]></description>
+         <pubDate>Mon, 26 Oct 2026 05:00:00 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7395402</guid>
+         <dc:creator>Muriel Draaisma</dc:creator>
+         <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -62,6 +64,15 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7395178</guid>
          <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Toronto charity holds event providing free dental care, haircuts to unhoused people]]></title>
+         <link>https://www.cbc.ca/player/play/9.7395550?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/925d2327-5572-4207-b772-1554817c5566,1792961334493/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Volunteers in green shirts trimming and styling hair for seated clients inside a large indoor space.' width='620' height='349' title='Unhoused people received free health-care and personal services at an event hosted by the charity Homeless Connect Toronto on Oct. 25'/><p>Unhoused people received free health care and personal services at an event hosted by the charity Homeless Connect Toronto on Sunday. Nearly 78 service providers offered dental cleanings, haircuts, foot care, employment services, pet care and more at the Mattamy Athletic Centre. CBC’s Mercedes Gaztambide has the story.</p>]]></description>
+         <pubDate>Sun, 25 Oct 2026 16:52:46 EDT</pubDate>
+         <guid isPermaLink="false">9.7395550</guid>
+         <dc:type>video</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -208,17 +219,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7388550</guid>
          <dc:creator>Isha Bhargava</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[As GTA police forces pause Crime Stoppers use in wake of data breach, what does it mean for investigations?]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/crime-stopper-data-breach-police-pause-9.7392323?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/cb0bef4b-d694-4e70-a1dd-ca087905e32d,1792551344471/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A phone screen' width='620' height='349' title='Crime Stoppers photo phone screen.'/><p>As police forces across the Greater Toronto Area pause their use of Crime Stoppers in the wake of a massive data breach, law enforcement experts say the absence of the program could slow down police work and leave a "noticeable void."</p>]]></description>
-         <pubDate>Fri, 23 Oct 2026 15:30:57 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7392323</guid>
-         <dc:creator>Alina Snisarenko</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
