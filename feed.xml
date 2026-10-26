@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Mon, 26 Oct 2026 13:22:01 EDT</lastBuildDate>
+      <lastBuildDate>Mon, 26 Oct 2026 17:36:15 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -35,12 +35,43 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
+         <title><![CDATA[Police locate vehicle allegedly used by Toronto mother to abduct 3 children]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/vehicle-found-missing-three-children-toronto-9.7396545?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/55f0b4e1-c3c9-4cd4-ae5b-6dff0742dc8e,1792865716803/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C50%2C852%2C479%29%3B' alt='Three children, respectively with green glasses and a grey shirt, white shirt with black polka dots, and pink jumpsuit.' width='620' height='349' title=''/><p>Toronto police say they have found a vehicle believed to have been used to abduct three children from Scarborough on Friday, but the children and their mother have not been found.</p>]]></description>
+         <pubDate>Mon, 26 Oct 2026 15:04:45 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7396545</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA['Crypto King' trial hears recording of Aiden Pleterski admitting $300M fund 'never existed']]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/crypto-king-trial-recording-aiden-pleterski-9.7396465?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/c92b28d1-501f-470c-a7d0-68c2d85c9645,1793038841762/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Three photos show a man by a car, on a jet and shopping,' width='620' height='349' title='Aiden Pleterski is shown in various photos.'/><p>Self-described "Crypto King" Aiden Pleterski admitted his $300-million fund never existed in a June 2022 audio recording played in court at his fraud trial in Toronto on Monday.</p>]]></description>
+         <pubDate>Mon, 26 Oct 2026 15:21:33 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7396465</guid>
+         <dc:creator>Nicole Brockbank</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
          <title><![CDATA[Toronto man sentenced to life with no chance of parole for 16 years in murder of filmmaker]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/toronto-man-sentencing-filmmaker-killing-second-degree-murder-9.7396224?cmp=rss</link>
          <description><![CDATA[<img src='https://i.cbc.ca/ais/1.6875925,1686751240000/full/max/0/default.jpg?im=Crop%2Crect%3D%2873%2C0%2C1021%2C574%29%3B' alt='53-year-old Toronto resident Reeyaz Habib seen in an undated photo.' width='620' height='349' title='Toronto police say the death of 53-year-old Toronto resident Reeyaz Habib, who was previously reported as missing a day before his body was discovered, is now being investigated as a homicide.'/><p>A Toronto man has been sentenced to life with no chance of parole for 16 years for killing a filmmaker whose body was found in a trash compactor in Liberty Village more than three years ago.</p>]]></description>
          <pubDate>Mon, 26 Oct 2026 12:06:00 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7396224</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Brampton man arrested, charged in connection with fatal stabbing in Mississauga]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/suspect-mississauga-fatal-stabbing-industrial-area-9.7396455?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/a03b174a-1a27-4ea2-b991-0094707d65d2,1793036065870/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C10%2C526%2C295%29%3B' alt='Kevin Chippie' width='620' height='349' title='Kevin Chippie'/><p>A 35-year-old Brampton man has been arrested and charged in the stabbing death of a 47-year-old Bradford, Ont., man in Mississauga over the weekend.</p>]]></description>
+         <pubDate>Mon, 26 Oct 2026 13:59:06 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7396455</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -109,9 +140,9 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[1 dead, 1 critically injured following fire at home in Barrie, Ont.: police]]></title>
+         <title><![CDATA[1 dead, 1 critically injured following weekend fire at home in Barrie, police say]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/1-dead-1-critically-injured-barrie-house-fire-9.7395946?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/05c76c75-b242-4f92-86ce-c09ae4bf7d0a,1793032416295/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C80%2C1536%2C864%29%3B' alt='Firetruck outside home fence' width='620' height='349' title=''/><p>Police say a person is dead after a fire broke out at a home in Barrie's north end Sunday.</p>]]></description>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/05c76c75-b242-4f92-86ce-c09ae4bf7d0a,1793032416295/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C80%2C1536%2C864%29%3B' alt='Firetruck outside home fence' width='620' height='349' title=''/><p>One person is dead and another is critically injured after a fire broke out at a home in Barrie on the weekend, police say.</p>]]></description>
          <pubDate>Mon, 26 Oct 2026 09:29:19 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7395946</guid>
@@ -186,39 +217,6 @@
          <pubDate>Sun, 25 Oct 2026 08:22:53 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7395183</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Toronto artist brings ‘spooky’ to city’s west-end through monster exhibition]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/toronto-artist-monster-exhibition-west-end-9.7394727?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/7f010b59-442f-46c2-8592-b0c16688a514,1792857310696/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B' alt='Woman with light pink hair, black shirt standing in front of art exhibition' width='620' height='349' title=''/><p>Halloween is fast approaching and this Toronto artist is bringing the spooky to a west-end art gallery.</p>]]></description>
-         <pubDate>Sun, 25 Oct 2026 04:00:00 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7394727</guid>
-         <dc:creator>Gabriela Silva Ponte</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Transit a 'glaring oversight' for Durham region candidates, some riders and advocates say]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/riders-and-advocates-say-transit-is-a-glaring-oversight-for-durham-region-candidates-9.7393864?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/07663708-995b-4d34-a6b0-41cdff6751f5,1766444881100/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C157%2C4032%2C2268%29%3B' alt='Bus stopped in Ajax ' width='620' height='349' title='Durham Region Transit is being recongized for its implementation of the Hidden Disabilities Sunflower Program. '/><p>As municipal election day approaches, some transit riders and advocacy groups in Durham Region say local candidates are treating public transit as a background issue, and warn the system is struggling to keep pace with community needs.</p>]]></description>
-         <pubDate>Sat, 24 Oct 2026 06:00:00 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7393864</guid>
-         <dc:creator>Christian D'Avino</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Teachers, education workers rally in Toronto calling for more funding for education]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/queens-park-teachers-rally-public-education-9.7394914?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/5d451999-fe24-4582-a7fc-7b11378dc1cc,1792881257997/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B' alt='A man waves a flag that says &quot;no cuts to public education&quot;' width='620' height='349' title='A man waves a flag that says &quot;no cuts to public education&quot; at a rally on Parliament Hill on October 24, 2026.'/><p>Teachers and education workers rallied in five cities across Ontario, calling for increased support and funding for public education in the province.</p>]]></description>
-         <pubDate>Sat, 24 Oct 2026 19:22:38 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7394914</guid>
-         <dc:creator>Eleanor Yuneun Park</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
