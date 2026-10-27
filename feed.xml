@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Tue, 27 Oct 2026 02:37:30 EDT</lastBuildDate>
+      <lastBuildDate>Tue, 27 Oct 2026 05:08:58 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -14,13 +14,34 @@
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
       <item>
-         <title><![CDATA[Toronto re-elects Olivia Chow as mayor]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/olivia-chow-wins-mayoral-race-cbc-projects-9.7397015?cmp=rss</link>
+         <title><![CDATA[Olivia Chow romps to victory as head of progressive new Toronto council]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/olivia-chow-progressive-council-toronto-mayor-second-term-9.7396703?cmp=rss</link>
          <description><![CDATA[<img src='https://i.cbc.ca/ais/5ce43548-f5a4-49bb-9a77-1762d67f36a6,1793069765594/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C288%2C3936%2C2214%29%3B' alt='Woman in red suit speaks to a crowd.' width='620' height='349' title='Toronto&apos;s re-elected Mayor Olivia Chow celebrates her win at an election night event in Toronto on Oct. 26, 2026.'/><p></p>]]></description>
          <pubDate>Fri, 23 Oct 2026 14:26:31 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7393652</guid>
          <dc:type>contentpackage</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[GTA votes 2026: Catch up on everything you need to know from election night]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/livestory/2026-election-toronto-brampton-mississauga-durham-9.7396652?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/626089fa-55ad-47b2-ac43-da0cd76654a3,1793045162525/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C341%2C7508%2C4223%29%3B' alt='A person walks past a polling station.' width='620' height='349' title='Voters head to the polls at St. Lawrence Market to cast a ballot in Toronto’s municipal and mayoral elections on Oct. 26, 2026.'/><p></p>]]></description>
+         <pubDate>Mon, 26 Oct 2026 18:42:23 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7396652</guid>
+         <dc:type>livestory</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Why a spate of gun-for-hire shootings in Toronto were likely paid for by Iran]]></title>
+         <link>https://www.cbc.ca/news/investigates/iran-gun-for-hire-shootings-9.7396038?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/bdd45ddb-6116-41f5-9d89-ee28f99f6468,1793058640934/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5000%2C2812%29%3B' alt='Police take photos of a bullet hole at the scene of an early morning shooting outside the US Consulate in Toronto, on Monday, July 27, 2026.' width='620' height='349' title='Police take photos of a bullet hole at the scene of an early morning shooting outside the US Consulate in Toronto, on Monday, July 27, 2026. The attack was among a dozen politically-motivated gun-for-hire shootings that appear to be linked to the Iranian government.'/><p>A CBC News investigation has pinpointed a dozen politically-motivated gun-for-hire shootings in Toronto that appear to have been financed by the Iranian government.</p>]]></description>
+         <pubDate>Tue, 27 Oct 2026 04:00:00 EDT</pubDate>
+         <category>News/Investigates</category>
+         <guid isPermaLink="false">9.7396038</guid>
+         <dc:creator>Jonathon Gatehouse, Albert Leung</dc:creator>
+         <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -194,28 +215,6 @@
          <pubDate>Sun, 25 Oct 2026 08:22:53 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7395183</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Toronto artist brings ‘spooky’ to city’s west-end through monster exhibition]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/toronto-artist-monster-exhibition-west-end-9.7394727?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/7f010b59-442f-46c2-8592-b0c16688a514,1792857310696/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B' alt='Woman with light pink hair, black shirt standing in front of art exhibition' width='620' height='349' title=''/><p>Halloween is fast approaching and this Toronto artist is bringing the spooky to a west-end art gallery.</p>]]></description>
-         <pubDate>Sun, 25 Oct 2026 04:00:00 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7394727</guid>
-         <dc:creator>Gabriela Silva Ponte</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Transit a 'glaring oversight' for Durham region candidates, some riders and advocates say]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/riders-and-advocates-say-transit-is-a-glaring-oversight-for-durham-region-candidates-9.7393864?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/07663708-995b-4d34-a6b0-41cdff6751f5,1766444881100/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C157%2C4032%2C2268%29%3B' alt='Bus stopped in Ajax ' width='620' height='349' title='Durham Region Transit is being recongized for its implementation of the Hidden Disabilities Sunflower Program. '/><p>As municipal election day approaches, some transit riders and advocacy groups in Durham Region say local candidates are treating public transit as a background issue, and warn the system is struggling to keep pace with community needs.</p>]]></description>
-         <pubDate>Sat, 24 Oct 2026 06:00:00 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7393864</guid>
-         <dc:creator>Christian D'Avino</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
