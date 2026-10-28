@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Tue, 27 Oct 2026 21:06:38 EDT</lastBuildDate>
+      <lastBuildDate>Tue, 27 Oct 2026 22:04:16 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -32,6 +32,16 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7398370</guid>
          <dc:creator>Paola Loriggio</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Durham police officer charged in child sexual exploitation investigation]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/durham-regional-police-service-officer-charged-9.7399077?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.6811167,1769534073370/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B' alt='A close up of the Durham Regional Police decal on a car. ' width='620' height='349' title='Durham Police located a woman with life threatening injuries at approximately 5:00 AM.'/><p>A Durham Regional Police officer has been arrested and charged with seven offences related to child sexual abuse and exploitation material, Ontario Provincial Police say.</p>]]></description>
+         <pubDate>Tue, 27 Oct 2026 22:04:16 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7399077</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -215,15 +225,6 @@
          <guid isPermaLink="false">9.7396286</guid>
          <dc:creator>Gabriela Silva Ponte</dc:creator>
          <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Ford says he 'can't wait' for U.S. midterms]]></title>
-         <link>https://www.cbc.ca/player/play/9.7396074?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/6f72ad21-7740-40b1-b449-3dfa215cbe40,1793027363738/full/max/0/default.jpg?im=Crop%2Crect%3D%28220%2C91%2C1472%2C828%29%3B' alt='Ontario Premier Doug Ford, Ottawa. Oct. 26. 2026.' width='620' height='349' title='Ontario Premier Doug Ford, Ottawa. Oct. 26. 2026.'/><p>Asked whether increased talk of a possible Canada-U.S. trade deal may be related to the upcoming U.S. midterm elections, Ontario Premier Doug Ford said he believes it's a 'combination' of things. 'They're going for election down there and I don't think President Trump's doing too well. And I think the trade deal with Canada is affecting them,' said Ford.</p>]]></description>
-         <pubDate>Mon, 26 Oct 2026 11:12:05 EDT</pubDate>
-         <guid isPermaLink="false">9.7396074</guid>
-         <dc:type>video</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
    </channel>
