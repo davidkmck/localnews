@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Wed, 28 Oct 2026 19:24:55 EDT</lastBuildDate>
+      <lastBuildDate>Wed, 28 Oct 2026 20:41:41 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -54,6 +54,15 @@
          <guid isPermaLink="false">9.7399811</guid>
          <dc:creator>Nicole Brockbank</dc:creator>
          <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Ontario film sector insiders say work is drying up, call on government for aid]]></title>
+         <link>https://www.cbc.ca/player/play/9.7400281?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/29df9a3c-8f74-4f82-ba30-e9c2cdf34d76,1793231400945/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Videographer looking at camera.' width='620' height='349' title='Watched Heated Rivalry or Guillermo del Toro’s Frankenstein? Both were filmed in Ontario and are just some of the major productions hosted by the province.'/><p>Watched Heated Rivalry or Guillermo del Toro’s Frankenstein? Both were filmed in Ontario and are just some of the major productions hosted by the province. But as CBC’s Tyler Cheese explains, Ontario’s film industry may be in trouble, and sector insiders are calling on the province to come to their aid ahead of the November fall economic statement.</p>]]></description>
+         <pubDate>Wed, 28 Oct 2026 19:52:10 EDT</pubDate>
+         <guid isPermaLink="false">9.7400281</guid>
+         <dc:type>video</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -215,17 +224,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7398182</guid>
          <dc:creator>Liam Casey, Allison Jones</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Olivia Chow romps to victory as head of progressive new Toronto council]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/olivia-chow-progressive-council-toronto-mayor-second-term-9.7396703?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/c27777d8-948e-4f0a-957e-0e6eb7f16895,1793068803247/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C292%2C5616%2C3159%29%3B' alt='A woman speaks in front of supporters.' width='620' height='349' title='Toronto&apos;s re-elected Mayor Olivia Chow celebrates her win at an election night event in Toronto on Oct. 26, 2026.'/><p>Olivia Chow will continue in the mayor's chair for another four years, after beating Brad Bradford. Chow won some 530,000 votes in an election where several of her key progressive allies also triumphed.</p>]]></description>
-         <pubDate>Tue, 27 Oct 2026 04:00:00 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7396703</guid>
-         <dc:creator>Isaac Callan</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
