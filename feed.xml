@@ -6,13 +6,33 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Thu, 29 Oct 2026 05:00:00 EDT</lastBuildDate>
+      <lastBuildDate>Thu, 29 Oct 2026 12:17:01 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA['Crypto King' Aiden Pleterski found guilty of fraud at his jury trial in Toronto]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/crypto-king-verdict-9.7401214?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/c92b28d1-501f-470c-a7d0-68c2d85c9645,1793038841762/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Three photos show a man by a car, on a jet and shopping,' width='620' height='349' title='Aiden Pleterski is shown in various photos.'/><p></p>]]></description>
+         <pubDate>Thu, 29 Oct 2026 12:12:12 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7401253</guid>
+         <dc:type>contentpackage</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[4 in hospital as Toronto police investigate home invasion, shooting at Bridle Path home]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/home-invasion-investigation-north-york-toronto-police-9.7400796?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/b32a1fb1-e3e7-4df9-83ce-197411afd440,1793284816593/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B' alt='Police vehicles behind police tape.' width='620' height='349' title='Toronto police are investigating a home invasion and shooting at a home in the Bridle Path neighbourhood that resulted in four people being taken to hospital on Oct. 29, 2026.'/><p>Toronto police say they're investigating a home invasion after three people were shot inside a North York residence early Thursday. They say four people were injured, and two are in life-threatening condition.</p>]]></description>
+         <pubDate>Thu, 29 Oct 2026 08:32:41 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7400796</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[Toronto housing market faces fresh uncertainty after Bank of Canada rate hike, real estate experts say]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/toronto-housing-market-faces-fresh-uncertainty-after-bank-of-canada-rate-hike-9.7399919?cmp=rss</link>
@@ -37,9 +57,39 @@ signaled that further rate hikes might be on the horizon. Real estate experts sa
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
+         <title><![CDATA[Traffic agent dead after being struck by driver in a truck in Toronto: police]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/thorncliffe-park-toronto-pedestrian-fatal-9.7401085?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/e7f198a4-45b7-4993-94ce-a1e2ddfe5e7d,1793286011949/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C411%2C4032%2C2268%29%3B' alt='Emergency personnel gather in the middle of an intersection' width='620' height='349' title='Toronto police are investigating a fatal pedestrian incident after a person was struck by a driver in a truck.'/><p>A City of Toronto traffic agent has died after being struck by a driver in a truck in Toronto's Thorncliffe Park neighbourhood Thursday morning, Toronto police say.</p>]]></description>
+         <pubDate>Thu, 29 Oct 2026 11:04:33 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7401085</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Belleville police officer who thwarted synagogue attack released from hospital]]></title>
+         <link>https://www.cbc.ca/news/canada/ottawa/belleville-police-synagogue-attack-injured-recovery-9.7401022?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/2a8952db-f299-4af7-a880-91fb5d619926,1790190176094/full/max/0/default.jpg?im=Crop%2Crect%3D%2830%2C0%2C563%2C316%29%3B' alt='Constable Jeff Smith, cropped from a larger family photo on his wife Ashley Smith&apos;s Facebook page' width='620' height='349' title='Constable Jeff Smith, cropped from a larger family photo on his wife Ashley Smith&apos;s Facebook page'/><p>The Belleville, Ont., police department says Const. Jeff Smith has been released from hospital more than a month after he was shot and seriously injured in a shootout near a synagogue.</p>]]></description>
+         <pubDate>Thu, 29 Oct 2026 10:49:22 EDT</pubDate>
+         <category>News/Canada/Ottawa</category>
+         <guid isPermaLink="false">9.7401022</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Man dead after being struck by two vehicles in Richmond Hill: York police]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/pedestrian-fatal-crash-york-police-richmond-hill-9.7400731?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/a61a1f56-934a-4b43-ad0f-f5dea5886c71,1793268447845/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Police at pedestrian-vehicle crash scene' width='620' height='349' title='A man has died after being struck by a driver in a vehicle on the evening of Oct. 28, 2026 in Richmond Hill, said York police'/><p>A 27-year-old man has died in Richmond Hill after being struck by a vehicle Wednesday night, York police said.</p>]]></description>
+         <pubDate>Thu, 29 Oct 2026 06:22:06 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7400731</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
          <title><![CDATA[More Canadian provinces are ending time changes. What does it mean for your health?]]></title>
          <link>https://www.cbc.ca/news/canada/daylight-saving-time-canada-health-9.7399791?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.5825998,1606948484000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C147%2C4032%2C2268%29%3B' alt='' width='620' height='349' title='Clock at Charlottetown City Hall'/><p>Researchers are raising concerns as parts of Canada move to permanent daylight time, warning that later winter sunrises could have consequences for sleep and health.</p>]]></description>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/88373a8b-0959-4cb0-8ca0-1bdab8fced42,1793282412102/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C112%2C3872%2C2178%29%3B' alt='Two people silhouetted facing a clock tower on a partly cloudy day.' width='620' height='349' title='People walk past the Montreal clock tower, in Montreal, on Wednesday, Oct. 28, 2026. THE CANADIAN PRESS/Christopher Katsarov'/><p>Researchers are raising concerns as parts of Canada move to permanent daylight time, warning that later winter sunrises could have consequences for sleep and health.</p>]]></description>
          <pubDate>Thu, 29 Oct 2026 04:00:00 EDT</pubDate>
          <category>News/Canada</category>
          <guid isPermaLink="false">9.7399791</guid>
@@ -171,60 +221,6 @@ signaled that further rate hikes might be on the horizon. Real estate experts sa
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7398624</guid>
          <dc:creator>Rochelle Raveendran</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Sault Ste. Marie, Ont., MPP Chris Scott 'grateful' domestic assault charges have been withdrawn]]></title>
-         <link>https://www.cbc.ca/news/canada/sudbury/chris-scott-assault-charges-withdrawn-9.7399580?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.7471067,1758565339000/full/max/0/default.jpg?im=Crop%2Crect%3D%28259%2C746%2C3763%2C2116%29%3B' alt='A man with glasses holding a glass while he speaks to another man.' width='620' height='349' title='Progressive Conservative Chris Scott, left,  had a narrow 118 lead over the NDP&apos;s Lisa Vezeau-Allen when polls closed in Sault Ste. Marie. '/><p>Sault Ste. Marie, Ont., MPP Chris Scott has been an Independent since being arrested for spousal assault and assault with a weapon in September 2025. Scott's lawyer confirmed to CBC News that the charges were dropped Wednesday at the request of the Crown.</p>]]></description>
-         <pubDate>Wed, 28 Oct 2026 11:54:32 EDT</pubDate>
-         <category>News/Canada/Sudbury</category>
-         <guid isPermaLink="false">9.7399580</guid>
-         <dc:creator>Alex Flood</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Ontario pauses some funding for skills training for unemployed people, according to career colleges]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/ontario-skills-training-funding-unemployed-people-career-colleges-9.7399201?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/941bcb68-8426-4910-a9de-4e5c9766b695,1793186376674/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C323%2C6190%2C3481%29%3B' alt='Nolan Quinn in dark suit and red poppy on lapel surrounded by a circle of reporters at Queen&apos;s Park.' width='620' height='349' title='Ontario Minister of Colleges and Universities Nolan Quinn speaks to reporters during a scrum at Queen&apos;s Park, the Ontario Legislature, in Toronto on Tuesday, Oct. 27, 2026.'/><p>In addition to recently freezing Ontario Student Assistance Program payments to all private post-secondary institutions, the province has paused at least some funding through Better Jobs Ontario, which helps unemployed people get skills training.</p>]]></description>
-         <pubDate>Wed, 28 Oct 2026 08:21:56 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7399201</guid>
-         <dc:creator>Allison Jones</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Durham police officer charged in child sexual exploitation investigation]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/durham-regional-police-service-officer-charged-9.7399077?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.6811167,1769534073370/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B' alt='A close up of the Durham Regional Police decal on a car. ' width='620' height='349' title='Durham Police located a woman with life threatening injuries at approximately 5:00 AM.'/><p>A Durham Regional Police officer has been arrested and charged with seven offences related to child sexual abuse and exploitation material, Ontario Provincial Police say.</p>]]></description>
-         <pubDate>Tue, 27 Oct 2026 22:04:16 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7399077</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Tedjo beat 2 incumbents in Mississauga's mayoral race. Here are his plans for the city]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/alvin-tedjo-mississauga-mayor-election-priorities-9.7398835?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/84e4d670-c74f-479a-a172-d17ebcc5d772,1793140329194/full/max/0/default.jpg?im=Crop%2Crect%3D%28923%2C1006%2C4062%2C2284%29%3B' alt='Alvin Tedjo' width='620' height='349' title='Alvin Tedjo'/><p>One day after a decisive victory, Alvin Tedjo announced his priorities as the next mayor of Mississauga, saying he will focus on affordability, crime, housing, transportation and the economy.</p>]]></description>
-         <pubDate>Tue, 27 Oct 2026 19:34:17 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7398835</guid>
-         <dc:creator>Muriel Draaisma</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Regis Korchinski-Paquet's mother questions purpose of coroner's inquest]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/ont-inquest-korchinski-paquet-9.7398370?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.5700013,1598479458000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C607%2C341%29%3B' alt='' width='620' height='349' title='Regis Korchinski-Paquet died at age 29 after police were called to her apartment in Toronto.'/><p>Regis Korchinski-Paquet's mother questioned the purpose of a coroner's inquest examining the circumstances of her daughter's death as well as the video and audio evidence presented in it, as lawyers for several police officers pressed her Tuesday to clarify what she saw that day.</p>]]></description>
-         <pubDate>Tue, 27 Oct 2026 14:42:59 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7398370</guid>
-         <dc:creator>Paola Loriggio</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
