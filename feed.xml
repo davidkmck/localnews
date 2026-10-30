@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Thu, 29 Oct 2026 19:50:16 EDT</lastBuildDate>
+      <lastBuildDate>Thu, 29 Oct 2026 23:38:53 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -14,23 +14,24 @@
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
       <item>
-         <title><![CDATA[Toronto's voter turnout numbers are in — and they show a rebound at the ballot box]]></title>
-         <link>https://www.cbc.ca/player/play/9.7398804?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/c27777d8-948e-4f0a-957e-0e6eb7f16895,1793068803247/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C292%2C5616%2C3159%29%3B' alt='A woman speaks in front of supporters.' width='620' height='349' title='Toronto&apos;s re-elected Mayor Olivia Chow celebrates her win at an election night event in Toronto on Oct. 26, 2026.'/><p></p>]]></description>
-         <pubDate>Thu, 29 Oct 2026 17:38:02 EDT</pubDate>
+         <title><![CDATA[Elections Ontario tells tribunal it's making efforts to provide accessible voting]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/ont-accessible-voting-9.7402343?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/222e3201-0123-4c24-bb2c-221abbc17d1f,1791721224830/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C497%2C4032%2C2268%29%3B' alt='Accessible voting sign Toronto municipal election' width='620' height='349' title='Accessible voting sign Toronto municipal election'/><p>Lawyers representing Elections Ontario told an Ontario Human Rights Tribunal hearing on Thursday that the agency seeks to accommodate all voters with disabilities the best it can, but those accommodations must ensure votes are secure and secret.</p>]]></description>
+         <pubDate>Thu, 29 Oct 2026 21:55:11 EDT</pubDate>
          <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7402004</guid>
-         <dc:type>contentpackage</dc:type>
+         <guid isPermaLink="false">9.7402343</guid>
+         <dc:creator>Maan Alhmidi</dc:creator>
+         <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA['Crypto King' Aiden Pleterski found guilty of fraud at his jury trial in Toronto]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/crypto-king-verdict-9.7401214?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/c92b28d1-501f-470c-a7d0-68c2d85c9645,1793038841762/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Three photos show a man by a car, on a jet and shopping,' width='620' height='349' title='Aiden Pleterski is shown in various photos.'/><p>Self-described "Crypto King" Aiden Pleterski was found guilty of fraud over $5,000 by the jury at his Toronto trial Thursday morning.</p>]]></description>
-         <pubDate>Thu, 29 Oct 2026 12:03:12 EDT</pubDate>
+         <title><![CDATA[Toronto's voter turnout numbers are in. Here's what they show]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/toronto-election-official-counts-9.7401797?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/8f4fc199-1a41-4828-bbe0-4a8baa9ce37a,1793037976193/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C208%2C8026%2C4514%29%3B' alt='A woman walking in front of two tables at a polling station where two voters are casting their ballots at tables with cardboard that reads: voting screen.' width='620' height='349' title='Voters head to the polls at St. Lawrence Market to cast a ballot in Toronto’s municipal and mayoral elections on Oct. 26, 2026.'/><p>Voter turnout reached 46 per cent in Toronto’s 2026 municipal election, marking a rebound from the most recent previous mayoral contests, results from the city clerk's office show.</p>]]></description>
+         <pubDate>Thu, 29 Oct 2026 17:22:18 EDT</pubDate>
          <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7401214</guid>
-         <dc:creator>Nicole Brockbank</dc:creator>
+         <guid isPermaLink="false">9.7401797</guid>
+         <dc:creator>Gabriela Silva Ponte</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -42,6 +43,17 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7401085</guid>
          <dc:creator>Arrthy Thayaparan</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA['Crypto King' Aiden Pleterski found guilty of fraud at his jury trial in Toronto]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/crypto-king-verdict-9.7401214?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/c92b28d1-501f-470c-a7d0-68c2d85c9645,1793038841762/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Three photos show a man by a car, on a jet and shopping,' width='620' height='349' title='Aiden Pleterski is shown in various photos.'/><p>Self-described "Crypto King" Aiden Pleterski was found guilty of fraud over $5,000 by the jury at his Toronto trial Thursday morning.</p>]]></description>
+         <pubDate>Thu, 29 Oct 2026 12:03:12 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7401214</guid>
+         <dc:creator>Nicole Brockbank</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -64,17 +76,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7401193</guid>
          <dc:creator>Olivia Piercey</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Toronto's voter turnout numbers are in. Here's what they show]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/toronto-election-official-counts-9.7401797?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/8f4fc199-1a41-4828-bbe0-4a8baa9ce37a,1793037976193/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C208%2C8026%2C4514%29%3B' alt='A woman walking in front of two tables at a polling station where two voters are casting their ballots at tables with cardboard that reads: voting screen.' width='620' height='349' title='Voters head to the polls at St. Lawrence Market to cast a ballot in Toronto’s municipal and mayoral elections on Oct. 26, 2026.'/><p>Voter turnout reached 46 per cent in Toronto’s 2026 municipal election, marking a rebound from the most recent previous mayoral contests, results from the city clerk's office show.</p>]]></description>
-         <pubDate>Thu, 29 Oct 2026 17:22:18 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7401797</guid>
-         <dc:creator>Gabriela Silva Ponte</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
