@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Sat, 31 Oct 2026 10:52:13 EDT</lastBuildDate>
+      <lastBuildDate>Sat, 31 Oct 2026 13:53:09 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -14,9 +14,9 @@
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
       <item>
-         <title><![CDATA[Toronto man, 23, identified as suspect in Bridle Path home invasion]]></title>
+         <title><![CDATA[Suspect identified in Toronto home invasion where residents were shot, attacked with hammer]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/bridle-path-neighbourhood-home-invasion-toronto-police-update-9.7404151?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/6839e8c7-5fc1-4867-9dc6-ce829f26f242,1793456948171/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2000%2C1125%29%3B' alt='Man in orange clothes' width='620' height='349' title='Toronto police identified Daijohn Richards, 23, as a suspect in a home invasion investigation after a residence in the Bridle Path neighbourhood was broken into and a family was attacked on Oct. 29, 2026.'/><p>Daijohn Richards, 23, of Toronto has been identified as a suspect wanted in connection with the Bridle Path neighbourhood home invasion investigation, where a family of four was shot at and attacked with a hammer.</p>]]></description>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/28ea130e-1178-4408-b69e-c2d9b44510d7,1793467771262/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C320%2C4000%2C2250%29%3B' alt='Police officer walks around a taped off crime scene' width='620' height='349' title='A police officer works at the scene of a home invasion in the Bridle Path neighbourhood in Toronto, on Thursday, Oct. 29, 2026.'/><p>Daijohn Richards, 23, of Toronto has been identified as a suspect wanted in connection with the Bridle Path neighbourhood home invasion investigation, where a family of four was shot at and attacked with a hammer.</p>]]></description>
          <pubDate>Sat, 31 Oct 2026 09:37:24 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7404151</guid>
@@ -27,11 +27,31 @@
       <item>
          <title><![CDATA[Here’s why parts of Ontario are not turning their clocks back this weekend]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/daylight-savings-ontario-time-zones-9.7403992?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/c4751f3a-4467-4bce-9f91-b85bf0907e97,1793401741057/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A split screen of a clock and Toronto&apos;s skyline.' width='620' height='349' title=''/><p>Clocks in most of Ontario are turning back one hour on Sunday, marking the end of daylight saving time, but they’ll stay put in parts of the province.</p>]]></description>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/c4751f3a-4467-4bce-9f91-b85bf0907e97,1793401741057/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A split screen of a clock and Toronto&apos;s skyline.' width='620' height='349' title=''/><p>Clocks in most of Ontario are turning back one hour on Sunday, marking the end of daylight saving time, but they’ll stay put in other parts of the province.</p>]]></description>
          <pubDate>Sat, 31 Oct 2026 05:00:00 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7403992</guid>
          <dc:creator>Olivia Piercey</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[4 dead, 2 in life-threatening condition after single-vehicle crash in Puslinch: OPP]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/4-dead-2-life-threatening-puslinch-crash-9.7404271?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/eef508e4-2cee-41b5-acfc-f8fed224b2d5,1793463932880/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Pylons, sign set up to show road is closed' width='620' height='349' title=''/><p>Four people are dead and two others suffered life-threatening injuries after a single-vehicle crash in Puslinch — a rural area southwest of Guelph — early Saturday, according to Ontario Provincial Police.</p>]]></description>
+         <pubDate>Sat, 31 Oct 2026 12:35:11 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7404271</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Woman, 62, arrested, charged with fatal pedestrian crash in Mono: OPP]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/town-of-mono-arrest-charge-fatal-pedestrian-crash-9.7404261?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.3662307,1778427866700/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C620%2C348%29%3B' alt='OPP car' width='620' height='349' title='OPP mislead by 911 call from teen who claimed he had been kidnapped Saturday.'/><p>Ontario Provincial Police have arrested a 62-year-old woman after a fatal collision with a pedestrian in the Town of Mono, Ont., about 60 kilometres northwest of Toronto.</p>]]></description>
+         <pubDate>Sat, 31 Oct 2026 12:13:57 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7404261</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -200,28 +220,6 @@
          <category>News/Canada</category>
          <guid isPermaLink="false">9.7398832</guid>
          <dc:creator>Aliyah Marko-Omene, Shelley Ayres, Mark Kelley, Danielle Reid</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[OPP officer charged with assault after Caledon man injured in arrest: SIU]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/siu-caledon-opp-officer-assault-charge-arrest-injuries-9.7402993?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.3662307,1778427866700/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C620%2C348%29%3B' alt='OPP car' width='620' height='349' title='OPP mislead by 911 call from teen who claimed he had been kidnapped Saturday.'/><p>An Ontario Provinical Police officer who was involved in an arrest that left a man seriously injured in Caledon last year has been charged with assault.</p>]]></description>
-         <pubDate>Fri, 30 Oct 2026 13:02:32 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7402993</guid>
-         <dc:creator>Sadeen Mohsen</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Experts, Liberal MP hope for full ban on sports betting ads as advocates cite mental health decline]]></title>
-         <link>https://www.cbc.ca/news/politics/experts-liberal-mp-hope-for-full-ban-on-sports-betting-9.7402075?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/5c039460-7c38-4ff9-b00b-b921497183f7,1793371702990/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C278%2C5329%2C2997%29%3B' alt='A hockey player shooting a puck with another player nearby.' width='620' height='349' title='San Jose Sharks center Will Smith shoots the puck against Vancouver Canucks defenseman Elias Pettersson during the third period of an NHL hockey game, Thursday, Oct. 29, 2026, in San Jose, Calif. In the last five years, there has been a 161 per cent increase in gambling-related calls to Ontario&apos;s mental health and addictions helpline among men aged 15-24.'/><p>Sports betting businesses in Ontario, Alberta and eventually Quebec could soon be limited by a Senate bill seeking to restrict sports betting ads across Canada based on findings of increased addiction and gambling-related harms and suicides in Ontario, which reached committee on Wednesday.</p>]]></description>
-         <pubDate>Fri, 30 Oct 2026 10:50:39 EDT</pubDate>
-         <category>News/Politics</category>
-         <guid isPermaLink="false">9.7402075</guid>
-         <dc:creator>Sophia Laporte</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
