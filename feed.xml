@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Sun, 01 Nov 2026 09:35:58 EST</lastBuildDate>
+      <lastBuildDate>Sun, 01 Nov 2026 14:41:59 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -14,13 +14,33 @@
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
       <item>
-         <title><![CDATA[Carney calls December byelection for Scarborough North, 5 other ridings in Canada]]></title>
-         <link>https://www.cbc.ca/news/politics/carney-byelections-saskatchewan-ontario-quebec-9.7404287?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/2fa78cc8-c420-4067-8bab-a8343e7966be,1793469677077/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C7220%2C4061%29%3B' alt='Prime Minister Mark Carney speaks before a meeting of the Liberal caucus on Parliament Hill in Ottawa, on Wednesday, Oct. 28, 2026.' width='620' height='349' title='Prime Minister Mark Carney speaks before a meeting of the Liberal caucus on Parliament Hill in Ottawa, on Wednesday, Oct. 28, 2026.'/><p>Prime Minister Mark Carney has called byelections for a total of six ridings located in Saskatchewan, Ontario and Quebec that will give the Liberals a chance to strengthen their thin majority in the House of Commons.</p>]]></description>
-         <pubDate>Sun, 01 Nov 2026 09:35:58 EST</pubDate>
-         <category>News/Politics</category>
-         <guid isPermaLink="false">9.7404287</guid>
-         <dc:creator>Benjamin Lopez Steven</dc:creator>
+         <title><![CDATA[Crash that killed 4 GTA teens in Puslinch, Ont. an 'unimaginable tragedy': OPP]]></title>
+         <link>https://www.cbc.ca/news/canada/kitchener-waterloo/puslinch-fatal-car-crash-youths-9.7404772?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/e9cc6d39-f9ad-4879-8600-bd5f16c73ad0,1793552618324/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C117%2C5712%2C3213%29%3B' alt='Flowers on a traffic sign post by a road.' width='620' height='349' title='A crash that killed four young people in Puslinch early Oct.31, 2026 was an &apos;unimaginable tragedy&apos;, according to the Ontario Provincial Police.'/><p>Four teens, aged 15 to 19 years, died in a crash in Puslinch, a rural area southeast of Guelph, early Saturday, according to Ontario Provincial Police.</p>]]></description>
+         <pubDate>Sun, 01 Nov 2026 10:19:50 EST</pubDate>
+         <category>News/Canada/Kitchener-Waterloo</category>
+         <guid isPermaLink="false">9.7404772</guid>
+         <dc:creator>Arrthy Thayaparan</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[TTC service changes took effect Sunday. Here’s what you need to know]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/ttc-service-changes-what-you-need-to-know-9.7404934?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/3f5a8cfb-6c47-41d4-844c-dfcce7c5cdbb,1764188270141/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C259%2C4985%2C2804%29%3B' alt='The TTC sign outside the north entrance to Bloor-Yonge subway station.' width='620' height='349' title='The TTC sign outside the north entrance to Bloor-Yonge subway station.'/><p>Several service changes on the Toronto Transit Commission (TTC) took effect Sunday to accommodate infrastructure and restoration projects across the city, the public transit agency says.</p>]]></description>
+         <pubDate>Sun, 01 Nov 2026 14:41:59 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7404934</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Woman dies in hospital after stabbing in North York, police investigate as homicide]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/north-york-stabbing-homicide-toronto-police-9.7404705?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/a1cbcdc6-e551-4d05-a35b-31a9ae9c5509,1793541920794/full/max/0/default.jpg?im=Crop%2Crect%3D%2812%2C0%2C951%2C534%29%3B' alt='A toronto police vehicle outside a residential building' width='620' height='349' title='A woman has died in hospital after she was found with stab wounds on Oct. 31, 2026, Toronto police say.'/><p>Toronto police are investigating a homicide in North York after a woman died in hospital with stab wounds on Friday.</p>]]></description>
+         <pubDate>Sun, 01 Nov 2026 08:45:53 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7404705</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -45,12 +65,13 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[Woman dies in hospital after stabbing in North York, police investigate as homicide]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/north-york-stabbing-homicide-toronto-police-9.7404705?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/a1cbcdc6-e551-4d05-a35b-31a9ae9c5509,1793541920794/full/max/0/default.jpg?im=Crop%2Crect%3D%2812%2C0%2C951%2C534%29%3B' alt='A toronto police vehicle outside a residential building' width='620' height='349' title='A woman has died in hospital after she was found with stab wounds on Oct. 31, 2026, Toronto police say.'/><p>Toronto police are investigating a homicide in North York after a woman died in hospital with stab wounds on Friday.</p>]]></description>
-         <pubDate>Sun, 01 Nov 2026 08:45:53 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7404705</guid>
+         <title><![CDATA[Carney calls December byelection for Scarborough North, 5 other ridings in Canada]]></title>
+         <link>https://www.cbc.ca/news/politics/carney-byelections-saskatchewan-ontario-quebec-9.7404287?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/2fa78cc8-c420-4067-8bab-a8343e7966be,1793469677077/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C7220%2C4061%29%3B' alt='Prime Minister Mark Carney speaks before a meeting of the Liberal caucus on Parliament Hill in Ottawa, on Wednesday, Oct. 28, 2026.' width='620' height='349' title='Prime Minister Mark Carney speaks before a meeting of the Liberal caucus on Parliament Hill in Ottawa, on Wednesday, Oct. 28, 2026.'/><p>Prime Minister Mark Carney has called byelections for a total of six ridings located in Saskatchewan, Ontario and Quebec that will give the Liberals a chance to strengthen their thin majority in the House of Commons.</p>]]></description>
+         <pubDate>Sun, 01 Nov 2026 09:35:58 EST</pubDate>
+         <category>News/Politics</category>
+         <guid isPermaLink="false">9.7404287</guid>
+         <dc:creator>Benjamin Lopez Steven</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -199,28 +220,6 @@
          <pubDate>Fri, 30 Oct 2026 17:48:03 EDT</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7403647</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Some Backstreet Boys fans consider refund after Live Nation relocates them to cheaper, still-obstructed seats]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/live-nation-relocates-backstreet-boys-fans-to-cheaper-obstructed-seats-9.7403274?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/854fe5e6-6942-4318-8e51-ac3a86cfe5b9,1783362477021/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B' alt='Aerial (drone) images of outside the Rogers Centre before-during and after the World Series Game 7 game in Toronto' width='620' height='349' title='Aerial (drone) images of outside the Rogers Centre before-during and after the World Series Game 7 game in Toronto'/><p>Some Backstreet Boys fans attending one of the group’s Toronto shows aren’t happy with their seat change after Live Nation relocated fans who unknowingly bought tickets that had an obstructed view.</p>]]></description>
-         <pubDate>Fri, 30 Oct 2026 15:54:36 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7403274</guid>
-         <dc:creator>Gabriela Silva Ponte</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[York Catholic school board chair contributed to ‘toxic environment': board’s integrity commissioner]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/ycdsb-board-chair-integrity-commissioner-report-9.7403712?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/669106b1-8a40-465a-a224-dd28d54c17fa,1793396789295/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B' alt='Aerial (drone) images of Toronto Catholic District School Board offices in North York.' width='620' height='349' title='The York Catholic District School Board’s integrity commissioner ruled Maria Iafrate will be without trustee pay for 30 days and must receive training on the board’s governance.'/><p>The integrity commissioner for the York Catholic District School Board is taking disciplinary action against the board’s chair after an investigation fund she used “profane” language towards the former education director.</p>]]></description>
-         <pubDate>Fri, 30 Oct 2026 18:51:00 EDT</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7403712</guid>
-         <dc:creator>Olivia Piercey</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
