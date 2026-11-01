@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Sat, 31 Oct 2026 18:44:30 EDT</lastBuildDate>
+      <lastBuildDate>Sat, 31 Oct 2026 19:24:22 EDT</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -25,12 +25,14 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[Brampton event makes trick-or-treating accessible for all children]]></title>
-         <link>https://www.cbc.ca/player/play/9.7404490?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/31c453b3-851c-407e-aefe-4502de58e67b,1793485879307/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A magician performs in front of a group of children.' width='620' height='349' title=''/><p>Children with disabilities took part in a Halloween celebration designed with accessibility in mind Saturday. At Brampton’s Paul Palleschi Recreation Centre, trick-or-treating stations were set up on flat, barrier-free paths. CBC's Isha Bhargava has more.</p>]]></description>
-         <pubDate>Sat, 31 Oct 2026 18:37:55 EDT</pubDate>
-         <guid isPermaLink="false">9.7404490</guid>
-         <dc:type>video</dc:type>
+         <title><![CDATA[How this Brampton community is making Halloween accessible for all kids]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/how-this-brampton-community-is-making-halloween-accessible-for-all-kids-9.7404419?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/db3e1b06-6ceb-40ad-b3eb-8e36dfa0ef50,1793481075935/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C12%2C5712%2C3213%29%3B' alt='Woman wearing a Halloween costume next to her daughter in a wheelchair and her young son.' width='620' height='349' title='Amanda Creamer&apos;s step-daughter Daria Alcamo, 12, often feels left out during events like trick-or-treating due to accessibility barriers she faces using a wheelchair. She says events like the Accessible Halloween Village are a way to include children of all abilities.'/><p>Community members in Brampton are aiming to make Halloween more accessible for children with mobility issues and other disabilities. They created a flat, low-barrier and low-sensory environment that mimicked a residential street where kids and their families could trick-or-treat and participate in activities.</p>]]></description>
+         <pubDate>Sat, 31 Oct 2026 19:24:22 EDT</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7404419</guid>
+         <dc:creator>Isha Bhargava</dc:creator>
+         <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -67,9 +69,9 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[AFC Toronto powers past Ottawa Rapid with 4-2 win in NSL semi final]]></title>
+         <title><![CDATA[Hunter's brace paces Toronto in 4-2 win over Ottawa in first leg of NSL semifinal]]></title>
          <link>https://www.cbc.ca/sports/soccer/afc-toronto-ottawa-rapid-fc-recap-oct-31-9.7403163?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/0d51e4a1-989c-48fa-926c-b9c64bfe8363,1793478608613/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Kaylee Hunter for AFC Toronto on October 31, 2026.' width='620' height='349' title='Kaylee Hunter for AFC Toronto on October 31, 2026.'/><p>AFC Toronto put on an entertaining display in front of their home supporters, scoring four goals to secure a 4-2 win in NSL action at York Lions Stadium on Saturday.</p>]]></description>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/0d51e4a1-989c-48fa-926c-b9c64bfe8363,1793478608613/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Kaylee Hunter for AFC Toronto on October 31, 2026.' width='620' height='349' title='Kaylee Hunter for AFC Toronto on October 31, 2026.'/><p>Kaylee Hunter scored two goals in leading AFC Toronto to a 4-2 victory over Ottawa Rapid FC in the first leg of their Northern Super League semifinal matchup on Saturday.</p>]]></description>
          <pubDate>Sat, 31 Oct 2026 17:39:19 EDT</pubDate>
          <category>Sports/Soccer</category>
          <guid isPermaLink="false">9.7403163</guid>
