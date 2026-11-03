@@ -6,13 +6,24 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Tue, 03 Nov 2026 04:51:44 EST</lastBuildDate>
+      <lastBuildDate>Tue, 03 Nov 2026 12:51:30 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[Man dead, SIU investigating after overnight incident at U of T Mississauga: police]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/police-activity-utm-student-residence-9.7406776?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/a8f1f457-5957-4b84-a82a-a85dc1cb8865,1793681180065/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C284%2C4032%2C2268%29%3B' alt='UTM active threat scene police activity' width='620' height='349' title='UTM active threat scene police activity'/><p>Police say one person has been found dead and a shelter-in-place order that was issued late Monday has been lifted after officers responded to a dangerous weapons call at a University of Toronto dormitory in Mississauga.</p>]]></description>
+         <pubDate>Mon, 02 Nov 2026 22:36:58 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7406776</guid>
+         <dc:creator>Olivia Piercey, Amy van den Berg</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[Toronto hoping to negotiate new deal with Ontario amid financial uncertainty]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/toronto-ontario-new-deal-negotiations-9.7406275?cmp=rss</link>
@@ -25,18 +36,18 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[Lockdown at University of Toronto Mississauga partially lifted]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/police-activity-utm-student-residence-9.7406776?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/a8f1f457-5957-4b84-a82a-a85dc1cb8865,1793681180065/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C284%2C4032%2C2268%29%3B' alt='UTM active threat scene police activity' width='620' height='349' title='UTM active threat scene police activity'/><p>A shelter-in-place order issued as police responded to a dangerous weapons call at a University of Toronto dormitory in Mississauga has been partially lifted.</p>]]></description>
-         <pubDate>Mon, 02 Nov 2026 22:36:58 EST</pubDate>
+         <title><![CDATA[Road worker dead after being struck by dump truck in Pickering: police]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/road-worker-dies-pickering-dump-truck-9.7407060?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.6811167,1769534073370/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B' alt='A close up of the Durham Regional Police decal on a car. ' width='620' height='349' title='Durham Police located a woman with life threatening injuries at approximately 5:00 AM.'/><p>A road worker has died after being struck by a dump truck in Pickering, Ont., Monday, Durham police say.</p>]]></description>
+         <pubDate>Tue, 03 Nov 2026 09:55:22 EST</pubDate>
          <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7406776</guid>
+         <guid isPermaLink="false">9.7407060</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[Hundreds of food delivery drivers protest downtown to demand dignity, fair pay from employers]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/hundreds-of-food-delivery-drivers-protest-downtown-to-demand-dignity-fair-pay-from-employers-9.7406695?cmp=rss</link>
+         <title><![CDATA[Hundreds of food delivery drivers protest downtown to demand dignity, fair pay from companies]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/hundreds-of-food-delivery-drivers-protest-downtown-to-demand-dignity-fair-pay-from-companies-9.7406695?cmp=rss</link>
          <description><![CDATA[<img src='https://i.cbc.ca/ais/6ea921b7-641e-4b23-9b6f-585642a68431,1793670631089/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='RAW DELIVERY DRIVER RALLY.Sub.01.cvtSeq.transfer_frame_31529' width='620' height='349' title='RAW DELIVERY DRIVER RALLY.Sub.01.cvtSeq.transfer_frame_31529'/><p>Hundreds of delivery drivers gathered at a protest in downtown Toronto on Monday to demand that their employers provide dignity and fair pay.</p>]]></description>
          <pubDate>Mon, 02 Nov 2026 21:31:22 EST</pubDate>
          <category>News/Canada/Toronto</category>
@@ -209,16 +220,6 @@
          <pubDate>Sun, 01 Nov 2026 04:00:00 EST</pubDate>
          <guid isPermaLink="false">9.7403469</guid>
          <dc:type>video</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Woman dies in hospital after stabbing in North York, police investigate as homicide]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/north-york-stabbing-homicide-toronto-police-9.7404705?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/a1cbcdc6-e551-4d05-a35b-31a9ae9c5509,1793541920794/full/max/0/default.jpg?im=Crop%2Crect%3D%2812%2C0%2C951%2C534%29%3B' alt='A toronto police vehicle outside a residential building' width='620' height='349' title='A woman has died in hospital after she was found with stab wounds on Oct. 31, 2026, Toronto police say.'/><p>Toronto police are investigating a homicide in North York after a woman died in hospital with stab wounds on Friday.</p>]]></description>
-         <pubDate>Sun, 01 Nov 2026 08:45:53 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7404705</guid>
-         <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
    </channel>
