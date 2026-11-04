@@ -6,13 +6,23 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Tue, 03 Nov 2026 18:21:29 EST</lastBuildDate>
+      <lastBuildDate>Tue, 03 Nov 2026 19:40:48 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[Specialty food bank that caters to Durham Region residents looking for home indoors]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/whitby-specialty-food-bank-need-indoor-home-9.7408073?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/f48e5be4-57b1-4209-9603-0a7782b8f5bc,1793747030564/full/max/0/default.jpg?im=Crop%2Crect%3D%28133%2C0%2C2765%2C1555%29%3B' alt='Whitby Specialty Food Bank' width='620' height='349' title='Whitby Specialty Food Bank'/><p>A food bank that caters to residents in Durham Region with complex health and dietary needs is looking for a new home indoors.</p>]]></description>
+         <pubDate>Tue, 03 Nov 2026 19:06:19 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7408073</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[Arrests made in protests of Bloor Street bike lane removal intended to quell dissent, lawyers allege]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/bike-lane-removal-protest-arrestees-lawyers-speak-out-9.7407678?cmp=rss</link>
@@ -36,6 +46,15 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
+         <title><![CDATA[Why Mississauga, Brampton residents should care about the U.S. midterms]]></title>
+         <link>https://www.cbc.ca/player/play/9.7408167?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/2715b934-1a9b-49f5-81df-0f3035032d74,1793749488512/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='' width='620' height='349' title=''/><p>With Americans heading to the polls Tuesday, CBC’s Nav Nanwa examines how the U.S. midterm results could ripple through Peel’s automotive and steel sectors.</p>]]></description>
+         <pubDate>Tue, 03 Nov 2026 19:05:42 EST</pubDate>
+         <guid isPermaLink="false">9.7408167</guid>
+         <dc:type>video</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
          <title><![CDATA[Man dead, SIU investigating after incident at U of T Mississauga: police]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/police-activity-utm-student-residence-9.7406776?cmp=rss</link>
          <description><![CDATA[<img src='https://i.cbc.ca/ais/a8f1f457-5957-4b84-a82a-a85dc1cb8865,1793681180065/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C284%2C4032%2C2268%29%3B' alt='UTM active threat scene police activity' width='620' height='349' title='UTM active threat scene police activity'/><p>Police say one person has been found dead and a shelter-in-place order that was issued late Monday has been lifted after officers responded to a dangerous weapons call at a University of Toronto dormitory in Mississauga.</p>]]></description>
@@ -44,6 +63,15 @@
          <guid isPermaLink="false">9.7406776</guid>
          <dc:creator>Olivia Piercey, Amy van den Berg</dc:creator>
          <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[What you need to know about this year's flu season in Ontario]]></title>
+         <link>https://www.cbc.ca/player/play/9.7408152?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.1507001,1711375929000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C851%2C478%29%3B' alt='Close-up of man sneezing into a wad of tissues. ' width='620' height='349' title='The head of the Ontario Medical Association says requiring employees to provide a sick note has a &quot;discouraging effect&quot; and ends up sending sick people to waiting rooms, where they can infect others. '/><p>Want to avoid the flu this season? CBC's Talia Ricci has you covered with what you need to know.</p>]]></description>
+         <pubDate>Tue, 03 Nov 2026 19:00:19 EST</pubDate>
+         <guid isPermaLink="false">9.7408152</guid>
+         <dc:type>video</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -188,37 +216,6 @@
          <pubDate>Mon, 02 Nov 2026 14:53:34 EST</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7406086</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Man faces impaired driving charges after fiery crash in Whitby leaves woman dead]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/fatal-collision-highway-401-whitby-9.7405325?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/27c2ad86-8460-4432-aab4-8740e2e6dd04,1793647334215/full/max/0/default.jpg?im=Crop%2Crect%3D%286%2C0%2C1073%2C603%29%3B' alt='fatal 401 crash' width='620' height='349' title='fatal 401 crash'/><p>A driver is facing impaired driving charges after a fiery collision on Highway 401 on Sunday left a woman dead, police say.</p>]]></description>
-         <pubDate>Mon, 02 Nov 2026 08:26:47 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7405325</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Garden suite built under new Toronto city planning rules upsets neighbours]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/garden-suites-city-planning-neighbours-9.7403101?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/a7cdb25c-07b9-47e9-b97a-f9b36a6584b6,1793392805664/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C493%2C3622%2C2037%29%3B' alt='Sandy Chambers stands by her back fence. The neighbour&apos;s garden suite, which went up this past summer, is in the background.' width='620' height='349' title='Sandy Chambers stands by her back fence. The neighbour&apos;s garden suite, which went up this past summer, is in the background.'/><p>Fed up with what she calls a violation of her backyard privacy, an East York woman is going public with her campaign to have new garden suites limited to just one storey.</p>]]></description>
-         <pubDate>Mon, 02 Nov 2026 04:00:00 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7403101</guid>
-         <dc:creator>Michael Smee</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Toronto child-care workers reach deal after month-long lockout]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/ideal-child-services-childcare-lockout-9.7405874?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/e4d968de-c5a9-41d2-8f8d-18b5c07a83f0,1791503572650/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Child care centres lockout' width='620' height='349' title='Child care centres lockout'/><p>Workers at unionized child-care centres in Toronto have reached a tentative deal with non-profit Ideal Child Services, bringing an end to a month-long lockout.</p>]]></description>
-         <pubDate>Mon, 02 Nov 2026 12:49:27 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7405874</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
