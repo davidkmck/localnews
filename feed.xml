@@ -6,13 +6,24 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Thu, 05 Nov 2026 19:21:40 EST</lastBuildDate>
+      <lastBuildDate>Thu, 05 Nov 2026 22:45:46 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[2 women, 2 children, struck by vehicle in Richmond Hill, Ont.: police]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/pedestrians-children-struck-vehicle-richmond-hill-9.7411587?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/dee60114-e6be-4ee1-b806-4df3f55e37cb,1793927988664/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A yellow police tape at an intersection.' width='620' height='349' title=''/><p>York Regional Police say four pedestrians, including two children, were struck by a vehicle in Richmond Hill, north of Toronto, on Thursday afternoon.</p>]]></description>
+         <pubDate>Thu, 05 Nov 2026 20:21:47 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7411587</guid>
+         <dc:creator>Sadeen Mohsen</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[Toronto fire chief welcomes new lithium-ion regulations in record-setting year for battery fires]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/toronto-lithium-ion-battery-fire-regulations-9.7411152?cmp=rss</link>
@@ -25,13 +36,24 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[12 arrested in GTA for allegedly trying to buy sex from minor, police warn of growing problem]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/durham-child-sexual-exploitation-arrests-human-trafficking-9.7410683?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/bebbeded-0a0d-41d9-a631-73a5924f4207,1793913878313/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C510%2C4896%2C2754%29%3B' alt='A close up of a person on their smartphone.' width='620' height='349' title='Officers sometimes post fake online ads and pose on their phones as underage sex workers. (Evan Mitsui/CBC)'/><p>Durham police are warning of a rise in human trafficking involving children in the region, after they arrested 12 men for allegedly trying to obtain sexual services from someone they believed was a minor.</p>]]></description>
-         <pubDate>Thu, 05 Nov 2026 16:34:30 EST</pubDate>
+         <title><![CDATA[From groceries to tax credits, how much is in the federal budget for your wallet?]]></title>
+         <link>https://www.cbc.ca/news/business/budget-2026-gas-groceries-affordability-9.7411104?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/9b190b09-4d1f-4735-adae-5e34117f413d,1793846443973/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C419%2C5357%2C3013%29%3B' alt='A man in a coat stands looking at a selection of fruit in a grocery store' width='620' height='349' title='Loblaws customers shop at a Toronto-area grocery store on March 6, 2025.'/><p>The 2026 budget increases payments for the Canada Groceries and Essentials Benefit, expands a tax credit for low-wage workers and makes the Canada caregiver credit refundable. But the affordability measures are mostly for the short term, and took a back seat to measures aimed at boosting investment.</p>]]></description>
+         <pubDate>Thu, 05 Nov 2026 16:04:48 EST</pubDate>
+         <category>News/Business</category>
+         <guid isPermaLink="false">9.7411104</guid>
+         <dc:creator>Abby Hughes</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Toronto bar faces 60-day liquor licence suspension after customer death]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/st-louis-bar-and-grill-liquor-licence-suspension-9.7411337?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/bf05985b-b90e-40b7-9c91-5e1ffcd64a26,1793918551657/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8640%2C4860%29%3B' alt='A hand fills up a glass of alcohol.' width='620' height='349' title='A bartender pours a beer at Donnellans Irish Pub on Granville Street in Vancouver, B.C., on Friday, Oct. 17, 2025.'/><p>Ontario's alcohol regulator is moving to suspend the liquor licence of a St. Louis Bar & Grill location in Toronto, after a customer who was served the equivalent of 21 drinks died from falling down the stairs.</p>]]></description>
+         <pubDate>Thu, 05 Nov 2026 18:06:05 EST</pubDate>
          <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7410683</guid>
-         <dc:creator>Alina Snisarenko</dc:creator>
+         <guid isPermaLink="false">9.7411337</guid>
+         <dc:creator>Eleanor Yuneun Park</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -47,23 +69,23 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
+         <title><![CDATA[12 arrested in GTA for allegedly trying to buy sex from minor, police warn of growing problem]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/durham-child-sexual-exploitation-arrests-human-trafficking-9.7410683?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/bebbeded-0a0d-41d9-a631-73a5924f4207,1793913878313/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C510%2C4896%2C2754%29%3B' alt='A close up of a person on their smartphone.' width='620' height='349' title='Officers sometimes post fake online ads and pose on their phones as underage sex workers. (Evan Mitsui/CBC)'/><p>Durham police are warning of a rise in human trafficking involving children in the region, after they arrested 12 men for allegedly trying to obtain sexual services from someone they believed was a minor.</p>]]></description>
+         <pubDate>Thu, 05 Nov 2026 16:34:30 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7410683</guid>
+         <dc:creator>Alina Snisarenko</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
          <title><![CDATA[Why the U.S. midterm election is affecting GTA gas prices]]></title>
          <link>https://www.cbc.ca/player/play/9.7411400?cmp=rss</link>
          <description><![CDATA[<img src='https://i.cbc.ca/ais/91ce62c1-0827-4307-8240-eb200c524065,1774046766116/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C405%2C7780%2C4376%29%3B' alt='A gas station with cars driving past' width='620' height='349' title='A gas station is seen in Toronto, on Thursday, April 18, 2024'/><p>Gas prices have been dropping this week in Toronto. And the U.S. midterms have something to do with it. Here's what you need to know.</p>]]></description>
          <pubDate>Thu, 05 Nov 2026 18:50:18 EST</pubDate>
          <guid isPermaLink="false">9.7411400</guid>
          <dc:type>video</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Toronto bar faces 60-day liquor license suspension after customer death]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/st-louis-bar-and-grill-liquor-license-suspension-9.7411337?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/bf05985b-b90e-40b7-9c91-5e1ffcd64a26,1793918551657/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8640%2C4860%29%3B' alt='A hand fills up a glass of alcohol.' width='620' height='349' title='A bartender pours a beer at Donnellans Irish Pub on Granville Street in Vancouver, B.C., on Friday, Oct. 17, 2025.'/><p>Ontario's alcohol regulator is moving to suspend the liquor licence of a St. Louis Bar & Grill location in Toronto, after a customer who was served the equivalent of 21 drinks died from falling down the stairs.</p>]]></description>
-         <pubDate>Thu, 05 Nov 2026 18:06:05 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7411337</guid>
-         <dc:creator>Eleanor Yuneun Park</dc:creator>
-         <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -203,27 +225,6 @@
          <category>News/Politics</category>
          <guid isPermaLink="false">9.7409464</guid>
          <dc:creator>John Paul Tasker</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Amazon workers in Toronto area launch organizing drive with help of Unifor]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/amazon-organizing-drive-gta-unifor-9.7410060?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/eb139703-19bc-448f-a29b-ea5eb83a012e,1793842099569/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C289%2C3518%2C1978%29%3B' alt='Lana Payne' width='620' height='349' title='Lana Payne'/><p>A group of Amazon employees packed a hall in Scarborough on Wednesday to launch an organizing drive across fulfillment centres in the Greater Toronto Area with the help of Canada's largest private sector union.</p>]]></description>
-         <pubDate>Wed, 04 Nov 2026 21:44:24 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7410060</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Canadian military flying ace William Barker commemorated with new statue on Yonge Street]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/william-barker-statue-unveiled-9.7409742?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/71b39d0f-3613-48f2-b95c-c2815d8aa81a,1793831676458/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='The face of a bronze statue of William Barker in a Canadian Air Force uniform.' width='620' height='349' title='The statue memorializes Barker&apos;s contributions to Canada’s military history and to Toronto, said John Wright, founding chair of the RCAF Foundation.'/><p>A new statue of a Canadian World War I flying ace was unveiled in Toronto Wednesday afternoon, the latest effort to breathe life into his memory, which his grandson said was nearly lost to time.</p>]]></description>
-         <pubDate>Wed, 04 Nov 2026 18:18:35 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7409742</guid>
-         <dc:creator>Olivia Piercey</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
