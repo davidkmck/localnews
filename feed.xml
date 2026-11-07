@@ -6,13 +6,24 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Fri, 06 Nov 2026 21:52:03 EST</lastBuildDate>
+      <lastBuildDate>Sat, 07 Nov 2026 08:38:36 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[Problematic or protected? The debate over filming police in real time]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/posting-police-positions-social-media-real-time-utm-9.7412643?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/ab8772f3-a7e5-4b4d-bc0e-60092539365f,1794008489627/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B' alt='Photo of someone&apos;s Instagram messages and police on the right side.' width='620' height='349' title='Peel police say the sharing of videos of officers during Monday&apos;s standoff at UTM is problematic and a safety concern. However, legal experts say while it&apos;s not illegal, there are grey areas.'/><p>Social media posts showing real-time positions of police officers in a standoff with an armed suspect at the University of Toronto's Mississauga campus on Monday night prompted a stern warning from police, but legal experts say the law isn't clear-cut on the issue.</p>]]></description>
+         <pubDate>Sat, 07 Nov 2026 04:00:00 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7412643</guid>
+         <dc:creator>Isha Bhargava</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[Man convicted in deadly 2018 Toronto van attack drops appeal]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/toronto-van-attack-minassian-appeal-9.7412958?cmp=rss</link>
@@ -213,16 +224,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7410462</guid>
          <dc:creator>Arrthy Thayaparan</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Victim in fatal North York stabbing identified: police]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/north-york-stabbing-victim-identified-9.7411076?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/98996004-41d1-4aaf-b7b3-4903caf2ce2d,1793910982490/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3B' alt='A woman with blonde hair and a red shirt looks into the camera.' width='620' height='349' title=''/><p>A woman who was fatally stabbed in an incident that left two people dead has been identified by Toronto police.</p>]]></description>
-         <pubDate>Thu, 05 Nov 2026 15:34:07 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7411076</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
