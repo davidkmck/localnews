@@ -6,13 +6,24 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Fri, 06 Nov 2026 16:15:53 EST</lastBuildDate>
+      <lastBuildDate>Fri, 06 Nov 2026 20:14:48 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[Hitachi Rail opens new Canadian headquarters in Scarborough]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/hitachi-rail-canadian-headquarters-scarborough-official-opening-9.7413209?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/d6550915-50b7-45be-9323-d5ef00845ed2,1794008451301/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Hitachi Rail - Arnaud Besse' width='620' height='349' title='Hitachi Rail - Arnaud Besse'/><p>Hitachi Rail officially opened its new Canadian headquarters in Scarborough on Friday. The headquarters will be the base for more than 1,100 employees and 100 paid interns a year, it says.</p>]]></description>
+         <pubDate>Fri, 06 Nov 2026 19:52:56 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7413209</guid>
+         <dc:creator>Muriel Draaisma</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[Blue Jays player faces backlash after reposting Islamophobic content on social media following U.S. midterms]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/blue-jays-player-backlash-anti-muslim-reposts-9.7412209?cmp=rss</link>
@@ -21,6 +32,37 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7412209</guid>
          <dc:creator>Gabriela Silva Ponte</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Man charged after woman fatally stabbed in North York, police say]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/homicide-investigation-9.7412371?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/84426c0e-3c4d-48f2-abb8-da82e9c7666f,1794014080254/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C1618%2C910%29%3B' alt='Kathleen Scarlett homicide victim' width='620' height='349' title='Kathleen Scarlett homicide victim'/><p>A man has been arrested and charged after a woman was fatally stabbed in North York on Friday morning, Toronto police say.</p>]]></description>
+         <pubDate>Fri, 06 Nov 2026 12:51:11 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7412371</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Man convicted in deadly 2018 Toronto van attack drops appeal]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/toronto-van-attack-minassian-appeal-9.7412958?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.5934745,1614821844000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C233%2C4000%2C2250%29%3B' alt='' width='620' height='349' title='Despite an Ont. judge finding he man accused of Toronto&apos;s deadly van attack in 2018 guilty on 10 counts of first-degree murder, there is still concern among the autism community that the trial itself, which used autism as a defence, further stigmatized those with the disorder.'/><p>The man who carried out a deadly van attack in Toronto eight years ago is no longer challenging his more than two dozen convictions.</p>]]></description>
+         <pubDate>Fri, 06 Nov 2026 17:14:29 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7412958</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[U.S. sanctions Canadian money-exchange businesses allegedly connected to Iranian regime, Ryan Wedding]]></title>
+         <link>https://www.cbc.ca/news/canada/us-government-sanctions-canadian-businesses-iran-transactions-9.7413168?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/302c1354-9583-4627-8acb-f62deba730f4,1794006249073/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6000%2C3375%29%3B' alt='A man in a suit and glasses.' width='620' height='349' title='U.S. Treasury Secretary Scott Bessent in Washington, D.C., in September.'/><p>The United States government has announced sanctions against several Canadian currency-exchange businesses accused of helping the Iranian regime and, in several cases, also helping the alleged head of a drug trafficking ring.</p>]]></description>
+         <pubDate>Fri, 06 Nov 2026 18:51:59 EST</pubDate>
+         <category>News/Canada</category>
+         <guid isPermaLink="false">9.7413168</guid>
+         <dc:creator>Rhianna Schmunk</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -43,16 +85,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7412205</guid>
          <dc:creator>Arrthy Thayaparan</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Woman dead, man arrested after stabbing in North York: Toronto police]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/homicide-investigation-9.7412371?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/830d0485-f832-4530-b6a6-eb5a5892ae01,1793992844775/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C384%2C4032%2C2268%29%3B' alt='Jane and Wilson homicide' width='620' height='349' title='Jane and Wilson homicide'/><p>Toronto police are investigating a homicide after a woman died in a stabbing in North York Friday morning.</p>]]></description>
-         <pubDate>Fri, 06 Nov 2026 12:51:11 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7412371</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -193,39 +225,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7409569</guid>
          <dc:creator>Isaac Callan</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Carney's new budget aims to end homelessness in 10 years]]></title>
-         <link>https://www.cbc.ca/news/politics/budget-homelessness-canada-decade-9.7411226?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/cd212095-3f69-465a-990d-af74421f7df1,1793915289672/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C160%2C3066%2C1724%29%3B' alt='A person is shown sleeping under a red blanked on the street.' width='620' height='349' title='A person sleeps on the street in downtown Montreal, on Monday, Sept. 10, 2026.'/><p>Canada is embarking on a path to end homelessness in 10 years, Finance Minister François-Philippe Champagne said as he presented the federal budget on Thursday.</p>]]></description>
-         <pubDate>Thu, 05 Nov 2026 16:57:16 EST</pubDate>
-         <category>News/Politics</category>
-         <guid isPermaLink="false">9.7411226</guid>
-         <dc:creator>Sophia Laporte</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[2 arrested, police searching for suspect after Mississauga apartment building allegedly set on fire twice]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/mississauga-arson-investigation-arrests-9.7410466?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/746d2781-20b3-496a-b1b8-8a51f5ce9f62,1790032715713/full/max/0/default.jpg?im=Crop%2Crect%3D%28161%2C0%2C1753%2C986%29%3B' alt='Two fire trucks and multiple police cruisers parked outside a Mississauga apartment building.' width='620' height='349' title='A fire crews rescued over a dozen people from balconies on the third and fourth floors Monday morning as smoke made evacuating through the buildings’ stairwells difficult, deputy fire Chief Ryan Baird, told reporters.'/><p>Two people have been arrested and police are searching for a third in connection with two fires they allege were deliberately set in September at a Mississauga apartment building.</p>]]></description>
-         <pubDate>Thu, 05 Nov 2026 10:38:24 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7410466</guid>
-         <dc:creator>Jyoti Sharma</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Ontario court certifies class action against Toronto long-term care home for negligence, COVID-19 deaths]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/class-action-downsview-long-term-care-gem-healthcare-9.7410212?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/782eb4f3-f539-4a6e-ab7d-52c329873fea,1793880113072/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3600%2C2025%29%3B' alt='Line of ambulances while paramedics wheel a person into emergency centre' width='620' height='349' title='A lawsuit alleging that gross negligence at Downsview Long-Term Care Centre Limited led to hundreds of deaths from COVID-19 has been certified as a class action.'/><p>An Ontario Superior Court judge granted the class action certification last week for a lawsuit alleging that gross negligence at a Toronto long-term care home led to hundreds of deaths from COVID-19.</p>]]></description>
-         <pubDate>Thu, 05 Nov 2026 07:40:35 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7410212</guid>
-         <dc:creator>Paola Loriggio</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
