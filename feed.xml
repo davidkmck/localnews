@@ -6,13 +6,24 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Sat, 07 Nov 2026 20:19:00 EST</lastBuildDate>
+      <lastBuildDate>Sun, 08 Nov 2026 04:00:00 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[An Ontario nature sanctuary home to over 70 rare species will now be protected for generations to come]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/conservation-group-helps-to-secure-future-of-rare-old-growth-forest-on-lake-ontario-9.7412692?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/10429ce5-a0ba-4e9e-8607-b440afffc0a9,1793994470305/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Shores of lake Ontario at the edge of Whitby shown next to a forested area.' width='620' height='349' title='The conservation group, known as Ontario Nature, said its recent acquisition of the nature reserve known as Thickson&apos;s Woods in Whitby, Ont., will help ensure its conservation for generations to come.'/><p>A nature sanctuary in Whitby, Ont., home to over 70 rare species, some of which are at-risk, is now part of the Ontario Nature reserve system after its acquisition of the forested area from its previous land trust owners last week.</p>]]></description>
+         <pubDate>Sun, 08 Nov 2026 04:00:00 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7412692</guid>
+         <dc:creator>Christian D'Avino</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[Problematic or protected? The debate over filming police in real time]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/posting-police-positions-social-media-real-time-utm-9.7412643?cmp=rss</link>
@@ -212,17 +223,6 @@
          <category>News/Canada</category>
          <guid isPermaLink="false">9.7410440</guid>
          <dc:creator>Jeremy McDonald, Rosa Marchitelli, Jeremy Grimaldi, Daniela Silva</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[From groceries to tax credits, how much is in the federal budget for your wallet?]]></title>
-         <link>https://www.cbc.ca/news/business/budget-2026-gas-groceries-affordability-9.7411104?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/9b190b09-4d1f-4735-adae-5e34117f413d,1793846443973/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C419%2C5357%2C3013%29%3B' alt='A man in a coat stands looking at a selection of fruit in a grocery store' width='620' height='349' title='Loblaws customers shop at a Toronto-area grocery store on March 6, 2025.'/><p>The 2026 budget increases payments for the Canada Groceries and Essentials Benefit, expands a tax credit for low-wage workers and makes the Canada caregiver credit refundable. But the affordability measures are mostly for the short term, and took a back seat to measures aimed at boosting investment.</p>]]></description>
-         <pubDate>Thu, 05 Nov 2026 16:04:48 EST</pubDate>
-         <category>News/Business</category>
-         <guid isPermaLink="false">9.7411104</guid>
-         <dc:creator>Abby Hughes</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
