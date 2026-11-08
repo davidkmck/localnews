@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Sun, 08 Nov 2026 04:00:00 EST</lastBuildDate>
+      <lastBuildDate>Sun, 08 Nov 2026 10:49:16 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -21,6 +21,16 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7412692</guid>
          <dc:creator>Christian D'Avino</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Fire at Vaughan restaurant investigated as possible arson: York police]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/vaughan-fire-arson-york-police-9.7414072?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/8334c6ef-693f-44e4-8e5f-0506c7bafdde,1794151945699/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C610%2C5712%2C3213%29%3B' alt='A police vehicle outside of a Shawarma restaurant' width='620' height='349' title='York police are investigating a fire that is suspected to be a case of arson in Vaughan on Sunday morning.'/><p>York police are investigating a suspected case of arson after a fire at Shawarma Royale in Vaughan on Sunday morning.</p>]]></description>
+         <pubDate>Sun, 08 Nov 2026 08:43:36 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7414072</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -212,17 +222,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7411152</guid>
          <dc:creator>Isaac Callan</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Hidden cameras reveal accessibility barriers at leading restaurants]]></title>
-         <link>https://www.cbc.ca/news/canada/accessibility-barriers-restaurants-9.7410440?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/a4adb4c9-76ea-424d-b7ca-5f626aa8d5ec,1793895475960/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='Image of a power door button.' width='620' height='349' title='Image of a power door button.'/><p>Malfunctioning power door operators, inaccessible self-service kiosks and the inability to get a braille menu were among the issues people with disabilities faced while eating out as part of a Marketplace investigation into accessibility at fast-food and full-service restaurants in Ontario.</p>]]></description>
-         <pubDate>Fri, 06 Nov 2026 04:00:00 EST</pubDate>
-         <category>News/Canada</category>
-         <guid isPermaLink="false">9.7410440</guid>
-         <dc:creator>Jeremy McDonald, Rosa Marchitelli, Jeremy Grimaldi, Daniela Silva</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
