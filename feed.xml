@@ -6,13 +6,46 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Thu, 12 Nov 2026 20:51:47 EST</lastBuildDate>
+      <lastBuildDate>Fri, 13 Nov 2026 04:00:00 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[U of T music community celebrates beloved professor Mary Morrison's 100th birthday]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/u-of-t-professor-turns-100-mary-morrison-9.7420019?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/c4c4fb47-6829-4406-a3ee-ab401970e06c,1794528004828/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='An older woman with glasses and white hair slightly smiles.' width='620' height='349' title='Mary Morrison, adjunct professor of voice at the University of Toronto’s faculty of music turned 100 this week.'/><p>Hundreds came together to celebrate the 100th birthday of a beloved music professor at the University of Toronto this week, along with her decades-long career teaching and performing opera.</p>]]></description>
+         <pubDate>Fri, 13 Nov 2026 04:00:00 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7420019</guid>
+         <dc:creator>Nathan Abraha</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[They called her 'Mommy': Vulnerable senior dies after 2 strangers take over her life]]></title>
+         <link>https://www.cbc.ca/news/canada/vulnerable-senior-death-9.7416801?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/3b1275bb-c966-4e56-b06c-753471de51a9,1794414486400/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C83%2C1099%2C618%29%3B' alt='A photo showing two men, Elton John Rambarrat and Daniel Gopie, and an elderly woman, Dorelia Licorish, superimposed in front of Licorish&apos;s Toronto home.' width='620' height='349' title='Elton John Rambarrat, left, and Daniel Gopie moved into Dorelia Licorish’s Toronto home and began calling her ‘Mommy.’ She signed a will leaving them everything, then she died.'/><p>Two men moved into an elderly Toronto woman's home and began claiming to be like her sons. She quickly gave them powers of attorney and signed a will, leaving them everything. Then she died.</p>]]></description>
+         <pubDate>Fri, 13 Nov 2026 04:00:00 EST</pubDate>
+         <category>News/Canada</category>
+         <guid isPermaLink="false">9.7416801</guid>
+         <dc:creator>Krista Hessey, Linda Guerriero, Ioanna Roumeliotis</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Brantford, Ont., man seeks answers after car catches fire in family home's driveway]]></title>
+         <link>https://www.cbc.ca/news/canada/hamilton/car-fire-driveway-brantford-9.7418322?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/18c0c80c-b84e-446a-8d53-7ea6e4839fda,1794501453862/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2304%2C1296%29%3B' alt='Two charred cars sit in a driveway before a burned garage door.' width='620' height='349' title='Irfan Walji of Brantford, Ont., lost two cars and his garage in a fire this past summer. CBC News blurred the licence plate to protect his privacy.'/><p>A Brantford, Ont., resident wants to know why his family's car caught fire in their driveway so he can raise awareness to other people about how to prevent it from happening to them. Unfortunately, he says, answers are hard to come by.</p>]]></description>
+         <pubDate>Fri, 13 Nov 2026 04:00:00 EST</pubDate>
+         <category>News/Canada/Hamilton</category>
+         <guid isPermaLink="false">9.7418322</guid>
+         <dc:creator>Justin Chandler</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[New Scotiabank Arena priority program puts members at the front of the line — at price tag of $2,500]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/scotiabank-arena-priority-membership-9.7419709?cmp=rss</link>
@@ -109,9 +142,9 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[Microsoft says services being slowly restored after widespread outages across its platforms]]></title>
+         <title><![CDATA[Microsoft outage continues as planned fixes are not working as expected, company says]]></title>
          <link>https://www.cbc.ca/news/world/microsoft-outage-9.7419814?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/77cd0183-96e3-41de-9b89-5e01d9f82761,1794520111017/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C208%2C4000%2C2250%29%3B' alt='The Microsoft logo magnified on a website' width='620' height='349' title='FILE PHOTO: Microsoft logo in this illustration taken November 6, 2026.'/><p>Microsoft said it was returning some of its affected servers to full service late Thursday afternoon, after widespread outages hit many of its platforms including Outlook, with users encountering trouble using their email accounts and other errors across the tech giant's suite of apps.</p>]]></description>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/77cd0183-96e3-41de-9b89-5e01d9f82761,1794520111017/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C208%2C4000%2C2250%29%3B' alt='The Microsoft logo magnified on a website' width='620' height='349' title='FILE PHOTO: Microsoft logo in this illustration taken November 6, 2026.'/><p>A widespread Microsoft outage that began Thursday afternoon continues to affect many of the tech giant's apps and tools, including email, Teams and and Copilot.</p>]]></description>
          <pubDate>Thu, 12 Nov 2026 17:15:24 EST</pubDate>
          <category>News/World</category>
          <guid isPermaLink="false">9.7419814</guid>
@@ -190,36 +223,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7418589</guid>
          <dc:creator>Olivia Piercey</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[3 teens charged after man's turban removed, beer poured on him on Barrie bus: police]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/barrie-hate-offences-teens-charges-9.7418399?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/e0b9f1b3-26ea-49d7-8770-c6d148f07ef5,1794431885209/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C212%2C2048%2C1152%29%3B' alt='A woman boards a bus wearing a blue backpack' width='620' height='349' title=''/><p>Three teens have been charged with hate-motivated offences after two assaults on Barrie transit buses last Sunday, police say, including one that saw a man's turban removed and beer poured on him.</p>]]></description>
-         <pubDate>Wed, 11 Nov 2026 16:37:31 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7418399</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Lest we forget: Toronto residents gather to honour veterans, fallen soldiers on Remembrance Day]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/remembrance-day-where-to-mark-toronto-9.7417067?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/9518fd9c-a7ee-471b-8cbd-d6b2bef43f43,1794344397296/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C645%2C4000%2C2250%29%3B' alt='Honour guards are stationed at the cenotaph during the Remembrance Day ceremony in Toronto, Friday, Nov. 11, 2022. THE CANADIAN PRESS/Tijana Martin' width='620' height='349' title='Honour guards are stationed at the cenotaph during the Remembrance Day ceremony in Toronto, Friday, Nov. 11, 2022. THE CANADIAN PRESS/Tijana Martin'/><p>On Remembrance Day, residents across the city came together to honour those who lost their lives while serving Canada, and to recognize the service and sacrifice of veterans and members of the Armed Forces.</p>]]></description>
-         <pubDate>Wed, 11 Nov 2026 04:00:00 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7417067</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Man given life sentences for 2024 double murder in Oshawa]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/man-life-sentence-oshawa-double-murder-24-9.7418304?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.6811167,1769534073370/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B' alt='A close up of the Durham Regional Police decal on a car. ' width='620' height='349' title='Durham Police located a woman with life threatening injuries at approximately 5:00 AM.'/><p>Mark Gordon was sentenced to two life sentences without the possibility of parole for 21 years in the shooting deaths of Patrick Montgomery, 42, and Andrieana Montgomery, 42.</p>]]></description>
-         <pubDate>Wed, 11 Nov 2026 15:06:19 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7418304</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
