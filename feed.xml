@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Fri, 13 Nov 2026 18:55:06 EST</lastBuildDate>
+      <lastBuildDate>Fri, 13 Nov 2026 22:17:07 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -14,9 +14,9 @@
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
       <item>
-         <title><![CDATA[Planes grounded across the U.S.: What you need to know if you’re flying from a Toronto airport]]></title>
+         <title><![CDATA[Flight delays may continue at Pearson Airport as U.S. ground stop lifted, NAV Canada says]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/toronto-pearson-airport-faa-ground-stop-9.7421481?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/f1a473f2-50d8-4cf2-9e20-46dad5ddaae6,1794607034535/full/max/0/default.jpg?im=Crop%2Crect%3D%28229%2C694%2C5270%2C2964%29%3B' alt='International passengers arrive at Pearson International Airport in Toronto, Ont. on Wednesday, Feb.11, 2026. US sanctions against oil getting to Cuba has caused jet fuel shortages and flight delays from the Caribbean nation. THE CANADIAN PRESS/Jon B' width='620' height='349' title='International passengers arrive at Pearson International Airport in Toronto, Ont. on Wednesday, Feb.11, 2026. US sanctions against oil getting to Cuba has caused jet fuel shortages and flight delays from the Caribbean nation. THE CANADIAN PRESS/Jon Blacker'/><p>A ground stop issued by the U.S. Federal Aviation Administration is impacting flights between Toronto Pearson Airport and the U.S., according to the airport.</p>]]></description>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/f1a473f2-50d8-4cf2-9e20-46dad5ddaae6,1794607034535/full/max/0/default.jpg?im=Crop%2Crect%3D%28229%2C694%2C5270%2C2964%29%3B' alt='International passengers arrive at Pearson International Airport in Toronto, Ont. on Wednesday, Feb.11, 2026. US sanctions against oil getting to Cuba has caused jet fuel shortages and flight delays from the Caribbean nation. THE CANADIAN PRESS/Jon B' width='620' height='349' title='International passengers arrive at Pearson International Airport in Toronto, Ont. on Wednesday, Feb.11, 2026. US sanctions against oil getting to Cuba has caused jet fuel shortages and flight delays from the Caribbean nation. THE CANADIAN PRESS/Jon Blacker'/><p>Flights at Toronto Pearson International Airport may continue to be delayed on Friday night after an order that grounded all planes in the U.S. was lifted, NAV Canada says.</p>]]></description>
          <pubDate>Fri, 13 Nov 2026 17:08:10 EST</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7421481</guid>
@@ -25,9 +25,9 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[Flights grounded across U.S. due to outage affecting air traffic control, FAA says]]></title>
+         <title><![CDATA[U.S. flights cleared to take off again after ground stop order caused thousands of delays and cancellations]]></title>
          <link>https://www.cbc.ca/news/world/livestory/faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421404?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/9c5a0344-b844-4188-b916-54980145b12a,1794605870386/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C884%2C8491%2C4776%29%3B' alt='A plane at an airport.' width='620' height='349' title='A plane at Chicago O&apos;Hare International Airport in 2025.'/><p></p>]]></description>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/80c77054-0cc3-42cc-9397-fcd22d821606,1794626178616/full/max/0/default.jpg?im=Crop%2Crect%3D%28269%2C771%2C7619%2C4285%29%3B' alt='Silhouetted people sit in front of an airport window.' width='620' height='349' title='Travellers wait at a United airlines terminal as flights are delayed at Los Angeles International Airport Friday, Nov. 13, 2026, in Los Angeles.'/><p></p>]]></description>
          <pubDate>Fri, 13 Nov 2026 16:37:14 EST</pubDate>
          <category>News/World</category>
          <guid isPermaLink="false">9.7421404</guid>
@@ -63,6 +63,17 @@
          <category>News/Canada</category>
          <guid isPermaLink="false">9.7420000</guid>
          <dc:creator>Jessica Wong</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Moncton, B.C. man charged in child luring case has 'spent time in' Ontario, RCMP say]]></title>
+         <link>https://www.cbc.ca/news/canada/new-brunswick/timothy-roy-child-luring-moncton-rcmp-photo-nova-scotia-labrador-ontario-b-c-9.7420904?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/a12c29bd-693e-41b6-905d-c6a000d6e0c0,1794594008572/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3B' alt='A man with short, dark hair, wearing a black sweater.' width='620' height='349' title='Timothy Roy, 45, of Moncton, appeared in Moncton provincial court on Sept. 18 for a bail hearing and was remanded into custody.'/><p>New Brunswick RCMP have released the photo of a Moncton man facing several charges in connection with a child luring investigation, as well as a list of communities he has "spent time in" across Canada to encourage people with information to come forward.</p>]]></description>
+         <pubDate>Fri, 13 Nov 2026 17:34:50 EST</pubDate>
+         <category>News/Canada/New Brunswick</category>
+         <guid isPermaLink="false">9.7420904</guid>
+         <dc:creator>Bobbi-Jean MacKinnon</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -212,16 +223,6 @@
          <pubDate>Thu, 12 Nov 2026 19:11:37 EST</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7419709</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Youth sentenced to 2 years for Toronto-area synagogue shootings, police say]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/ont-synagogue-shootings-sentence-9.7420160?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/6dfd6d02-85b7-4e8a-80ea-b9fda7ca666e,1794529669660/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C5000%2C2812%29%3B' alt='Pedestrians pass by a police car parked outside Shaarei Shomayim synagogue in Toronto, on Sunday, March 8, 2026. The synagogue was struck with gunfire overnight. THE CANADIAN PRESS/Sammy Kogan' width='620' height='349' title='Pedestrians pass by a police car parked outside Shaarei Shomayim synagogue in Toronto, on Sunday, March 8, 2026. The synagogue was struck with gunfire overnight. THE CANADIAN PRESS/Sammy Kogan'/><p>The chief of police in a region north of Toronto says a youth has been sentenced after he pleaded guilty to shooting at two synagogues.</p>]]></description>
-         <pubDate>Thu, 12 Nov 2026 19:37:55 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7420160</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
