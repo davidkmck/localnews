@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Sun, 15 Nov 2026 16:42:05 EST</lastBuildDate>
+      <lastBuildDate>Sun, 15 Nov 2026 22:45:18 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -31,6 +31,17 @@
          <pubDate>Sun, 15 Nov 2026 05:00:00 EST</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7422387</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Toronto Tempo earn No. 1 pick after winning 2027 WNBA draft lottery]]></title>
+         <link>https://www.cbc.ca/sports/basketball/wnba-draft-lottery-recap-9.7422985?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/9d6af0bd-ed09-4218-86cb-0cefe478a016,1794789446605/full/max/0/default.jpg?im=Crop%2Crect%3D%28178%2C75%2C749%2C421%29%3B' alt='The Toronto Tempo logo is shown on the back of a sweater.' width='620' height='349' title='At 32.9 per cent, the Toronto Tempo, along with the Houston Comets, had a one-in-three chance at winning the 2027 WNBA draft lottery on Sunday.'/><p>The Toronto Tempo have won the WNBA Draft Lottery to pick first overall. University of Southern California guard JuJu Watkins is considered the top prospect in the 2027 draft class.</p>]]></description>
+         <pubDate>Sun, 15 Nov 2026 19:57:11 EST</pubDate>
+         <category>Sports/Basketball</category>
+         <guid isPermaLink="false">9.7422985</guid>
+         <dc:creator>John Chidley-Hill</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -209,17 +220,6 @@
          <category>News/World</category>
          <guid isPermaLink="false">9.7421404</guid>
          <dc:type>livestory</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA['Crypto King' Aiden Pleterski testifies he was beaten, tortured during alleged kidnapping]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-kidnapping-trial-9.7421121?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/6f805e35-1a56-4879-bb15-37a72d0f391b,1791233269722/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C118%2C5343%2C3005%29%3B' alt='A man wearing a gray suit and sunglasses outside of a courthouse.' width='620' height='349' title='Aiden Pleterski, who went by the moniker ‘Crypto King,’ enters the Superior Court of Justice building, in Toronto, on Oct. 5, 2026.'/><p>Self-described "Crypto King" Aiden Pleterski described being beaten with a gun and tortured with knives and a lighter in the back of a truck as he began his testimony at the trial of his alleged kidnappers Friday in Toronto.</p>]]></description>
-         <pubDate>Fri, 13 Nov 2026 17:44:26 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7421121</guid>
-         <dc:creator>Nicole Brockbank</dc:creator>
-         <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
    </channel>
