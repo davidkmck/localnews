@@ -6,13 +6,23 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Mon, 16 Nov 2026 19:53:51 EST</lastBuildDate>
+      <lastBuildDate>Mon, 16 Nov 2026 20:48:43 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[U of T's plan to address discrimination against Muslims, Arabs, Palestinians 'insufficient': prof]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/university-of-toronto-anti-muslim-arab-palestinian-report-response-insufficient-9.7424527?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/2cdfdb4a-991f-45d9-b6f2-5c59cf3d89b2,1788727338917/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5000%2C2812%29%3B' alt='Brown building with green roof stands behind a grey sign that reads &apos;University of Toronto&apos; in blue letters.' width='620' height='349' title='Toronto, Ontario, May 2014, University of Toronto, buildings, sign, building, (David Donnelly/CBC)'/><p>The University of Toronto's plans to address discrimination against Muslims, Arabs and Palestinians on its campuses are "wholly insufficient," says the author of a report that found the school has a "general pattern of over-policing and under-protecting" these groups.</p>]]></description>
+         <pubDate>Mon, 16 Nov 2026 20:45:21 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7424527</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA['Crypto King' Aiden Pleterski testifies about escape attempt during alleged kidnapping]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-escape-attempt-9.7424448?cmp=rss</link>
@@ -210,16 +220,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7423378</guid>
          <dc:creator>Sadeen Mohsen</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Milton, Ont., to replace Canada's longest-serving mayor]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/milton-first-new-mayor-46-years-9.7423333?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/dfb36435-07e6-45c6-8ad2-0a9a13fdba11,1794836910720/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5472%2C3078%29%3B' alt='Drone shots of the Milton water tower.' width='620' height='349' title='George Minakakis is set to be sworn in as mayor of Milton, Ont. He won the job over his predecessor, Gordon Krantz, who held the job for 46 years.'/><p>The town of Milton is set to swear in a new mayor for the first time since 1980. George Minakakis and eight regional and town councillors will take their oaths of office at the council's inaugural meeting Monday night.</p>]]></description>
-         <pubDate>Mon, 16 Nov 2026 09:12:12 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7423333</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
