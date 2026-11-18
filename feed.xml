@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Tue, 17 Nov 2026 19:43:38 EST</lastBuildDate>
+      <lastBuildDate>Wed, 18 Nov 2026 04:00:00 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -14,13 +14,23 @@
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
       <item>
-         <title><![CDATA['Crypto King' or 'Lying King'? Aiden Pleterski says he was neither at alleged kidnappers' trial]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-trial-cross-exam-9.7425424?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/6f805e35-1a56-4879-bb15-37a72d0f391b,1791233269722/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C118%2C5343%2C3005%29%3B' alt='A man wearing a gray suit and sunglasses outside of a courthouse.' width='620' height='349' title='Aiden Pleterski, who went by the moniker ‘Crypto King,’ enters the Superior Court of Justice building, in Toronto, on Oct. 5, 2026.'/><p>Aiden Pleterski denied ever calling himself the "Crypto King" — or paying for a Forbes sponsored article that did — under cross-examination at the trial for his alleged kidnappers in Toronto on Tuesday.</p>]]></description>
-         <pubDate>Tue, 17 Nov 2026 16:31:34 EST</pubDate>
+         <title><![CDATA[Toronto’s new council is meeting for the first time. Here's who is new and what to expect]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/toronto-council-first-meeting-2026-9.7424770?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/cb29f784-27c0-40a1-a21e-5ac05b3466d3,1794922724377/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B' alt='An aerial (drone) shot shows Toronto City Hall at sunset and twilight.' width='620' height='349' title='Aerial (drone) images of Toronto City Hall at sunset and twilight.'/><p>Toronto's mayor and 25 councillors will take part in their first council meeting Wednesday, where they will swear an oath of office and Olivia Chow will make her first speech. There are seven new faces on the council floor this term.</p>]]></description>
+         <pubDate>Wed, 18 Nov 2026 04:00:00 EST</pubDate>
          <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7425424</guid>
-         <dc:creator>Nicole Brockbank</dc:creator>
+         <guid isPermaLink="false">9.7424770</guid>
+         <dc:creator>Isaac Callan</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Part of new bill would prevent lawsuits against Ontario government over OSAP pause]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/ontario-government-legislation-osap-pause-9.7426005?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/9bd66015-1d5f-4b81-850f-d8b6a027839c,1794963819273/full/max/0/default.jpg?im=Crop%2Crect%3D%28293%2C634%2C5272%2C2965%29%3B' alt='Ontario Minister of Colleges and Universities Nolan Quinn speaks to reporters during a scrum at Queen&apos;s Park, the Ontario Legislature, in Toronto on Tuesday, Oct. 27, 2026. THE CANADIAN PRESS/Arlyn McAdorey' width='620' height='349' title='Ontario Minister of Colleges and Universities Nolan Quinn speaks to reporters during a scrum at Queen&apos;s Park, the Ontario Legislature, in Toronto on Tuesday, Oct. 27, 2026. THE CANADIAN PRESS/Arlyn McAdorey'/><p>The Ontario government is taking steps to protect itself from lawsuits related to its provincewide pause on financial assistance payments to students at private post-secondary institutions.</p>]]></description>
+         <pubDate>Tue, 17 Nov 2026 21:03:35 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7426005</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -32,6 +42,17 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7425350</guid>
          <dc:creator>Isha Bhargava</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA['Crypto King' or 'Lying King'? Aiden Pleterski says he was neither at alleged kidnappers' trial]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-trial-cross-exam-9.7425424?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/6f805e35-1a56-4879-bb15-37a72d0f391b,1791233269722/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C118%2C5343%2C3005%29%3B' alt='A man wearing a gray suit and sunglasses outside of a courthouse.' width='620' height='349' title='Aiden Pleterski, who went by the moniker ‘Crypto King,’ enters the Superior Court of Justice building, in Toronto, on Oct. 5, 2026.'/><p>Aiden Pleterski denied ever calling himself the "Crypto King" — or paying for a Forbes sponsored article that did — under cross-examination at the trial for his alleged kidnappers in Toronto on Tuesday.</p>]]></description>
+         <pubDate>Tue, 17 Nov 2026 16:31:34 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7425424</guid>
+         <dc:creator>Nicole Brockbank</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -201,27 +222,6 @@
          <pubDate>Mon, 16 Nov 2026 18:29:39 EST</pubDate>
          <guid isPermaLink="false">9.7424287</guid>
          <dc:type>video</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Inquest into death of Mississauga man shot by police in 2020 hears from Peel constable]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/francique-inquest-hears-from-constable-9.7423825?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/4f035da3-20ec-4502-af20-889a3be2982e,1794592847401/full/max/0/default.jpg?im=Crop%2Crect%3D%2868%2C0%2C864%2C486%29%3B' alt='Jamal Francique' width='620' height='349' title=''/><p>A police constable told a coroner's inquest Monday he was concerned about the risk of an ambush as he approached a car that had crashed into a pillar after it was hit by police gunfire during a botched arrest in Mississauga, Ont., nearly seven years ago.</p>]]></description>
-         <pubDate>Mon, 16 Nov 2026 12:42:33 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7423825</guid>
-         <dc:creator>Paola Loriggio</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Ontario's medical regulator hit with legal challenge over safer supply drug changes]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/safer-supply-ontario-changes-pause-9.7424145?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/6c045a85-882a-4548-9da0-3a2bbc448c52,1794864225513/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7867%2C4425%29%3B' alt='A close up image of a needle.' width='620' height='349' title='A client draws up fentanyl as he visits the consumption room at Moss Park Consumption and Treatment Service in Toronto, Tuesday, Dec. 3, 2024. THE CANADIAN PRESS/Chris Young'/><p>Ontario's medical regulator is hitting pause on implementing a host of changes to the ways doctors prescribe safer supply drugs after it was served with a legal challenge.</p>]]></description>
-         <pubDate>Mon, 16 Nov 2026 16:42:11 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7424145</guid>
-         <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
    </channel>
