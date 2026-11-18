@@ -6,13 +6,24 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Wed, 18 Nov 2026 04:00:00 EST</lastBuildDate>
+      <lastBuildDate>Wed, 18 Nov 2026 10:53:09 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[Ontario proposes raising minimum fines for excessive vehicle noise to $200]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/excessive-vehicle-noise-penalty-proposed-legislation-9.7426407?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/2d29eb16-7d89-42c8-9d4c-6446d656426d,1730477761333/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C125%2C4454%2C2505%29%3B' alt='A man wearing a navy blue suit and pagri.' width='620' height='349' title='Transportation Minister Prabmeet Sarkaria holds a press conference, at Queens Park, in Toronto, on Oct. 21, 2024  the first day of the fall legislative session.'/><p>The province is attempting to reduce excessive vehicle noise with a proposed increase to fines for offending drivers. Municipalities, police services and residents across the province have been calling for harsher penalties as a stronger deterrent for drivers, says Transportation Minister Prabmeet Sarkaria.</p>]]></description>
+         <pubDate>Wed, 18 Nov 2026 10:53:09 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7426407</guid>
+         <dc:creator>Arrthy Thayaparan</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[Toronto’s new council is meeting for the first time. Here's who is new and what to expect]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/toronto-council-first-meeting-2026-9.7424770?cmp=rss</link>
@@ -21,6 +32,27 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7424770</guid>
          <dc:creator>Isaac Callan</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[From frontlines to city hall: Newly elected advocates determined to fix Toronto's housing, homelessness crisis]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/housing-homelessness-toronto-city-council-advocates-9.7426171?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/fb8aafdf-11c8-4002-9290-e40933e8baf9,1788916278558/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C232%2C5699%2C3205%29%3B' alt='A homeless person&apos;s tent under the Gardiner Expressway at Lake Shore Boulevard West and York Street on March 24, 2023.. See tent, fly and belongings under the road beside the on-ramp. Recent city data shows Toronto saw an average of more than three d' width='620' height='349' title='A homeless person&apos;s tent under the Gardiner Expressway at Lake Shore Boulevard West and York Street on March 24, 2023.. See tent, fly and belongings under the road beside the on-ramp. Recent city data shows Toronto saw an average of more than three deaths per week among people experiencing homelessness last year, totaling 187 deaths in 2022.'/><p>Toronto's newly elected city council includes well-known housing rights activists and advocates supporting the homeless population. They say they're bringing their lived experiences and expertise to the council table.</p>]]></description>
+         <pubDate>Wed, 18 Nov 2026 07:29:12 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7426171</guid>
+         <dc:creator>Sharif Hassan</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Waymo temporarily pulls robotaxis from U.S. highways]]></title>
+         <link>https://www.cbc.ca/news/business/waymo-california-ban-9.7426164?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/515a7fba-4920-4521-a315-d8f8c761884c,1795005051960/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C577%2C5542%2C3117%29%3B' alt='The back of a small vehicle is the focus on a roadway, with two other cars shown on either side of it.' width='620' height='349' title='The Waymo Ojai autonomous vehicle, a Chinese-made electric vehicle manufactured by Zeekr, travels along a major Los Angeles freeway through Hawthorne, California, US, October 13, 2026. A person sits in the driver&apos;s seat. REUTERS/Mike Blake'/><p>Waymo has temporarily stopped offering driverless taxi rides on freeways after California banned the vehicles from state freeways following recent traffic incidents.</p>]]></description>
+         <pubDate>Wed, 18 Nov 2026 07:45:44 EST</pubDate>
+         <category>News/Business</category>
+         <guid isPermaLink="false">9.7426164</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -191,37 +223,6 @@
          <guid isPermaLink="false">9.7424448</guid>
          <dc:creator>Nicole Brockbank</dc:creator>
          <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[12 men charged in Peel auto theft bust after 96 vehicles recovered from shipping containers]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/peel-regional-police-auto-theft-bust-9.7424009?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/3f222324-0452-4d1f-bd5b-2aa30b4a2de3,1794859868149/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C761%2C428%29%3B' alt='Peel Regional Police stolen vehicles' width='620' height='349' title='Peel Regional Police stolen vehicles'/><p>Twelve men have been arrested after Peel Regional Police say they recovered 96 stolen vehicles, worth an estimated $4.5 million, from shipping containers destined for West Africa.</p>]]></description>
-         <pubDate>Mon, 16 Nov 2026 17:20:57 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7424009</guid>
-         <dc:creator>Muriel Draaisma</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Ontario tables new law introducing stronger legal protections for victims of intimate image abuse]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/ford-government-omnibus-bill-queens-park-image-abuse-9.7424114?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/3e65eabe-ae58-4a2e-9ed4-7300ca4e5724,1794863332449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B' alt='An areial photo of Queen&apos;s park from the front, with fall foliage around it.' width='620' height='349' title='Aerial (drone) images of Queen&apos;s Park - The Legislative Assembly of Ontario. Ontario politicians returned to Queen&apos;s Park on October 27, 2026, after a 147-day summer break for  23-day legislative session.'/><p>Ontario Premier Doug Ford's government tabled a bill Monday that would create a new legal pathway for victims of intimate image abuse to have those images deleted.</p>]]></description>
-         <pubDate>Mon, 16 Nov 2026 16:23:19 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7424114</guid>
-         <dc:creator>Allison Jones</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Who is JuJu Watkins? Meet the USC star who could transform the Toronto Tempo]]></title>
-         <link>https://www.cbc.ca/player/play/9.7424287?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/250034c0-b9cf-4a11-9cee-67b6d87e8c7c,1794871757667/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C512%2C3666%2C2062%29%3B' alt='A head and shoulders of a basketball player.' width='620' height='349' title='LAS VEGAS, NEVADA - NOVEMBER 02: JuJu Watkins #12 of the USC Trojans waits to shoot a free throw against the UNLV Lady Rebels in the first quarter of a Naismith Basketball Hall of Fame Series game at T-Mobile Arena on November 02, 2026 in Las Vegas, Nevada. The Trojans defeated the Lady Rebels 100-68. (Photo by Ethan Miller/Getty Images)'/><p>The Toronto Tempo just won the number one overall pick in the 2027 WNBA draft — and USC superstar JuJu Watkins could be the franchise-changing talent they've been waiting for, provided she declares for the draft.</p>]]></description>
-         <pubDate>Mon, 16 Nov 2026 18:29:39 EST</pubDate>
-         <guid isPermaLink="false">9.7424287</guid>
-         <dc:type>video</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
    </channel>
