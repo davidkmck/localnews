@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Wed, 18 Nov 2026 19:06:37 EST</lastBuildDate>
+      <lastBuildDate>Thu, 19 Nov 2026 01:18:09 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -14,9 +14,19 @@
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
       <item>
-         <title><![CDATA[Ontario English public elementary teachers vote 97% in favour of strike action, union says]]></title>
+         <title><![CDATA[Woman in her 40s dead after being struck by Eglinton Crosstown in Toronto, police say]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/pedestrian-struck-eglinton-crosstown-scarborough-9.7427660?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/c007045e-cba3-4df5-bc43-370eb2f3b291,1795055677874/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5712%2C3213%29%3B' alt='fatal collision Eglinton' width='620' height='349' title='fatal collision Eglinton'/><p>A woman in her 40s is dead after she was struck by an Eglinton Crosstown vehicle in Toronto on Wednesday evening, police say.</p>]]></description>
+         <pubDate>Wed, 18 Nov 2026 21:21:10 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7427660</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Ontario English public elementary teachers, education workers vote 97% in favour of strike action, union says]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/etfo-strike-vote-results-9.7427325?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/0bea4533-5871-4a58-8c5f-090f832ae67d,1795041393364/full/max/0/default.jpg?im=Crop%2Crect%3D%28126%2C0%2C8424%2C4738%29%3B' alt='School bags hang on pegs at an elementary school in Toronto on Tuesday, January 9, 2024. THE CANADIAN PRESS/Chris Young' width='620' height='349' title='School bags hang on pegs at an elementary school in Toronto on Tuesday, January 9, 2024. THE CANADIAN PRESS/Chris Young'/><p>Ontario English public elementary teachers have voted 97 per cent in favour of strike action, the union that represents them said Wednesday.</p>]]></description>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/0bea4533-5871-4a58-8c5f-090f832ae67d,1795041393364/full/max/0/default.jpg?im=Crop%2Crect%3D%28126%2C0%2C8424%2C4738%29%3B' alt='School bags hang on pegs at an elementary school in Toronto on Tuesday, January 9, 2024. THE CANADIAN PRESS/Chris Young' width='620' height='349' title='School bags hang on pegs at an elementary school in Toronto on Tuesday, January 9, 2024. THE CANADIAN PRESS/Chris Young'/><p>Ontario English public elementary teachers and education workers have voted 97 per cent in favour of strike action, the union that represents them said Wednesday.</p>]]></description>
          <pubDate>Wed, 18 Nov 2026 18:24:21 EST</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7427325</guid>
@@ -212,17 +222,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7425118</guid>
          <dc:creator>Allison Jones</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Kwakwaka’wakw artist has dream come true with Bata Shoe Museum exhibition]]></title>
-         <link>https://www.cbc.ca/news/indigenous/jamie-gentry-brilliant-beaded-moccasins-9.7424874?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/7549ce04-f6ac-4c67-9158-5a663366e305,1794955080012/full/max/0/default.jpg?im=Crop%2Crect%3D%28292%2C673%2C790%2C444%29%3B' alt='A woman stands in a black-painted doorway.' width='620' height='349' title='Kwakwaka’wakw Nation artist Jamie Gentry has achieved a dream by having their beaded moccasins displayed in the Bata Shoe Museum.'/><p>The Bata Shoe Museum's new exhibition Brilliant showcases beaded footwear, including a pair made by Kwakwaka’wakw artist Jamie Gentry.</p>]]></description>
-         <pubDate>Tue, 17 Nov 2026 17:52:47 EST</pubDate>
-         <category>News/Indigenous</category>
-         <guid isPermaLink="false">9.7424874</guid>
-         <dc:creator>Gregory Conway</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
