@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Sat, 21 Nov 2026 17:16:02 EST</lastBuildDate>
+      <lastBuildDate>Sat, 21 Nov 2026 19:39:52 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -20,6 +20,26 @@
          <pubDate>Sat, 21 Nov 2026 16:35:51 EST</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7431298</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Environment Canada reissues yellow fog advisory across GTA]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/fog-advisory-gta-9.7431194?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/72cec454-e639-4fab-94e4-a10cb29baacc,1795307780007/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3178%2C1787%29%3B' alt='Intense fog blankets city' width='620' height='349' title='default Aerial (drone) images of Foggy Toronto evening'/><p>Environment Canada reissued a yellow level fog advisory across the Greater Toronto Area Saturday.</p>]]></description>
+         <pubDate>Sat, 21 Nov 2026 08:26:20 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7431194</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Santa Claus is coming to Toronto this weekend — and bringing a long list of road closures]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/road-closures-ttc-service-changes-santa-claus-parade-9.7430379?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.7391004,1732302661000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B' alt='Santa Claus standing on a float with reindeer, waving to people below ' width='620' height='349' title='Santa Claus waving to his Toronto fans after a long journey from the North Pole at the 2023 parade. '/><p>As the holiday season inches closer, Toronto is holding its annual Santa Claus parade this weekend — and with it, come road closures and TTC service changes.</p>]]></description>
+         <pubDate>Fri, 20 Nov 2026 15:45:41 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7430379</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -56,6 +76,15 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
+         <title><![CDATA[Canadian para climbers set sights on LA 2028 Paralympic Games]]></title>
+         <link>https://www.cbc.ca/player/play/9.7431532?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/dd8b98e3-9712-4555-b9a9-29761a0cb22c,1795302808598/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A para climber dressed in all black ascends on an indoor rock climbing wall.' width='620' height='349' title='Para climbing will make its debut at the LA 2028 Paralympic Games and Canadian athletes are working towards a chance to represent the country'/><p>Para climbing will make its debut at the LA 2028 Paralympic Games and Canadian athletes are working towards a chance to represent the country. CBC’s Mercedes Gaztambide met up with some of the climbers hoping to reach new heights.</p>]]></description>
+         <pubDate>Sat, 21 Nov 2026 18:16:54 EST</pubDate>
+         <guid isPermaLink="false">9.7431532</guid>
+         <dc:type>video</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
          <title><![CDATA[Toronto Zoo reviews animal habitats following Fiona the Hippo's death]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/toronto-zoo-reviews-animal-habitats-fiona-hippo-death-9.7431399?cmp=rss</link>
          <description><![CDATA[<img src='https://i.cbc.ca/ais/1.6935000,1691864132000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C159%2C1440%2C810%29%3B' alt='Exterior shot of the Toronto Zoo welcome sign.' width='620' height='349' title='Exterior shot of the Toronto Zoo welcome sign.'/><p>The Toronto Zoo says it has reviewed several animal habitats after the famed hippo Fiona died after swallowing a hat in Ohio this week.</p>]]></description>
@@ -83,16 +112,6 @@
          <pubDate>Sat, 21 Nov 2026 14:28:31 EST</pubDate>
          <guid isPermaLink="false">9.7431053</guid>
          <dc:type>video</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Environment Canada lifts yellow fog advisory across GTA]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/fog-advisory-gta-9.7431194?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/3cdc37c1-d496-4006-b9d3-75152a494df4,1795266875951/full/max/0/default.jpg?im=Crop%2Crect%3D%2846%2C115%2C3826%2C2152%29%3B' alt='A foggy walkway' width='620' height='349' title='Heavy fog covered a park near Rouge Hill GO Station in Scarborough on Nov. 21, 2026.'/><p>Environment Canada has lifted a yellow level fog advisory that was issued across the Greater Toronto Area on Saturday.</p>]]></description>
-         <pubDate>Sat, 21 Nov 2026 08:26:20 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7431194</guid>
-         <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
@@ -148,16 +167,6 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[Santa Claus is coming to Toronto this weekend — and bringing a long list of road closures]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/road-closures-ttc-service-changes-santa-claus-parade-9.7430379?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.7391004,1732302661000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B' alt='Santa Claus standing on a float with reindeer, waving to people below ' width='620' height='349' title='Santa Claus waving to his Toronto fans after a long journey from the North Pole at the 2023 parade. '/><p>As the holiday season inches closer, Toronto is holding its annual Santa Claus parade this weekend — and with it, come road closures and TTC service changes.</p>]]></description>
-         <pubDate>Fri, 20 Nov 2026 15:45:41 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7430379</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
          <title><![CDATA[All Ontario teachers' unions vote in favour of strike action]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/ontario-teachers-unions-vote-strike-action-9.7430571?cmp=rss</link>
          <description><![CDATA[<img src='https://i.cbc.ca/ais/1.7457471,1795218323533/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C155%2C8002%2C4501%29%3B' alt='A classroom is shown with chairs turned upside down and placed on top of desks, their tennis-ball covered legs sticking up into the air. The classroom is empty of students and is brightly lit.' width='620' height='349' title='A classroom is seen in an elementary school in Longueuil, Que., Monday, March 11, 2024.'/><p>Five unions representing more than 250,000 teachers and education workers held strike votes this week, before central bargaining is set to begin before the end of the month.</p>]]></description>
@@ -207,17 +216,6 @@
          <category>News/Politics</category>
          <guid isPermaLink="false">9.7430142</guid>
          <dc:creator>Darren Major, Janyce McGregor, Peter Zimonjic</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Vote for next leader of Ontario Liberals to conclude on Friday]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/b8981fa4-243c-40c7-b589-af80d311eba5,1795172846483/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B' alt='Closeup composite image of 4 people' width='620' height='349' title='Ontario Liberal Party leadership candidates are pictured left to right, Lee Fairclough, Dylan Marando, Navdeep Bains and Stephanie Bowman, at the party&apos;s leadership debate in Brampton, Ont., on Monday, Aug. 10, 2026.'/><p>Ontario Liberals wrap up a long leadership race Saturday, and, they hope, an even longer stretch without a long-term leader, as the party gets set to name the person they have selected to shepherd them into the next election.</p>]]></description>
-         <pubDate>Fri, 20 Nov 2026 06:23:49 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7429478</guid>
-         <dc:creator>Allison Jones</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
