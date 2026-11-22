@@ -6,13 +6,33 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Sun, 22 Nov 2026 05:00:00 EST</lastBuildDate>
+      <lastBuildDate>Sun, 22 Nov 2026 12:31:24 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
          <url>https://www.cbc.ca/rss/image/cbc_144.gif</url>
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
+      <item>
+         <title><![CDATA[2 teens dead, 1 injured after shooting at Scarborough gas station: Toronto police]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/toronto-police-scarborough-shooting-fatal-9.7431726?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/67401e08-d546-4efb-b165-13506146bafe,1795360477567/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C390%2C4032%2C2268%29%3B' alt='Crime scene with clothes on floor' width='620' height='349' title='Toronto police are investigating a homicide after three people were shot in Scarborough on Nov. 22, 2026, with two of them later succumbing to their injuries in hospital.'/><p>Toronto police are investigating a homicide after two 16-year-old boys died and another sustained serious injuries following a shooting in Scarborough in the early hours of Sunday.</p>]]></description>
+         <pubDate>Sun, 22 Nov 2026 08:20:06 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7431726</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Santa Claus is coming to Toronto on Sunday — and bringing a long list of road closures]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/road-closures-ttc-service-changes-santa-claus-parade-9.7430379?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.7391004,1732302661000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B' alt='Santa Claus standing on a float with reindeer, waving to people below ' width='620' height='349' title='Santa Claus waving to his Toronto fans after a long journey from the North Pole at the 2023 parade. '/><p>As the holiday season inches closer, Toronto is holding its annual Santa Claus parade this weekend — and with it, come road closures and TTC service changes.</p>]]></description>
+         <pubDate>Fri, 20 Nov 2026 15:45:41 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7430379</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
       <item>
          <title><![CDATA[Bains faces serious challenge rebuilding Ontario's Liberal party, insiders say]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/navdeep-bains-liberal-leader-9.7431590?cmp=rss</link>
@@ -63,16 +83,6 @@
          <pubDate>Sat, 21 Nov 2026 08:26:20 EST</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7431194</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Santa Claus is coming to Toronto this weekend — and bringing a long list of road closures]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/road-closures-ttc-service-changes-santa-claus-parade-9.7430379?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.7391004,1732302661000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B' alt='Santa Claus standing on a float with reindeer, waving to people below ' width='620' height='349' title='Santa Claus waving to his Toronto fans after a long journey from the North Pole at the 2023 parade. '/><p>As the holiday season inches closer, Toronto is holding its annual Santa Claus parade this weekend — and with it, come road closures and TTC service changes.</p>]]></description>
-         <pubDate>Fri, 20 Nov 2026 15:45:41 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7430379</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -207,17 +217,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7430571</guid>
          <dc:creator>Jenna Olsen</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Images of Canada's most wanted are AI-generated. How do we know they're accurate?]]></title>
-         <link>https://www.cbc.ca/news/canada/bolo-program-canada-fugitives-police-ai-9.7428331?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/4a252707-e7a5-4529-8904-65bed180ffea,1795202323598/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A grid of yellow-and-black WANTED/RECHERCHÉ cards showing AI-generated animations of 25 people' width='620' height='349' title='An image provided by the Bolo Program shows Canada top 25 most-wanted criminals, on Nov. 19, 2026. The images are all AI-generated.'/><p>The new reveal of Canada's top 25 most wanted fugitives might look like something out of the Harry Potter movies. But while the moving images of the men and women used by the Bolo Program aren't magical, they also aren't real — they're AI.</p>]]></description>
-         <pubDate>Fri, 20 Nov 2026 14:51:20 EST</pubDate>
-         <category>News/Canada</category>
-         <guid isPermaLink="false">9.7428331</guid>
-         <dc:creator>Natalie Stechyson</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
