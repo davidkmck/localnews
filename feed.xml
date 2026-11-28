@@ -6,7 +6,7 @@
       <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       <copyright><![CDATA[Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss]]></copyright>
       <docs><![CDATA[https://www.cbc.ca/rss]]></docs>
-      <lastBuildDate>Fri, 27 Nov 2026 13:53:21 EST</lastBuildDate>
+      <lastBuildDate>Fri, 27 Nov 2026 21:08:17 EST</lastBuildDate>
       <atom:link href="https://www.cbc.ca/webfeed/rss/rss-canada-toronto" rel="self" type="application/rss+xml"/>
       <image>
          <title><![CDATA[CBC | Toronto News]]></title>
@@ -14,7 +14,17 @@
          <link>https://www.cbc.ca/news/canada/toronto/?cmp=rss</link>
       </image>
       <item>
-         <title><![CDATA[Crown seeks 25-year sentence for Kenneth Law, who admitted to selling poison]]></title>
+         <title><![CDATA[Coroner's jury deems Jamal Francique's death a homicide, makes 21 recommendations]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/jamal-francique-inquest-homicide-9.7439961?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/4f035da3-20ec-4502-af20-889a3be2982e,1795206778164/full/max/0/default.jpg?im=Crop%2Crect%3D%2868%2C0%2C864%2C486%29%3B' alt='Jamal Francique' width='620' height='349' title=''/><p>A coroner's jury has deemed the death of Jamal Francique after an attempt to arrest him a homicide as it made more than 20 recommendations, most of them aimed at Peel regional police.</p>]]></description>
+         <pubDate>Fri, 27 Nov 2026 19:17:06 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7439961</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Kenneth Law apologizes in court to families of victims]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/kenneth-law-sentencing-hearing-poison-seller-9.7438391?cmp=rss</link>
          <description><![CDATA[<img src='https://i.cbc.ca/ais/1.6831073,1702415985000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C36%2C3877%2C2180%29%3B' alt='A sketch of a man in court looking straight ahead' width='620' height='349' title='Kenneth Law was charged on 14 counts of second-degree murder for allegedly selling poison and aiding multiple deaths on Monday in Ontario. '/><p>Prosecutors are seeking a 25-year sentence for an Ontario man who sold potentially deadly substances online to people who then used those products to take their own lives.</p>]]></description>
          <pubDate>Fri, 27 Nov 2026 07:15:39 EST</pubDate>
@@ -36,28 +46,7 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[Ontario attorney general urges Ottawa to strengthen self-defence rules in case of home invasions]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/116c305a-4868-412c-90d4-6e36f6237303,1731432895567/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A man speaks at a microphone.' width='620' height='349' title=''/><p>Ontario's attorney general and solicitor general have penned a letter to the federal government calling for clarified rules and stronger protections for home owners who protect themselves against home invasions. The letter comes amid an multiple violent home invasions in Toronto this fall, including one this week that left a man dead.</p>]]></description>
-         <pubDate>Fri, 27 Nov 2026 10:34:23 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7438545</guid>
-         <dc:creator>Linus Mulherin</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Man, 34, dead after stabbing on TTC bus in Scarborough]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/fatal-stabbing-scarborough-ttc-bus-9.7438378?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/57f2c42a-056c-41e2-a232-a9e2417e4993,1795778917462/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C985%2C554%29%3B' alt='Police vehicle in front of bus at bus stop.' width='620' height='349' title='A man, who was stabbed on a TTC bus on Nov. 26, 2026, died of his injuries in hospital, Toronto police said.'/><p>Toronto police are investigating after a man died following a stabbing on a TTC bus in Scarborough on Thursday evening. Police are looking for a 40-year-old man wanted for second-degree murder.</p>]]></description>
-         <pubDate>Fri, 27 Nov 2026 06:33:12 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7438378</guid>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA['I agree with the Premier': Ontario gaming minister looks to tighten regulations on gambling ads]]></title>
+         <title><![CDATA['I agree with the premier': Ontario gaming minister looks to tighten regulations on gambling ads]]></title>
          <link>https://www.cbc.ca/news/canada/toronto/ontario-gaming-minister-gambling-ads-9.7438853?cmp=rss</link>
          <description><![CDATA[<img src='https://i.cbc.ca/ais/d0f41db9-36b8-43e0-873a-35381fbd6db0,1795797656152/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C441%2C8468%2C4763%29%3B' alt='Zee Hamid, Minister of Tourism, Culture and Gaming and MPP for Milton in Doug Ford’s Ontario PC caucus, is pictured in Queen’s Park, in Toronto, on Nov. 25, 2026.' width='620' height='349' title='Hamid defended the province&apos;s decision to block a May bill put forward by the Ontario Liberals that would have banned most ads for online gaming. He said more information is needed about the risks and potential benefits.'/><p>Ontario's minister of tourism, culture and gaming said the province is doing everything it can to improve how it regulates online gaming ads, after the premier called the ads "out of control" earlier this week.</p>]]></description>
          <pubDate>Fri, 27 Nov 2026 12:13:45 EST</pubDate>
@@ -68,12 +57,34 @@
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
       <item>
-         <title><![CDATA[Jury in Jamal Francique inquest deliberating recommendations]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/jury-francique-inquest-deliberating-9.7438855?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/4f035da3-20ec-4502-af20-889a3be2982e,1795206778164/full/max/0/default.jpg?im=Crop%2Crect%3D%2868%2C0%2C864%2C486%29%3B' alt='Jamal Francique' width='620' height='349' title=''/><p>The coroner's jury in the inquest into the shooting death of Jamal Francique is deliberating recommendations after hearing from multiple witnesses, including police officers who were on the scene and Francique's mother.</p>]]></description>
-         <pubDate>Fri, 27 Nov 2026 12:06:29 EST</pubDate>
+         <title><![CDATA[The future of the notwithstanding clause is now up to political leaders]]></title>
+         <link>https://www.cbc.ca/news/politics/supreme-court-notwithstanding-bill21-analysis-9.7439500?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/cdc05f65-bbc4-4268-bf45-250b29999a03,1795816649826/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C521%2C6582%2C3702%29%3B' alt='A large grey building is reflected in a puddle.' width='620' height='349' title='The Supreme Court of Canada Building in seen in Ottawa, on Friday, Nov. 27, 2026. THE CANADIAN PRESS/Justin Tang'/><p>The task of governing the use of the notwithstanding clause has been left to the players in the political arena. If invoking the clause is to become politically difficult again, it will be up to political actors.</p>]]></description>
+         <pubDate>Fri, 27 Nov 2026 17:05:42 EST</pubDate>
+         <category>News/Politics</category>
+         <guid isPermaLink="false">9.7439500</guid>
+         <dc:creator>Aaron Wherry</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Ontario attorney general urges Ottawa to strengthen self-defence rules around home invasions]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/116c305a-4868-412c-90d4-6e36f6237303,1731432895567/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A man speaks at a microphone.' width='620' height='349' title=''/><p>Ontario's attorney general and solicitor general have penned a letter to the federal government calling for clarified rules and stronger protections for home owners who protect themselves against home invasions. The letter comes amid an multiple violent home invasions in Toronto this fall, including one this week that left a man dead.</p>]]></description>
+         <pubDate>Fri, 27 Nov 2026 10:34:23 EST</pubDate>
          <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7438855</guid>
+         <guid isPermaLink="false">9.7438545</guid>
+         <dc:creator>Linus Mulherin</dc:creator>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Man surrenders to police after fatal stabbing on TTC bus in Scarborough]]></title>
+         <link>https://www.cbc.ca/news/canada/toronto/fatal-stabbing-scarborough-ttc-bus-9.7438378?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/57f2c42a-056c-41e2-a232-a9e2417e4993,1795778917462/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C985%2C554%29%3B' alt='Police vehicle in front of bus at bus stop.' width='620' height='349' title='A man, who was stabbed on a TTC bus on Nov. 26, 2026, died of his injuries in hospital, Toronto police said.'/><p>A man has surrendered to police after a stabbing on a TTC bus in Scarborough left another man dead on Thursday, police say.</p>]]></description>
+         <pubDate>Fri, 27 Nov 2026 06:33:12 EST</pubDate>
+         <category>News/Canada/Toronto</category>
+         <guid isPermaLink="false">9.7438378</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -84,6 +95,16 @@
          <pubDate>Fri, 27 Nov 2026 11:46:05 EST</pubDate>
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7438839</guid>
+         <dc:type>story</dc:type>
+         <dc:rights>Syndication Allowed</dc:rights>
+      </item>
+      <item>
+         <title><![CDATA[Blue Jays announce 5-year, $80M US contract with Japanese right-hander Kaima Taira]]></title>
+         <link>https://www.cbc.ca/sports/baseball/mlb/kaima-taira-toronto-blue-jays-contract-9.7439352?cmp=rss</link>
+         <description><![CDATA[<img src='https://i.cbc.ca/ais/3085e383-a50e-4f92-9183-ea9261064f19,1795809962337/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C94%2C3000%2C1687%29%3B' alt='Toronto Blue Jays and Japanese male pitcher.' width='620' height='349' title='Kaima Taira is expected to compete for a spot in a Toronto rotation led by Dylan Cease, with José Soriano, Trey Yesavage and Cody Ponce also in the mix.'/><p>Toronto Blue Jays have made their signing of Japanese pitcher Kaima Taira official. The Blue Jays announced in a statement Friday that they have signed the right-hander to a $80 million US, five-year contract. Taira is scheduled to be introduced by the team at a press conference Monday.</p>]]></description>
+         <pubDate>Fri, 27 Nov 2026 15:11:12 EST</pubDate>
+         <category>Sports/Baseball/MLB</category>
+         <guid isPermaLink="false">9.7439352</guid>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
@@ -200,28 +221,6 @@
          <category>News/Canada/Toronto</category>
          <guid isPermaLink="false">9.7436187</guid>
          <dc:creator>Isaac Callan</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Cause of plane crash northeast of Toronto that killed teen undetermined: TSB report]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/tsb-report-plane-crash-16-year-old-boy-9.7437497?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/1.7588896,1752869532000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B' alt='Debris of a crashed upside-down yellow seaplane on a dock in a lake. ' width='620' height='349' title='A teenage boy died after a plane crashed into Lake Scugog, about 93 kilometres northeast of Toronto, said Durham Regional Police. '/><p>The Transportation Safety Board of Canada released its report Thursday on the 2025 floatplane crash that killed a 16-year-old boy when the dock he was standing on was struck by the aircraft attempting to land.</p>]]></description>
-         <pubDate>Thu, 26 Nov 2026 14:38:42 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7437497</guid>
-         <dc:creator>Linus Mulherin</dc:creator>
-         <dc:type>story</dc:type>
-         <dc:rights>Syndication Allowed</dc:rights>
-      </item>
-      <item>
-         <title><![CDATA[Ford, Unifor call on Ottawa to exempt Canadian automakers from exhaust pollution penalties]]></title>
-         <link>https://www.cbc.ca/news/canada/toronto/doug-ford-unifor-exhaust-penalties-ottawa-9.7437680?cmp=rss</link>
-         <description><![CDATA[<img src='https://i.cbc.ca/ais/83a10ccf-6789-4710-9a92-6039b64f8950,1795723434723/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C21%2C4800%2C2700%29%3B' alt='A man speaks at a podium with a microphone, gesturing to the crowd wearing a navy suit with a white dress shirt and blue patterned tie.' width='620' height='349' title='Ontario Premier Doug Ford speaks to the media regarding the federal governments decision to allow Chinese EV&apos;s into Canada at Queen&apos;s Park in Toronto on Wednesday, January 21, 2026.'/><p>Ontario Premier Doug Ford and Unifor president Lana Payne are calling on Ottawa to exempt automakers from penalties for failing to comply with the government's tailpipe emission standards.</p>]]></description>
-         <pubDate>Thu, 26 Nov 2026 15:31:24 EST</pubDate>
-         <category>News/Canada/Toronto</category>
-         <guid isPermaLink="false">9.7437680</guid>
-         <dc:creator>Nick Murray</dc:creator>
          <dc:type>story</dc:type>
          <dc:rights>Syndication Allowed</dc:rights>
       </item>
